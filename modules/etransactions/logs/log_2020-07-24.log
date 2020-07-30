@@ -1,0 +1,10 @@
+2020-07-24 16:57:06 1595602626 DEBUG: URL to check 2
+2020-07-24 16:57:06 1595602626 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-24 16:57:06 1595602626 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-07-24 16:57:06 1595602626 DEBUG: Cart 929: Redirecting customer to E-Transactions (CARTE, CB).
+2020-07-24 16:58:26 1595602706 DEBUG: Call params: M=3830&R=929%20-%20Milene%20GUIOL&T=942573275&A=637647&B=0&C=MasterCard&D=2305&E=00000&F=Y&G=O&I=FRA&J=21&N=513162&O=Y&P=3DSECURE&Q=16%3A57%3A07&S=203864349&W=24072020&Y=FRA&Z=0-0&K=PEcqPHawI7OUtZWdzV08HhNUHZD3SH7aX209yAlZeu6jJ%2FGLjj8kKPK6dRVQdRQEJMqEnadv8ajegquHKTicVOX1dGBpnnQlSOqSxjT2ZBB4hX7GKOOb9UnBpqHGcfvQYLK26aH%2B7zejko%2BChQbqB8wp7dFmeoDqJPi4QYnv1Ng%3D
+2020-07-24 16:58:36 1595602706 DEBUG: Cart 929: Mixed IPN
+2020-07-24 16:58:36 1595602706 DEBUG: Cart 929: First payment
+2020-07-24 16:58:36 1595602706 DEBUG: Cart 929: Validating order
+2020-07-24 16:58:37 1595602706 DEBUG: Cart 929: Order 99 validated, creating details
+2020-07-24 16:58:37 1595602706 DEBUG: Cart 929: Order 99 / Le paiement a été autorisé et capturé par E-Transactions.

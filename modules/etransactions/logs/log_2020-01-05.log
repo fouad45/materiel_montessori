@@ -1,0 +1,10 @@
+2020-01-05 22:17:49 1578259069 DEBUG: URL to check 2
+2020-01-05 22:17:49 1578259069 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-01-05 22:17:49 1578259069 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-01-05 22:17:49 1578259069 DEBUG: Cart 377: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-01-05 22:19:05 1578259145 DEBUG: Call params: M=4205&R=377%20-%20Madysson%20%20DE%20BARROS&T=584316279&A=042575&B=0&C=Visa&D=2005&E=00000&F=Y&G=O&I=FRA&J=29&N=497864&O=Y&P=CARTE&Q=22%3A17%3A50&S=159133999&W=05012020&Y=FRA&Z=0-0&K=d80hdLY%2F%2FrTICXY7qJedCUbR7%2BtKD3rLxD7FZNME8gxxhN%2FfvoWQ%2FtZvq6N5kr9fvddZoMxwEHynZtl%2FhJQb7o2OKWGFO%2FMI3d35r%2B%2F5mEI5%2BIhySPCfYC%2BhwcHgiI8PASExfeQwsp1FbMZamMR%2BQN7%2Buv8JsvyHI8QHzNzF24k%3D
+2020-01-05 22:19:15 1578259145 DEBUG: Cart 377: Mixed IPN
+2020-01-05 22:19:15 1578259145 DEBUG: Cart 377: First payment
+2020-01-05 22:19:15 1578259145 DEBUG: Cart 377: Validating order
+2020-01-05 22:19:16 1578259145 DEBUG: Cart 377: Order 38 validated, creating details
+2020-01-05 22:19:16 1578259145 DEBUG: Cart 377: Order 38 / Le paiement a été autorisé et capturé par E-Transactions.

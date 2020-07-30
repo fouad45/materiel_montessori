@@ -1,0 +1,231 @@
+.flex-display,
+#form-touchize_touchmap {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: -ms-flex;
+    display: flex;
+}
+
+.well#pagelink {
+    display: inline-block;
+    word-break: break-all;
+}
+
+#form-touchize_touchmap {
+    margin-top: 20px;
+}
+
+.align-items-center {
+    -webkit-align-items: center;
+    -ms-align-items: center;
+    align-items: center;
+}
+
+#slq-touchmap-image-container {
+    max-width: 100%;
+    position: absolute;
+}
+
+#slq-touchmap-image-container #slq-touchmap-image {
+    display: none;
+}
+
+.thumbnail {
+    border: none !important;
+}
+
+.video-thumbnail {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+/* .video-thumbnail > img {
+    border: 1px solid #eee;
+    padding: 3px;
+} */
+
+.video-thumbnail:before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    content: "\f01d";
+    font-family: FontAwesome;
+    font-size: 100px;
+    color: #fff;
+    opacity: .8;
+    text-shadow: 0px 0px 30px rgba(0, 0, 0, 0.5);
+}
+
+.video-thumbnail:hover:before {
+    color: #eee;
+}
+
+#slq-touchmap-canvas {
+    border: 1px solid black;
+    box-sizing: border-box;
+    cursor: crosshair;
+    z-index: 99;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    position: relative;
+}
+
+#slq-action-area-list {
+    margin: 1rem 0 5px 0;
+    width: 100%;
+}
+
+#slq-action-area-list td {
+    vertical-align: middle;
+    padding: 4px;
+}
+
+#slq-action-area-list td:first-child {
+    width: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+
+#slq-action-area-list td:last-child {
+    width: 80px;
+}
+
+#slq-action-area-list td:last-child button {
+    width: 100%;
+}
+
+#slq-action-area-list input {
+    width: 100%;
+}
+
+#slq-action-area-list input.working {
+    background-image: url(../img/loader.gif);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: contain;
+}
+
+#slq-action-area-list .autocomplete-list {
+    cursor: pointer;
+    position: absolute;
+    background: #fff;
+    border: 1px solid #eee;
+    border-top: none;
+    z-index: 1000;
+}
+
+#slq-action-area-list .autocomplete-list img {
+    max-width: 100px;
+    height: auto;
+}
+
+#slq-action-area-list .autocomplete-list span {
+    padding: 0.5rem;
+    display: block;
+    border-bottom: 1px solid #eee;
+    line-height: 1.4;
+}
+
+#slq-action-area-list .autocomplete-list span:last-child {
+    border-bottom: none;
+}
+
+.tz-btn-default {
+    text-transform: uppercase;
+}
+
+.tz-btn-default:hover {
+    color: #fff !important;
+    background-color: #ccc !important;
+    border-color: #bbb !important;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.ribbon {
+    position: relative;
+    left: 0px;
+    top: 0px;
+    z-index: 11;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    text-align: left;
+    display: inline;
+}
+
+.ribbon span {
+    font-size: 12px;
+    font-weight: bold;
+    color: #FFF;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 24px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(-45deg);
+    width: 200px;
+    display: block;
+    background: #79A70A;
+    background: linear-gradient(#9BC90D 0%, #79A70A 100%);
+    box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+    position: absolute;
+    top: -35px;
+    left: -75px;
+}
+
+.ribbon span::before {
+    content: "";
+    position: absolute;
+    left: 0px;
+    top: 100%;
+    z-index: -1;
+    border-left: 3px solid #79A70A;
+    border-right: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+    border-top: 3px solid #79A70A;
+}
+
+.ribbon span::after {
+    content: "";
+    position: absolute;
+    right: 0px;
+    top: 100%;
+    z-index: -1;
+    border-left: 3px solid transparent;
+    border-right: 3px solid #79A70A;
+    border-bottom: 3px solid transparent;
+    border-top: 3px solid #79A70A;
+}
+
+.ribbon span.live {
+    background: #009CDE;
+    background: linear-gradient(#00B2E8 0%, #009CDE 100%);
+}
+
+.ribbon span.live::before {
+    background: #009CDE;
+    background: linear-gradient(#00B2E8 0%, #009CDE 100%);
+}
+
+.ribbon span.live::after {
+    background: #009CDE;
+    background: linear-gradient(#00B2E8 0%, #009CDE 100%);
+}
+
+table.wp-list-table .column-thumb {
+    width: 52px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+table.wp-list-table .column-thumb img {
+    margin: 0;
+    vertical-align: middle;
+    width: auto;
+    height: auto;
+    max-width: 40px;
+    max-height: 40px;
+}

@@ -1,0 +1,19 @@
+2020-02-25 15:27:17 1582640837 DEBUG: URL to check 2
+2020-02-25 15:27:17 1582640837 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-02-25 15:27:17 1582640837 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-02-25 15:27:17 1582640837 DEBUG: Cart 523: Redirecting customer to E-Transactions (CARTE, CB).
+2020-02-25 15:29:11 1582640951 DEBUG: Call params: M=9294&R=523%20-%20Laure%20Roulin&T=602192976&B=0&C=Visa&D=2109&E=00156&F=Y&G=O&I=FRA&J=--&N=497307&O=Y&P=3DSECURE&Q=15%3A27%3A19&S=171997631&W=25022020&Y=FRA&Z=0-0&K=Q1dw1MYj%2FdOWCgYJVrtjnQo2TOVkwqb3pCDnHzfq0cWLfOv4H%2FgFBiJRwzyVDb3qfIQrF4MkUkpETNZUY0MxaM%2BI5vYtOwep44fwQKnetUtCwkAefckhx6%2FdRn7nZc6SpeRMrOkXfpp%2FmoFEAHqvwkxrncaIoJAIG5qULgp4cQM%3D
+2020-02-25 15:29:21 1582640951 DEBUG: Cart 523: (IPN) Payment was refused by E-Transactions (156).
+2020-02-25 15:29:23 1582640963 DEBUG: Cart 523: Customer is back from E-Transactions payment page. Payment refused by E-Transactions (156).
+2020-02-25 19:30:29 1582655429 DEBUG: URL to check 2
+2020-02-25 19:30:29 1582655429 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-02-25 19:30:29 1582655429 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-02-25 19:30:29 1582655429 DEBUG: Cart 524: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-02-25 19:32:29 1582655549 DEBUG: Call params: M=3659&R=524%20-%20Corinne%20Ramen&T=602275922&A=911139&B=0&C=Visa&D=2202&E=00000&F=Y&G=O&I=FRA&J=74&N=499011&O=Y&P=CARTE&Q=19%3A30%3A30&S=172056213&W=25022020&Y=FRA&Z=0-0&K=Zwu960Ps4RJjo%2FyfdcevIYK0nM1f%2Fvla%2FsDxGDYeanoSzHUw8%2Bk8rw96JGb5KCwxIISmu7IzBOF9C1ZF3y1CQsSy9qigp1%2Bfyd1Sp1G9QGlNrNhLS1Q2svQShYnsWfYMVmNIqjn2uplqGwDP%2BADwnpXF9dpRN%2F%2BHGjy08kMqtoE%3D
+2020-02-25 19:32:39 1582655549 DEBUG: Cart 524: Mixed IPN
+2020-02-25 19:32:40 1582655549 DEBUG: Cart 524: First payment
+2020-02-25 19:32:40 1582655549 DEBUG: Cart 524: Validating order
+2020-02-25 19:32:41 1582655549 DEBUG: Cart 524: Order 49 validated, creating details
+2020-02-25 19:32:41 1582655549 DEBUG: Cart 524: Order 49 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-02-25 19:32:56 1582655576 DEBUG: Cart 524: Customer is back from E-Transactions payment page. Payment success.
+2020-02-25 19:32:57 1582655577 DEBUG: Cart 524: Customer is back from E-Transactions payment page. Payment success.

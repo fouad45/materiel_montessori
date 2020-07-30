@@ -1,0 +1,10 @@
+2019-12-02 15:17:27 1575296247 DEBUG: URL to check 2
+2019-12-02 15:17:27 1575296247 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-12-02 15:17:27 1575296247 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-12-02 15:17:27 1575296247 DEBUG: Cart 250: Redirecting customer to E-Transactions (CARTE, VISA).
+2019-12-02 15:19:07 1575296347 DEBUG: Call params: M=3159&R=250%20-%20Elodie%20Sinibaldi&T=571072246&A=279005&B=0&C=Visa&D=2103&E=00000&F=Y&G=O&I=FRA&J=14&N=497040&O=Y&P=CARTE&Q=15%3A17%3A28&S=149657966&W=02122019&Y=FRA&Z=0-0&K=s4MvBrUqUeGLW%2BatTCFX%2ByFgcARNGH0nFJw%2Fx0yLxn1KNw8icqi2mhSnD%2BSAVKdCAXFxnHzsogrGBlTglSM%2BIoxrv4pukRaGX0%2BfhczL8wX4sRt5X0J3w3LWgFwsyl%2Fi5oKycO3f3vW6aRwaxOPjBMIDJGX29B%2BYnmTZnTfJMH8%3D
+2019-12-02 15:19:17 1575296347 DEBUG: Cart 250: Mixed IPN
+2019-12-02 15:19:17 1575296347 DEBUG: Cart 250: First payment
+2019-12-02 15:19:17 1575296347 DEBUG: Cart 250: Validating order
+2019-12-02 15:19:18 1575296347 DEBUG: Cart 250: Order 28 validated, creating details
+2019-12-02 15:19:18 1575296347 DEBUG: Cart 250: Order 28 / Le paiement a été autorisé et capturé par E-Transactions.

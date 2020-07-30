@@ -1,0 +1,13 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:sls="http://sls.ws.coliposte.fr">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <sls:generateBordereauByParcelsNumbers>
+            <contractNumber></contractNumber>
+            <password></password>
+            <generateBordereauParcelNumberList>
+                <!-- 1 or more repetitions: -->
+                <!-- <parcelsNumbers>xxxxx</parcelsNumbers> -->
+            </generateBordereauParcelNumberList>
+        </sls:generateBordereauByParcelsNumbers>
+    </soapenv:Body>
+</soapenv:Envelope>

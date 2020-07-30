@@ -1,0 +1,529 @@
+div#colissimo-container .colissimo_widget_widget {
+    color: #EA690A;
+    font-size: 11px;
+    font-family: Verdana, Geneva, sans-serif;
+    border: 1px solid #DDD;
+    background: #F8F9F9;
+}
+
+div#colissimo-container .colissimo_widget_ligneTop {
+    margin-right: 0px;
+}
+
+div#colissimo-container .colissimo_widget_ligneBottom {
+    border-bottom: 1px solid rgb(221, 221, 221);
+    margin-bottom: 15px;
+    text-align: left;
+    margin-right: 0px;
+}
+
+/************************************COuleurs*****************************/
+div#colissimo-container .colissimo_widget_red {
+    color: red;
+}
+
+/************************************Images*****************************/
+
+div#colissimo-container .colissimo_widget_img-right {
+    text-align: left;
+    float: left;
+    top: 10px;
+    position: relative;
+}
+
+/***********************************TEXTE******************************/
+div#colissimo-container .colissimo_widget_text-petit {
+    font-family: Verdana;
+    color: #49545D;
+}
+
+div#colissimo-container .colissimo_widget_text-lang {
+    font-size: 12px;
+    font-weight: bold;
+    /* 	font-family: Verdana; */
+    color: #49545D;
+    /* 	width: 21px; */
+    /* 	height: 17px; */
+    cursor: pointer;
+}
+
+div#colissimo-container .colissimo_widget_text-lang-active {
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Verdana;
+    color: #EA690A;
+    /* 	width: 21px; */
+    /* 	height: 17px; */
+    cursor: pointer;
+}
+
+div#colissimo-container .colissimo_widget_text-gris {
+    color: #49545D;
+}
+
+div#colissimo-container .colissimo_widget_text-right {
+    text-align: right;
+}
+
+div#colissimo-container .colissimo_widget_text-left {
+    text-align: left;
+}
+
+div#colissimo-container .colissimo_widget_text-serre {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+div#colissimo-container a:hover {
+    color: #555;
+}
+
+div#colissimo-container .colissimo_widget_text-bold {
+    font-weight: bold;
+}
+
+div#colissimo-container .colissimo_widget_margin10 {
+    margin: 10px;
+}
+
+div#colissimo-container .colissimo_widget_margin-right0 {
+    margin-right: 0px;
+}
+
+div#colissimo-container .colissimo_widget_titleOrange {
+    font-size: 14px;
+    margin-top: 0px;
+    color: #EA690A;
+}
+
+div#colissimo-container .colissimo_widget_ligne-petite {
+    margin: 0px;
+    padding: 0px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+/********************formulaire********************************/
+div#colissimo-container .colissimo_widget_bouton-frame {
+    background: url('../img/widget/btn_valider.jpg') no-repeat scroll 0% 0% transparent;
+    padding: 1px 18px 4px 10px !important;
+    border: medium none;
+    color: #FFF;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 8px;
+    line-height: 13px;
+    width: 104px;
+}
+
+div#colissimo-container .colissimo_widget_form-frame {
+    margin: 0px;
+    padding: 0px;
+    border: 0px none;
+    outline: 0px none;
+    font-size: 100%;
+    background: none repeat scroll 0% 0% transparent;
+    padding-bottom: 10px;
+}
+
+div#colissimo-container .colissimo_widget_input-frame {
+    border: 1px solid #DDD;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    color: #EA690A;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+div#colissimo-container .colissimo_widget_shadow {
+    box-shadow: 3px 3px 3px #aaa;
+}
+
+div#colissimo-container .colissimo_widget_shadow-error {
+    box-shadow: 3px 3px 3px #F00;
+}
+
+/*********************LISTE points*******************************/
+
+div#colissimo-container a.colissimo_widget_liste-points a:hover {
+    color: #555;
+}
+
+div#colissimo-container .colissimo_widget_liste-points {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    margin-left: 5px;
+    background-color: #FFF;
+    border-left: 1px solid #DDD;
+    border-right: 1px solid #DDD;
+    color: #555;
+}
+
+div#colissimo-container .colissimo_widget_liste-points:first-child {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    background-color: #FFF;
+    border-top: 1px solid #DDD;
+
+}
+
+div#colissimo-container .colissimo_widget_liste-points:last-of-type {
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    background-color: #FFF;
+    border-bottom: 1px solid #DDD;
+
+}
+
+/***********************dimensions******************************/
+div#colissimo-container .colissimo_widget_w500 {
+    width: 500px;
+}
+
+div#colissimo-container .colissimo_widget_w400 {
+    width: 400px;
+}
+
+div#colissimo-container .colissimo_widget_w363 {
+    width: 363px;
+}
+
+div#colissimo-container .colissimo_widget_w300 {
+    width: 300px;
+}
+
+div#colissimo-container .colissimo_widget_w200 {
+    width: 200px;
+}
+
+div#colissimo-container .colissimo_widget_w150 {
+    width: 150px;
+}
+
+div#colissimo-container .colissimo_widget_w100 {
+    width: 100px;
+}
+
+div#colissimo-container .colissimo_widget_w75 {
+    width: 75px;
+}
+
+div#colissimo-container .colissimo_widget_w60 {
+    width: 60px;
+}
+
+div#colissimo-container .colissimo_widget_w50 {
+    width: 50px;
+}
+
+div#colissimo-container .colissimo_widget_h340 {
+    height: 340px;
+}
+
+/*************************MARGE et padding*************************/
+
+div#colissimo-container .colissimo_widget_padding-left-right-0 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+/********************LOGO********************************/
+div#colissimo-container .colissimo_widget_logo {
+    background: url('../img/widget/logo_colissimo_vertical_tran.jpg') no-repeat scroll left top transparent;
+    background-position: 10px 10px;
+    /* 	width: 84px; */
+    /* 	height: 68px; */
+    /* 	margin: 6px 5px 8px 18px; */
+    /* 	float: left; */
+}
+
+div#colissimo-container .colissimo_widget_logoEmpty {
+    width: 84px;
+    height: 68px;
+    margin: 6px 5px 8px 18px;
+    float: left;
+}
+
+/*******************INFO BULLE*****************************/
+
+div#colissimo-container .colissimo_widget_tabHoraires {
+    margin-left: 70px;
+}
+
+div#colissimo-container .colissimo_widget_infoBulleContainer {
+    /*position: relative;
+    z-index: 1000;*/
+}
+
+div#colissimo-container .colissimo_widget_infobulle {
+
+}
+
+div#colissimo-container .colissimo_widget_infobulle h3 {
+    font-size: 14px;
+    margin-top: 0px;
+}
+
+div#colissimo-container .colissimo_widget_infos2 {
+    color: #333;
+}
+
+div#colissimo-container .colissimo_widget_infos2 p {
+    margin: 0px 0px 0px 0px;
+}
+
+div#colissimo-container .colissimo_widget_tableauHorraire h1 {
+    font-size: 14px;
+    margin-top: 0px;
+}
+
+div#colissimo-container .colissimo_widget_tableauHorraire tr {
+    color: #333;
+}
+
+div#colissimo-container .colissimo_widget_bl {
+    background-color: #f7f7f7;
+}
+
+div#colissimo-container .colissimo_widget_gr {
+    background-color: #ededed;
+}
+
+div#colissimo-container .colissimo_widget_headerInfobulle {
+    background: url('../img/widget/header_infobulle.png') no-repeat !important;
+    background: url('../img/widget/header_infobulle.gif') transparent no-repeat;
+    height: 22px;
+    width: 330px;
+    position: relative;
+}
+
+div#colissimo-container .colissimo_widget_closeInfobulle {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background: url('../img/widget/closeInfobulle.jpg') no-repeat;
+    top: 7px;
+    left: 297px;
+    cursor: pointer;
+}
+
+div#colissimo-container div.colissimo_widget_headerInfobulle {
+    background: url(../img/widget/header_infobulle.png) no-repeat !important;
+    background: url(../img/widget/header_infobulle.gif) transparent no-repeat;
+    height: 22px;
+    width: 330px;
+    position: relative;
+}
+
+div#colissimo-container div.colissimo_widget_body1Infobulle {
+    background: url(../img/widget/body1_infobulle.png) repeat-y !important;
+    background: url(../img/widget/body1_infobulle.gif) transparent repeat-y;
+    width: 330px;
+    padding-bottom: 10px;
+}
+
+div#colissimo-container div.colissimo_widget_body2Infobulle {
+    background: url(../img/widget/body2_infobulle.png) repeat-y !important;
+    background: url(../img/widget/body2_infobulle.gif) transparent repeat-y;
+    width: 330px
+}
+
+div#colissimo-container div.colissimo_widget_footerInfobulle {
+    background: url(../img/widget/footer_infobulle.png) no-repeat !important;
+    background: url(../img/widget/footer_infobulle.gif) transparent no-repeat;
+    height: 56px;
+    width: 330px;
+    position: relative;
+}
+
+div#colissimo-container div.colissimo_widget_footerInfobulle2 {
+    background: url(../img/widget/footer_infobulle.png) no-repeat !important;
+    background: url(../img/widget/footer_infobulle.gif) transparent no-repeat;
+    height: 56px;
+    width: 330px;
+    position: relative;
+    text-align: left;
+    padding-left: 10px;
+}
+
+/**********pictoColissimoBig*/
+div#colissimo-container .colissimo_widget_pictos-infos-bulles {
+    width: 70px;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: 10px;
+    text-align: center;
+    background: url(../img/widget/pictoColissimoBig.jpg) no-repeat !important;
+    top: 50px;
+    position: relative;
+}
+
+div#colissimo-container .colissimo_widget_pictos-infos-bulles img {
+    padding: 0 3px 0 3px;
+}
+
+div#colissimo-container .colissimo_widget_submit-valider-point-retrait-bulle-bouton {
+    background: url(../img/widget/btn_valider_choix_bulle.jpg) no-repeat;
+    background-position: center;
+    padding: 1px 18px 4px 10px !important;
+/ padding: 2 px 0 px 4 px 0 px;
+    -padding: 2px 0px 4px 0px;
+    border: none;
+    color: #FFFFFF;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 15px;
+    line-height: 50px;
+    width: 186px;
+    float: right;
+}
+
+/********************MAP***********************************/
+
+/*PICTO*/
+div#colissimo-container .colissimo_widget_pictos-infos-resultat {
+    float: left;
+    text-align: center;
+    padding-right: 10px;
+}
+
+div#colissimo-container .colissimo_widget_pictos-infos-resultat img {
+    padding: 0 2px 0 2px;
+}
+
+/********************************MENU RESPONSIVE*******************************/
+div#colissimo-container ul.colissimo_widget_topnav2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /*background-color: #333;*/
+}
+
+div#colissimo-container ul.colissimo_widget_topnav2 li {
+    float: right;
+}
+
+div#colissimo-container ul.colissimo_widget_topnav2 li a {
+    display: inline-block;
+    /*color: #f2f2f2;*/
+    text-align: center;
+    text-decoration: none;
+}
+
+div#colissimo-container ul.colissimo_widget_topnav2 li a:hover {
+    color: black;
+}
+
+div#colissimo-container ul.colissimo_widget_topnav2 li.colissimo_widget_icon {
+    display: none;
+}
+
+div#colissimo-container img.colissimo_widget_icon-lang {
+    display: none;
+    width: 30px;
+}
+
+@media screen and (max-width: 800px) {
+    div#colissimo-container ul.colissimo_widget_topnav2 li:not (:first-child ) {
+        display: none;
+    }
+
+    div#colissimo-container ul.colissimo_widget_topnav2 li.colissimo_widget_icon {
+        width: 30px;
+        float: right;
+        display: inline-block;
+    }
+
+    div#colissimo-container a.colissimo_widget_text-lang {
+        display: none;
+    }
+
+    div#colissimo-container li.colissimo_widget_text-petit {
+        display: none;
+    }
+
+    div#colissimo-container li.colissimo_widget_hide-mobile {
+        display: none;
+    }
+
+    div#colissimo-container a.colissimo_widget_text-lang.active {
+        display: inline-block;
+    }
+
+    div#colissimo-container span.colissimo_widget_separation {
+        display: none;
+    }
+
+    div#colissimo-container img.colissimo_widget_icon-lang {
+        display: none;
+    }
+
+    div#colissimo-container .colissimo_widget_ligneTop {
+        border-top: 1px solid rgb(221, 221, 221);
+        margin-top: 15px;
+        text-align: left;
+        margin-right: 0px;
+    }
+
+    div#colissimo-container .colissimo_widget_ligneBottom {
+        border: hidden;
+        text-align: left;
+        margin-right: 0px;
+    }
+
+    div#colissimo-container .colissimo_widget_w363 {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    div#colissimo-container ul.colissimo_widget_topnav2.colissimo_widget_responsive {
+        position: relative;
+        /* 		width:50px; */
+    }
+
+    div#colissimo-container ul.colissimo_widget_topnav2.colissimo_widget_responsive li.colissimo_widget_icon {
+        position: absolute;
+        display: none;
+        right: 0;
+        top: 0;
+    }
+
+    div#colissimo-container ul.colissimo_widget_topnav2.colissimo_widget_responsive li {
+        float: none;
+        display: inline;
+    }
+
+    div#colissimo-container ul.colissimo_widget_topnav2.colissimo_widget_responsive li a {
+        display: block;
+        text-align: right;
+    }
+
+    div#colissimo-container li.colissimo_widget_text-petit {
+        display: none;
+    }
+
+    div#colissimo-container span.colissimo_widget_separation {
+        display: none;
+    }
+
+    div#colissimo-container img.colissimo_widget_icon-lang.colissimo_widget_responsive {
+        width: 30px;
+        display: block;
+    }
+
+    div#colissimo-container .colissimo_widget_mobileRow {
+        height: 60px;
+    }
+}

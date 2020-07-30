@@ -1,0 +1,23 @@
+Bonjour {firstname} {lastname},
+
+Nous avons bien enregistré votre commande ayant pour référence {order_name}.
+Celle-ci vous sera envoyée dès réception de votre bon de commande par nos services.
+
+Le bon de commande est directement accessible et téléchargeable en cliquant ici : {pdf_link}.
+Merci de le rtouner complété....
+
+
+Pour rappel, vous avez choisi de régler votre commande par Mandat Administratif :
+
+- d'un montant de {total_paid}
+
+- à l'ordre de {payment_name}
+
+- Adresse de la banque : {payment_address}
+
+- Details : {payment_details}
+
+Si vous avez un compte invité, vous pouvez suivre votre commande à cette adresse : {guest_tracking_url}
+
+
+{shop_name} - {shop_url}

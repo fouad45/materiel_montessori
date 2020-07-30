@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/var/www/html/prestashop/PRS05/PRS050112/themes/Claystay/modules/ps_customersignin/ps_customersignin.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="bea8d9e6a0d57c4a264756b4f9822ed9">
+        <source>My Account</source>
+        <target>My Account</target>
+        <note>Context:
+File: /var/www/html/prestashop/PRS05/PRS050112/themes/Claystay/modules/ps_customersignin/ps_customersignin.tpl:4</note>
+      </trans-unit>
+      <trans-unit id="d4151a9a3959bdd43690735737034f27">
+        <source>Log in to your customer account</source>
+        <target>Log in to your customer account</target>
+        <note>Context:
+File: /var/www/html/prestashop/PRS05/PRS050112/themes/Claystay/modules/ps_customersignin/ps_customersignin.tpl:52</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

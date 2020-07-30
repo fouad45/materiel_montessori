@@ -1,0 +1,13 @@
+2019-11-27 19:09:05 1574878145 DEBUG: URL to check 2
+2019-11-27 19:09:05 1574878145 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-11-27 19:09:06 1574878145 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-11-27 19:09:06 1574878145 DEBUG: Cart 231: Redirecting customer to E-Transactions (CARTE, VISA).
+2019-11-27 19:11:24 1574878284 DEBUG: Call params: M=2699&R=231%20-%20Abderrahman%20%20Amir&T=569213895&A=567507&B=0&C=Visa&D=2110&E=00000&F=Y&G=O&I=FRA&J=12&N=497040&O=Y&P=CARTE&Q=19%3A09%3A06&S=148194844&W=27112019&Y=FRA&Z=0-0&K=eKN2zvpTCpHWPOebf2HUcqrOl%2FC31m1uW1xIABXSlz2dS0%2FPuF9LQ61o9dCPdzEIYS6Mm4d6W53ZPgRTwJr1Det%2FKoLIc9btDYbG%2BhkIeZg5wswva%2F2PmpKak1yTpf6cA%2BbFrol2dka%2Bis1Qznk9PEu%2B8ebnDFZwb2ZwDjneF9A%3D
+2019-11-27 19:11:30 1574878290 DEBUG: Cart 231: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2019-11-27 19:11:33 1574878293 DEBUG: Cart 231: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2019-11-27 19:11:34 1574878284 DEBUG: Cart 231: Mixed IPN
+2019-11-27 19:11:35 1574878284 DEBUG: Cart 231: First payment
+2019-11-27 19:11:35 1574878284 DEBUG: Cart 231: Validating order
+2019-11-27 19:11:35 1574878284 DEBUG: Cart 231: Order 27 validated, creating details
+2019-11-27 19:11:35 1574878284 DEBUG: Cart 231: Order 27 / Le paiement a été autorisé et capturé par E-Transactions.
+2019-11-27 19:11:35 1574878295 DEBUG: Cart 231: Customer is back from E-Transactions payment page. Payment success.

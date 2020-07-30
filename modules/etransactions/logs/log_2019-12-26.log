@@ -1,0 +1,11 @@
+2019-12-26 22:04:35 1577394275 DEBUG: URL to check 2
+2019-12-26 22:04:35 1577394275 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-12-26 22:04:35 1577394275 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-12-26 22:04:35 1577394275 DEBUG: Cart 367: Redirecting customer to E-Transactions (CARTE, CB).
+2019-12-26 22:06:04 1577394364 DEBUG: Call params: M=9796&R=367%20-%20Vincent%20Devulder&T=581152180&A=183718&B=0&C=MasterCard&D=2212&E=00000&F=Y&G=O&I=FRA&J=93&N=513771&O=Y&P=3DSECURE&Q=22%3A04%3A38&S=156929484&W=26122019&Y=FRA&Z=0-0&K=fgXqHWfadvzIvzgZLrxVGuN0%2FrPIdEFU7RWozFIqAzvn0sby6vWzU2Q1qrVANWinRhepPWrIKuC8ByNtqER5IzyDlo%2Fci7MDr1oFs4187imJthoPHrJ7ijbYB356TkX%2FCl63g%2Br5G%2FbBK366%2F%2BFIYXzLnSK5Vz9q0qjrFr8l9Jk%3D
+2019-12-26 22:06:14 1577394364 DEBUG: Cart 367: Mixed IPN
+2019-12-26 22:06:14 1577394364 DEBUG: Cart 367: First payment
+2019-12-26 22:06:14 1577394364 DEBUG: Cart 367: Validating order
+2019-12-26 22:06:15 1577394364 DEBUG: Cart 367: Order 35 validated, creating details
+2019-12-26 22:06:15 1577394364 DEBUG: Cart 367: Order 35 / Le paiement a été autorisé et capturé par E-Transactions.
+2019-12-26 22:06:26 1577394386 DEBUG: Cart 367: Customer is back from E-Transactions payment page. Payment success.

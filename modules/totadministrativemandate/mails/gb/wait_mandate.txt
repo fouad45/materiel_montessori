@@ -1,0 +1,29 @@
+Hi {firstname} {lastname},
+
+Thank you for shopping at {shop_name}!
+
+Your order with the reference {order_name} has been placed successfully and will be shipped as soon as we receive your payment.
+
+You have selected to pay by Administrative Mandate. Please include on your mandate:
+
+Amount: {total_paid}
+
+Payable to the order of: {payment_name}
+
+Please mail your mandate to:
+
+{payment_address}
+
+Details :
+
+{payment_details}
+
+You can access your order form by downloading : {$pdf_link}
+
+You can review your order and download your invoice from the "Order history" section of your customer account by clicking "My account" on our shop.
+
+If you have guest account, you can follow your order using this link: {shop_url}?controller=guest-tracking
+
+{shop_name} - {shop_url}
+
+{shop_url} powered by PrestaShop™

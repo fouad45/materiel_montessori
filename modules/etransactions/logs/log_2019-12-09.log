@@ -1,0 +1,13 @@
+2019-12-09 00:01:09 1575846069 DEBUG: Call params: M=3239&R=283%20-%20Jellal%20Mathilde&T=573830842&A=396526&B=0&C=Visa&D=2211&E=00000&F=Y&G=O&I=FRA&J=04&N=497874&O=Y&P=3DSECURE&Q=23%3A58%3A43&S=151572440&W=08122019&Y=FRA&Z=0-0&K=nJob%2FjFMPbAMhjDPlTEJGJKzY%2F8E5S6H7SEtgY1J0KA%2FmF1AUhnxCqAh3SJHjpKuSvg6vaMhQNYY%2BmiXekA%2FRwcCthyrGI9zilTBKqZ3phPQkiCVV%2BDtqWIGpOYsfXfOGFeU8tOwOXLiWhYM5li3tFIKiYhpyu3vfU3kIZnUULQ%3D
+2019-12-09 00:01:18 1575846078 DEBUG: Cart 283: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2019-12-09 00:01:19 1575846069 DEBUG: Cart 283: Mixed IPN
+2019-12-09 00:01:19 1575846079 DEBUG: Cart 283: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2019-12-09 00:01:19 1575846069 DEBUG: Cart 283: First payment
+2019-12-09 00:01:19 1575846069 DEBUG: Cart 283: Validating order
+2019-12-09 00:01:20 1575846069 DEBUG: Cart 283: Order 31 validated, creating details
+2019-12-09 00:01:20 1575846069 DEBUG: Cart 283: Order 31 / Le paiement a été autorisé et capturé par E-Transactions.
+2019-12-09 00:01:21 1575846081 DEBUG: Cart 283: Customer is back from E-Transactions payment page. Payment success.
+2019-12-09 18:01:28 1575910888 DEBUG: URL to check 2
+2019-12-09 18:01:28 1575910888 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-12-09 18:01:28 1575910888 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-12-09 18:01:28 1575910888 DEBUG: Cart 267: Redirecting customer to E-Transactions (CARTE, CB).

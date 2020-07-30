@@ -1,0 +1,19 @@
+
+/**************************************************
+* Shopping cart tpl
+*/
+#customer-information {
+    padding: 1rem;
+}
+
+#customer-information .custom-radio {
+    margin-right: 0;
+}
+
+/*Account : list table*/
+@media screen and (max-width:640px) {
+
+    #quotation-list .hide-mobile {
+        display: none;
+    }
+}

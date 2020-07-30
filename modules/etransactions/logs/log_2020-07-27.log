@@ -1,0 +1,14 @@
+2020-07-27 07:35:32 1595828132 DEBUG: URL to check 2
+2020-07-27 07:35:32 1595828132 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-27 07:35:33 1595828132 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-07-27 07:35:33 1595828132 DEBUG: Cart 937: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-07-27 07:42:47 1595828567 DEBUG: URL to check 2
+2020-07-27 07:42:47 1595828567 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-27 07:42:48 1595828567 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-07-27 07:42:48 1595828567 DEBUG: Cart 936: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-07-27 07:43:53 1595828633 DEBUG: Call params: M=5557&R=936%20-%20Aubane%20Furnemont&T=1491255929&A=727833&B=0&C=MasterCard&D=2403&E=00000&F=Y&G=O&I=BEL&J=72&N=554505&O=Y&P=CARTE&Q=07%3A42%3A48&S=341759384&W=27072020&Y=BEL&Z=0-0&K=FrbXhmaRhdzq69vS5ImhGvykL7KYc883wKS3wcr1x8kL7NkjWk%2FhhuDAlVy0oyJMqUTPlina48rzi7zr%2BlnHYLO2akzmdI9ONTJCzhra6g4FjvIxxYGHOTEBzhB9AH%2Fvp6t1D5c4P9CzPrq2h0E6dArLa7k3fYTe219haSuTzJM%3D
+2020-07-27 07:44:03 1595828633 DEBUG: Cart 936: Mixed IPN
+2020-07-27 07:44:03 1595828633 DEBUG: Cart 936: First payment
+2020-07-27 07:44:03 1595828633 DEBUG: Cart 936: Validating order
+2020-07-27 07:44:06 1595828633 DEBUG: Cart 936: Order 100 validated, creating details
+2020-07-27 07:44:06 1595828633 DEBUG: Cart 936: Order 100 / Le paiement a été autorisé et capturé par E-Transactions.

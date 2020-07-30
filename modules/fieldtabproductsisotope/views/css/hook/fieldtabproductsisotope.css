@@ -1,0 +1,88 @@
+#fieldtabproductsisotope .isotope-item {
+    text-align: center;
+    overflow: hidden;
+    padding: 0;
+    position: relative !important;
+ top: auto !important;
+left: auto !important;
+
+}
+.isotope-grid {
+    height: auto !important;
+}
+#fieldtabproductsisotope .owl-buttons .owl-prev{
+	top: -60px;
+    left: 15px;
+}
+#fieldtabproductsisotope .owl-buttons .owl-next{
+	top: -60px;
+    right: 15px;
+}
+#fieldtabproductsisotope .isotope-item .left-block{
+    overflow: hidden;
+    position: relative;
+}
+
+#fieldtabproductsisotope .fieldtabproductsisotope-filter {
+    display: inline-block;
+    line-height: 51px;
+}
+
+#fieldtabproductsisotope li a {
+    float: left;
+    font-size: 20px;
+    cursor: pointer;
+    text-transform: capitalize;
+    padding: 0 23px 0 13px;
+    line-height: 52px;
+    color: #262626;
+    font-weight: bold;
+    font-family: 'Roboto',sans-serif;
+    position: relative;
+}
+#fieldtabproductsisotope li a:before{
+	position: absolute;
+    content: "";
+    width: 5px;
+    height: 5px;
+    background: #61a321;
+    top: 50%;
+    margin-top: -3px;
+    right: 0;
+}
+#fieldtabproductsisotope li:last-child a:before{display: none}
+#fieldtabproductsisotope .fieldtabproductsisotope-filter a:hover,#fieldtabproductsisotope .fieldtabproductsisotope-filter a.active {
+	color: #61a321;
+}
+
+#fieldtabproductsisotope .fieldtabproductsisotope-products {
+    text-align: left;
+    width: 100%;
+}
+
+#fieldtabproductsisotope .grid-sizer {
+    opacity: 0;
+    visibility: hidden;
+    margin: 0 1%;
+    padding: 0;
+}
+.isotope-grid {
+    margin: 0;
+    -webkit-transition: height 0.5s;
+    -moz-transition: height 0.5s;
+    -ms-transition: height 0.5s;
+    -o-transition: height 0.5s;
+    transition: height 0.5s;
+}
+
+.no-touch .isotope-grid .item-buttons {
+    opacity: 0;
+}
+
+.no-touch .isotope-grid .item:hover .item-buttons {
+    opacity: 100;
+}
+
+.touch .isotope-grid .item-buttons {
+    opacity: 100!important;
+}

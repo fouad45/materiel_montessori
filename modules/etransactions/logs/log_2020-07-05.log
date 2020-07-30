@@ -1,0 +1,11 @@
+2020-07-05 09:06:26 1593932786 DEBUG: URL to check 2
+2020-07-05 09:06:26 1593932786 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-05 09:06:27 1593932786 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-07-05 09:06:27 1593932786 DEBUG: Cart 887: Redirecting customer to E-Transactions (CARTE, CB).
+2020-07-05 09:07:09 1593932829 DEBUG: Call params: M=4648&R=887%20-%20thomas%20van%20klaveren&T=938262077&A=760315&B=0&C=Visa&D=2010&E=00000&F=Y&G=O&I=MCO&J=64&N=497220&O=Y&P=3DSECURE&Q=09%3A06%3A27&S=200112695&W=05072020&Y=FRA&Z=0-0&K=aSTIMHbo4ucPvbiJpYmIEfTCHysd1BWbEV77PiwGVLvGRLSQ%2BtCyibvhB%2BZatmge2pvwizBy7stQ3qDT1KAocRpZzkqeWFSHu9MigSRVlXJnkvSM6gPcLSyAbiHqB%2FknI2LxaLLymZFu%2BYVaduxAwJiw1vKJHUuBNcfIbiJoIVM%3D
+2020-07-05 09:07:20 1593932829 DEBUG: Cart 887: Mixed IPN
+2020-07-05 09:07:20 1593932829 DEBUG: Cart 887: First payment
+2020-07-05 09:07:20 1593932829 DEBUG: Cart 887: Validating order
+2020-07-05 09:07:20 1593932829 DEBUG: Cart 887: Order 93 validated, creating details
+2020-07-05 09:07:20 1593932829 DEBUG: Cart 887: Order 93 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-07-05 09:07:38 1593932858 DEBUG: Cart 887: Customer is back from E-Transactions payment page. Payment success.

@@ -1,0 +1,17 @@
+2020-01-21 11:12:40 1579601560 DEBUG: URL to check 2
+2020-01-21 11:12:40 1579601560 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-01-21 11:12:40 1579601560 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-01-21 11:12:40 1579601560 DEBUG: Cart 438: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-01-21 11:14:39 1579601679 DEBUG: Call params: M=18787&R=438%20-%20Marylene%20KOWALSKI&T=590370261&B=0&C=MasterCard&D=2112&E=00151&F=Y&G=O&I=FRA&J=--&N=513770&O=Y&P=3DSECURE&Q=11%3A12%3A41&S=163337963&W=21012020&Y=FRA&Z=0-0&K=oV3QAviWGrXvCVyjY8kZSyr0QZH7a%2BL3u2PtyttIOENyQ5mR2WOuXWaIMF4z73kFFwGbxM7hfA3AQR53VGZkt%2Bi6YwFVyXnjK9UkMbiceD%2FQBF9W1j5jVpICwmLxuEnnfKfrhf1DRq7SlLWpbKM1lrMQJsIcdgYChU9aSc4YB48%3D
+2020-01-21 11:14:49 1579601679 DEBUG: Cart 438: (IPN) Payment was refused by E-Transactions (151).
+2020-01-21 11:14:55 1579601695 DEBUG: Cart 438: Customer is back from E-Transactions payment page. Payment refused by E-Transactions (151).
+2020-01-21 11:15:14 1579601714 DEBUG: URL to check 2
+2020-01-21 11:15:14 1579601714 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-01-21 11:15:14 1579601714 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-01-21 11:15:14 1579601714 DEBUG: Cart 438: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-01-21 11:16:38 1579601798 DEBUG: Call params: M=18787&R=438%20-%20Marylene%20KOWALSKI&T=590370261&B=0&C=MasterCard&D=2112&E=00151&F=Y&G=O&I=FRA&J=--&N=513770&O=Y&P=3DSECURE&Q=11%3A12%3A41&S=163338642&W=21012020&Y=FRA&Z=0-0&K=kDZQRwn9CJ3rbWjKNqph83dOA86YcioHlhsJXeIUfYVlVxSxKNIV2JIK%2FKqD10oeTQOtwQYvcC9vG4%2B1yzJGGpoc5LTwz9MAdeUVrDYjmWJo%2BDradS2sArARZ3d8AA50jO3MtItgcAin0%2FpYa6D0%2FSStSvZFSFtKRgag3%2FHglYY%3D
+2020-01-21 11:16:48 1579601798 DEBUG: Cart 438: (IPN) Payment was refused by E-Transactions (151).
+2020-01-21 18:28:48 1579627728 DEBUG: URL to check 2
+2020-01-21 18:28:48 1579627728 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-01-21 18:28:49 1579627728 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-01-21 18:28:49 1579627728 DEBUG: Cart 449: Redirecting customer to E-Transactions (CARTE, CB).

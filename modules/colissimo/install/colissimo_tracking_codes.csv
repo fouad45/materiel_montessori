@@ -1,0 +1,55 @@
+clp_code,inovert_code,typology,internal_text
+LIVBPO,LIVCFM,LIV,Votre colis est à disposition en boîte postale
+LIVCFM,LIVCFM,LIV,Votre colis est livré.
+LIVDIV,LIVCFM,LIV,Votre colis est livré mais le destinataire a signalé un emballage modérément dégradé.
+LIVGAR,LIVGAR,LIV,Votre colis a été livré au gardien.
+LIVRCA,LIVCFM,LIV,Votre colis est livré mais le destinataire a signalé un emballage fortement dégradé.
+LIVRCC,LIVCFM,LIV,Votre colis est livré mais le destinataire a signalé un emballage fortement dégradé.
+LIVRTI,LIVRTI,LIV,Votre colis a été livré au gardien ou à un voisin.
+LIVVOI,LIVVOI,LIV,Votre colis est livré au voisin indiqué sur l’avis déposé dans la boîte aux lettres du destinataire.
+AACALI,CITDOC,ANO,"La livraison de votre colis dans un espace Cityssimo est impossible, le destinataire n’est pas abonné à ce service."
+AACEDI,CITDOC,ANO,Le colis ne peut être livré dans un automate de retrait Cityssimo en raison de l’absence de coordonnées du destinataire. Le colis sera retourné à l’expéditeur.
+AARLIB,,ANO,"Votre colis a subi un incident. Nous vous remercions de prendre contact avec notre service clients, au 3631 pour les clients Particuliers auprès de vos interlocuteurs habituels pour les clients Entreprises."
+AARTER,AARDVY,ANO,"Votre colis a subi une erreur de tri, il a maintenant repris son acheminement."
+RCDDVY,RCDDVY,ANO,Votre colis est réacheminé vers un autre site de distribution en raison d’un défaut d’adressage.
+RDVABS,RENARV,ANO,Votre colis n’a pu être livré car le destinataire était absent. Il sera prochainement recontacté pour convenir d’un nouveau rendez-vous.
+RDVAIN,RENAIN,ANO,Votre colis n’a pas pu être livré sur rendez-vous. Le destinataire doit choisir une date de livraison.
+RDVINC,RSTNCG,ANO,Votre colis n’a pas pu être livré sur rendez-vous. Le destinataire sera prochainement recontacté.
+RDVREP,RENAIN,ANO,Votre colis est prêt à être livré sur rendez-vous. Nous sommes en attente de votre choix de créneau horaire.
+RECALI,CITDOC,ANO,Votre colis n’a pas pu être livré dans l’espace Cityssimo suite à une erreur sur votre compte abonné
+REFALI,CITDOC,ANO,"La livraison de votre colis dans l’espace Cityssimo est impossible, il est retourné à l’expéditeur."
+REFCDS,CHGRCA,ANO,L’emballage de votre colis a été renforcé pour en assurer sa livraison. Il est en cours d’acheminement.
+REFCEX,DCHRCA,ANO,Votre colis est retourné à l’expéditeur suite à un incident.
+REFDDS,CHGRCA,ANO,L’emballage de votre colis a été renforcé pour en assurer sa livraison. Il est en cours d’acheminement.
+REFDEX,DCHRCA,ANO,Votre colis est retourné à l’expéditeur suite à un incident.
+REFISO,DCHRMA,ANO,Votre colis et/ou son étiquette sont endommagés. Votre colis est en cours de traitement
+RENACO,CITDOC,ANO,La livraison de votre colis dans un espace Cityssimo est impossible. Le compte abonné est inactif ou résilié. Le colis est rééxpédié au domicile du destinataire.
+RENACP,RSTFMA,ANO,"Votre colis ne peut être livré ce jour, l’accès à l’adresse de livraison étant impossible. Il sera remis en livraison au plus tôt."
+RENAEP,CITPAM,ANO,"L’espace Colis Cityssimo est momentanément hors service, le colis est rééxpédié au domicile du destinataire."
+RENAIN,RENAIN,ANO,"Votre colis ne peut actuellement être livré au destinataire, l’adresse de livraison étant incomplète. Le destinataire peut contacter notre service clients pour apporter les compléments nécessaires, en cliquant sur Nous contacter en ligne."
+RENCAD,RENCAD,ANO,"Votre colis ne peut actuellement être livré à son destinataire, l’adresse de livraison étant incomplète. Le destinataire peut contacter notre service clients pour apporter les compléments nécessaires, en cliquant sur Nous contacter en ligne."
+RENCND,RENFCO,ANO,Colis en échec de livraison : plus de casier disponible dans la consigne choisie
+RENDET,CITSPO,ANO,"Votre colis est déterioré et ne peut être livré dans un espace Cityssimo, il est rééxpédié au domicile du destinataire."
+RENECO,CITNCG,ANO,Le colis ne peut être livré dans un automate de retrait Cityssimo. Le colis sera adressé au domicile du Destinataire.
+RENEDI,CITDOC,ANO,Le colis ne peut être livré dans un automate de retrait Cityssimo en raison de l’absence de coordonnées du destinataire. Le colis sera retourné à l’expéditeur.
+RENFCO,RENFCO,ANO,"Votre colis n’a pas pu être livré ce jour, le point de retrait choisi étant fermé. Il sera remis en livraison au plus tôt."
+RENINC,CITNCG,ANO,"Votre colis n’est pas compatible avec une livraison dans un espace Cityssimo, il est rééxpédié au domicile du destinataire"
+RENPPL,CITPAM,ANO,Le colis ne peut être livré dans un automate de retrait Cityssimo. Le colis sera adressé au domicile du Destinataire.
+RENREF,DCHRMA,ANO,L’emballage de votre colis a été renforcé pour en assurer sa livraison. Il est en cours d’acheminement.
+RENREL,RENFCO,ANO,Votre colis ne peut être livré dans le point de retrait choisi. Le destinataire sera informé du nouveau point de livraison.
+RENRES,RSTNCG,ANO,Votre colis ne peut être livré ce jour. Il sera remis en livraison au plus tôt.
+RENSCR,RENFCO,ANO,Colis refusé par le point relais car il est en surcharge
+RENVLM,RENFCO,ANO,Colis trop volumineux pour le casier ou pour le point relais choisi
+RENVOL,CITNCG,ANO,Le colis ne peut être livré dans l’automate de retrait Cityssimo : sa taille n’est pas adaptée au casier. Il sera adressé au domicile du Destinataire.
+RSTACP,RSTFHB,ANO,"Votre colis ne peut être livré ce jour, l’accès à l’adresse de livraison étant impossible. Il sera remis en livraison au plus tôt."
+RSTCAD,RENCAD,ANO,"Votre colis ne peut actuellement être livré à son destinataire, l’adresse de livraison étant incomplète. Le destinataire peut contacter notre service clients pour apporter les compléments nécessaires, en cliquant sur Nous contacter en ligne."
+RSTEMP,,ANO,Non affiché
+RSTPRO,RSTPRO,ANO,"Le contenu de votre colis est prohibé, il ne pourra pas être livré à son destinataire."
+RSTREF,,ANO,Non affiché
+RSTRES,RSTNCG,ANO,Votre colis ne peut être livré ce jour. Il sera remis en livraison au plus tôt.
+RSTTRI,,ANO,Non affiché
+SCCDES,CHGRCA,ANO,"Suite à un incident, votre colis est en cours d’acheminement avec un nouveau numéro."
+SOLDOC,SOLMQD,ANO,"Votre colis a subi un incident. Nous vous remercions de prendre contact avec notre service clients, au 3631 pour les clients Particuliers auprès de vos interlocuteurs habituels pour les clients Entreprises."
+SOLMAR,SOLMQD,ANO,"Votre colis a subi un incident. Nous vous remercions de prendre contact avec notre service clients, au 3631 pour les clients Particuliers auprès de vos interlocuteurs habituels pour les clients Entreprises."
+SOLMQD,SOLMQD,ANO,"Votre colis a subi un incident. Nous vous remercions de prendre contact avec notre service clients, au 3631 pour les clients Particuliers auprès de vos interlocuteurs habituels pour les clients Entreprises."
+SOLVOL,SOLMQD,ANO,"Votre colis a subi un incident. Nous vous remercions de prendre contact avec notre service clients, au 3631 pour les clients Particuliers auprès de vos interlocuteurs habituels pour les clients Entreprises."

@@ -1,0 +1,18 @@
+2019-10-31 10:29:20 1572514160 DEBUG: URL to check 2
+2019-10-31 10:29:20 1572514160 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-10-31 10:29:20 1572514160 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-10-31 10:29:20 1572514160 DEBUG: Cart 144: Redirecting customer to E-Transactions (CARTE, VISA).
+2019-10-31 10:29:56 1572514196 DEBUG: URL to check 2
+2019-10-31 10:29:56 1572514196 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-10-31 10:29:57 1572514196 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-10-31 10:29:57 1572514196 DEBUG: Cart 142: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2019-10-31 10:31:03 1572514263 DEBUG: Call params: M=12738&R=142%20-%20Najoua%20Naciri&T=558832619&A=038483&B=0&C=MasterCard&D=2011&E=00000&F=Y&G=O&I=FRA&J=92&N=513162&O=Y&P=CARTE&Q=10%3A29%3A58&S=140564730&W=31102019&Y=FRA&Z=0-0&K=lP3IHq7nVEX%2FjwfF2oRdhof0xZ3MTXfe9QKCFqN%2BypRjkRCaElVgEEuIa2QeQ8%2FZ8lKeQorAIkxo4uBxGlW%2B95gqaVI4LnvmonnKVFVYRvlSptUNf1S%2FX3l8nkbt1G%2Bq6iIqMnNrOZ8TfcLJbSvwI7bnymB8Y5UYXRazfNEHCns%3D
+2019-10-31 10:31:10 1572514270 DEBUG: Cart 142: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2019-10-31 10:31:12 1572514272 DEBUG: Cart 142: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2019-10-31 10:31:13 1572514263 DEBUG: Cart 142: Mixed IPN
+2019-10-31 10:31:13 1572514263 DEBUG: Cart 142: First payment
+2019-10-31 10:31:13 1572514263 DEBUG: Cart 142: Validating order
+2019-10-31 10:31:14 1572514274 DEBUG: Cart 142: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2019-10-31 10:31:15 1572514263 DEBUG: Cart 142: Order 23 validated, creating details
+2019-10-31 10:31:15 1572514263 DEBUG: Cart 142: Order 23 / Le paiement a été autorisé et capturé par E-Transactions.
+2019-10-31 10:31:15 1572514275 DEBUG: Cart 142: Customer is back from E-Transactions payment page. Payment success.

@@ -1,0 +1,455 @@
+/* Quick Access Toolbar */
+
+.bootstrap.panel.colissimo-quick-access {
+    padding: 10px !important;
+}
+
+.colissimo-quick-access .colissimo-qa-link {
+    text-align: center;
+}
+
+.colissimo-quick-access .colissimo-qa-link a {
+    font-size: 13px;
+    color: #ec6707;
+}
+
+.colissimo-quick-access .colissimo-qa-link:last-child a {
+    color: #781d78;
+}
+
+.colissimo-quick-access .colissimo-qa-link a:hover {
+    text-decoration: none;
+}
+
+.colissimo-quick-access .colissimo-qa-link img {
+    height: 45px;
+}
+
+.colissimo-quick-access .colissimo-qa-link span {
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-left: 10px;
+}
+@media (min-width: 992px) {
+    .colissimo-quick-access .colissimo-qa-link span {
+        display:block;
+        padding-top:5px;
+        padding-left:0px;
+    }
+}
+@media (max-width: 991px) {
+    .colissimo-quick-access .colissimo-qa-link {
+        text-align: left;
+        margin-bottom: 10px;
+    }
+
+}
+
+/* Colissimo Progress Bar */
+
+.colissimo-progress-bar {
+    padding: 10px 10px 40px 10px;
+    text-align: center;
+}
+
+.colissimo-progress-bar .step-line {
+    display: inline-block;
+    width: 180px;
+    background: linear-gradient(90deg, #00aff0 0%, #ddd 0%);
+    height: 14px;
+    border-radius: 40px;
+    position: relative;
+}
+
+.colissimo-progress-bar .step-line.complete {
+    background: linear-gradient(90deg, #00aff0 100%, #ddd 0%);
+}
+
+.colissimo-progress-bar .js-step-line {
+    background: #00aff0;
+    width: 0;
+    position: absolute;
+    height: 14px;
+    left: 0;
+    border-radius: 40px;
+    -webkit-transition: width 0.5s;
+    transition: width 0.5s;
+}
+
+.colissimo-progress-bar .step {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    border-radius: 30px;
+    padding-top: 5px;
+    font-size: 20px;
+    position: relative;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.colissimo-progress-bar .step p {
+    position: absolute;
+    font-size: 12px;
+    bottom: -25px;
+    margin: 0;
+    width: 120px;
+    color: #aaa;
+    left: -100%;
+    text-transform: uppercase;
+}
+
+.colissimo-progress-bar .step.current {
+    background: #00aff0;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.colissimo-progress-bar .step.current:last-child {
+    margin-right: 0;
+}
+
+.colissimo-progress-bar .step.current:after {
+    content: '';
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    right: -5px;
+    bottom: -5px;
+    border: #00aff0 2px solid;
+    border-radius: 40px;
+
+}
+
+.colissimo-progress-bar .step.current p {
+    font-weight: bold;
+    color: #00aff0;
+}
+
+.colissimo-progress-bar .step.complete {
+    background: #00aff0;
+}
+
+.colissimo-progress-bar .step.complete p {
+    color: #00aff0;
+}
+
+.colissimo-progress-bar .step.incomplete {
+    background: #ddd;
+    color: #aaa;
+}
+
+/* Colissimo Affranchissement */
+
+.table.colissimo_order td.pointer.col-reference-plus,
+.table.colissimo_order td.pointer.col-reference-minus,
+.colissimo-configuration-table td.pointer.col-reference-plus,
+.colissimo-configuration-table td.pointer.col-reference-minus {
+    color: #00aff0;
+}
+
+.table.colissimo_order td.pointer.col-reference-plus:before {
+    content: "\f055";
+    font-family: 'FontAwesome', sans-serif;
+}
+
+.table.colissimo_order td.pointer.col-reference-minus:before {
+    content: "\f056";
+    font-family: 'FontAwesome', sans-serif;
+}
+
+.colissimo-configuration {
+    margin-top: 20px;
+}
+
+#colissimo-process img {
+    margin-bottom: -10px;
+    width: 100px;
+}
+
+.colissimo-configuration-table .colissimo-delivery-addr {
+    position: relative;
+}
+
+.colissimo-configuration-table .colissimo-delivery-addr div {
+    padding-right: 25px;
+}
+
+.colissimo-configuration-table .colissimo-delivery-addr i.addr-status {
+    position: absolute;
+    font-size: 19px;
+    right: 0;
+}
+
+.colissimo-configuration-table .colissimo-delivery-addr i.icon-pencil {
+    cursor: pointer;
+    position: absolute;
+    font-size: 16px;
+    right: 0;
+    top: 30px;
+}
+
+.colissimo-configuration-table .colissimo-delivery-addr i.icon-check {
+    color: green;
+}
+
+.colissimo-configuration-table .colissimo-delivery-addr i.icon-times {
+    color: red;
+}
+
+.colissimo-configuration-table .colissimo-delivery-addr p {
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+.colissimo-configuration-table .colissimo-service img {
+    width: 20px;
+    margin-bottom: 10px;
+}
+
+.colissimo-configuration-table .colissimo-weight {
+    margin: 0 auto;
+}
+
+.colissimo-configuration-table .colissimo-order-result .results-line span {
+    display: inline-block;
+    width: 120px;
+}
+
+.colissimo-configuration-table .colissimo-order-result .results-line .results-btn {
+    display: inline-block;
+    width: 50px;
+    text-align: left;
+}
+
+.colissimo-configuration-table .colissimo-order-result .results-line .results-btn a:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.colissimo-configuration-table .colissimo-order-result .results-line .results-btn i {
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+.colissimo-configuration-table .colissimo-order-result a.colissimo-error-modal {
+    color: red;
+    font-weight: bold;
+}
+
+/* Block sub details */
+
+.colissimo-order-summary-title {
+    font-size: 15px;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+    text-transform: uppercase;
+}
+
+.colissimo-order-summary {
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.colissimo-order-summary span {
+    display: inline-block;
+    width: 220px;
+}
+
+.colissimo-configuration-table tr.selected td:first-child,
+.table.colissimo_order tr.selected td:first-child {
+    border-left: 2px solid #00aff0;
+}
+
+.colissimo-configuration-table tr.selected td:last-child,
+.table.colissimo_order tr.selected td:last-child {
+    border-right: 2px solid #00aff0;
+}
+
+.colissimo-configuration-table tr.selected td,
+.table.colissimo_order tr.selected td {
+    background-color: #eaf9ff !important;
+    border-top: 2px solid #00aff0 !important;
+    border-bottom: 0 !important;
+}
+
+.colissimo-configuration-table tr.sub-tr td.sub-td,
+.table.colissimo_order tr.sub-tr td.sub-td {
+    background-color: #eaf9ff !important;
+    border-bottom: 2px solid #00aff0 !important;
+    border-right: 2px solid #00aff0;
+    border-left: 2px solid #00aff0;
+}
+
+.colissimo-configuration-table tr.sub-tr div.border-top,
+.table.colissimo_order tr.sub-tr div.border-top {
+    background-color: #eaf9ff;
+    border-top: 1px solid #00aff0;
+    padding: 20px;
+}
+
+.colissimo-configuration-table tr.sub-tr .btn-close {
+    margin-bottom: 20px;
+}
+
+.colissimo-configuration-table span.text-muted {
+    display: block;
+}
+
+#colissimo-process-result .alert-info {
+    margin-top: 20px;
+}
+
+.colissimo-download-result-buttons div {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.colissimo-pickup-point-number {
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+/* Colissimo Deposit Slip */
+
+.colissimo-barcode img {
+    height: 30px;
+}
+
+.colissimo-barcode span {
+    font-weight: bold;
+    padding-left: 15px;
+}
+
+.colissimo-barcode div {
+    padding-top: 15px;
+}
+
+.colissimo-shipments-waiting {
+    font-size: 16px;
+    border-bottom: 1px solid;
+    text-transform: uppercase;
+    margin: 35px 0;
+    font-weight: bold;
+}
+
+.colissimo-deposit-slip-table tr.selected td {
+    background: #DCF4F9 !important;
+}
+
+.colissimo-deposit-slip-table td.customer {
+    text-transform: uppercase;
+}
+
+#colissimo-deposit-slip .submit-block {
+    text-align: center
+}
+
+#deposit-slip-result {
+    margin-top: 20px;
+}
+
+#deposit-slip-result div {
+    width: 450px;
+    margin: 0 auto;
+}
+
+#form-colissimo-deposit-slip-history {
+    margin-top: 20px;
+}
+
+.colissimo-select-unselect {
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+/* Colissimo Dashboard */
+
+.colissimo-dashboard-intro.alert-info .colissimo-tracking-update {
+    margin-top: 15px;
+}
+
+.colissimo-process-update-tracking {
+    padding: 15px 30px;
+}
+
+.colissimo-dashboard-intro .btn-primary {
+    margin-top: 15px;
+}
+
+.table.colissimo_order .td-risk i.icon-warning,
+.colissimo-dashboard-intro i.icon-warning {
+    font-size: 20px;
+    color: #9E0B0F;
+}
+
+.colissimo-create-label {
+    margin-bottom: 15px;
+}
+
+.coliship-enabled.colissimo-create-label {
+    display: none;
+}
+
+.colissimo-hook-admin-order .colissimo-order-page {
+    display: none;
+}
+
+.colissimo-update-order-tracking {
+    padding-top: 30px;
+}
+
+
+.colissimo-shipments .tracking-number div {
+    padding-bottom: 10px;
+}
+
+.colissimo-shipments .icon-action {
+    margin: 0 5px;
+}
+
+.colissimo-shipments .icon-action:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.icon-xl {
+    font-size: 20px;
+    vertical-align: sub;
+}
+
+.icon-xl.icon-trash {
+    color: #9E0B0F;
+}
+
+/* Colissimo Coliship */
+
+#colissimo-coliship-form .coliship-step {
+    margin-bottom: 30px;
+}
+
+#colissimo-coliship-form .coliship-step .coliship-step-title {
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0;
+}
+
+#colissimo-coliship-form .coliship-step .coliship-step-subtitle {
+    color: darkgray;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+
+#colissimo-coliship-form .coliship-step .btn-coliship {
+    background: #781d78;
+    border-color: #781d78;
+    margin: 15px 0;
+}
+
+#colissimo-coliship-form .coliship-tips {
+    padding-top: 10px;
+}

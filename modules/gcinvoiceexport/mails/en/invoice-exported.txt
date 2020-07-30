@@ -1,0 +1,5 @@
+[{shop_url}]
+
+{mail_text}
+
+{shop_name} [{shop_url}]

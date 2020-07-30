@@ -1,0 +1,4 @@
+2019-12-16 09:18:44 1576484324 DEBUG: URL to check 2
+2019-12-16 09:18:44 1576484324 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-12-16 09:18:44 1576484324 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-12-16 09:18:44 1576484324 DEBUG: Cart 333: Redirecting customer to E-Transactions (CARTE, VISA).

@@ -1,0 +1,14 @@
+
+[/{shop_url}]
+
+Hi {firstname} {lastname},
+
+Return label for your order : {reference}
+
+Please find, as an attachment, the return label for your order : {reference}
+
+
+Regards,
+{shop_name} [/{shop_url}] rÃ©alisÃ© avec PrestaShop(tm)
+[http://www.prestashop.com/]
+

@@ -1,0 +1,11 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:char="http://chargeur.tracking.geopost.com/">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <char:track>
+            <accountNumber></accountNumber>
+            <password></password>
+            <skybillNumber></skybillNumber>
+        </char:track>
+    </soapenv:Body>
+</soapenv:Envelope>

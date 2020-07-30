@@ -1,0 +1,11 @@
+2020-05-16 15:24:22 1589635462 DEBUG: URL to check 2
+2020-05-16 15:24:22 1589635462 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-16 15:24:22 1589635462 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-05-16 15:24:22 1589635462 DEBUG: Cart 715: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-05-16 15:27:18 1589635638 DEBUG: Call params: M=9697&R=715%20-%20Adam%20Toubeau&T=926586873&A=655638&B=0&C=MasterCard&D=2110&E=00000&F=Y&G=O&I=BEL&J=08&N=525636&O=Y&P=CARTE&Q=15%3A24%3A23&S=191364200&W=16052020&Y=BEL&Z=0-0&K=ZdZDNynfNvCG9ocsdXl%2Fti27e6Fz5RD8dCRuHcW10Sq2%2FB%2BVgcKMcVFl3Hl%2FLgm0dAuA%2B8p8t1CXs0ColCAQdO0eS4dDV7ASkbxzaQfC3KXyp8gdc1Gui4HpyxWaMwvOodZ1yZXdynStHdWOIrMwz8TQR%2FxyE%2Fh0BMufsIHMdhA%3D
+2020-05-16 15:27:28 1589635638 DEBUG: Cart 715: Mixed IPN
+2020-05-16 15:27:28 1589635638 DEBUG: Cart 715: First payment
+2020-05-16 15:27:28 1589635638 DEBUG: Cart 715: Validating order
+2020-05-16 15:27:29 1589635638 DEBUG: Cart 715: Order 76 validated, creating details
+2020-05-16 15:27:29 1589635638 DEBUG: Cart 715: Order 76 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-05-16 15:28:10 1589635690 DEBUG: Cart 715: Customer is back from E-Transactions payment page. Payment success.

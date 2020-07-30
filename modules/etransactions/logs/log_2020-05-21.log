@@ -1,0 +1,18 @@
+2020-05-21 19:08:00 1590080880 DEBUG: URL to check 2
+2020-05-21 19:08:00 1590080880 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-21 19:08:00 1590080880 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-21 19:08:00 1590080880 DEBUG: Cart 739: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-05-21 19:09:00 1590080940 DEBUG: Call params: M=8974&R=739%20-%20Helene%20Ouvrard&T=927740982&A=010552&B=0&C=MasterCard&D=2206&E=00000&F=Y&G=O&I=FRA&J=02&N=513641&O=Y&P=3DSECURE&Q=19%3A08%3A03&S=192130854&W=21052020&Y=FRA&Z=0-0&K=IT9S2ws%2F6Zfj2D2%2FmFyZ7tIpMcVgU56ciPIM1hMeXZA9kVniulXOroZl%2BP%2BfRDRv7z7%2FKZZwdz0t1sv8DdVJzfczukv5xIZjm%2B54mOWrJZAnh5ZIrKO%2FKBRz7PlswXgTPubpGz5S7DC6B%2Fh6jspcPxSmzM6ipbOa6hvxNubkPU8%3D
+2020-05-21 19:09:02 1590080942 DEBUG: Cart 739: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-05-21 19:09:05 1590080945 DEBUG: Cart 739: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-05-21 19:09:06 1590080946 DEBUG: Cart 739: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-05-21 19:09:08 1590080948 DEBUG: Cart 739: Customer is back from E-Transactions payment page. Waiting order validation (loop 3).
+2020-05-21 19:09:09 1590080949 DEBUG: Cart 739: Customer is back from E-Transactions payment page. Waiting order validation (loop 4).
+2020-05-21 19:09:10 1590080940 DEBUG: Cart 739: Mixed IPN
+2020-05-21 19:09:10 1590080940 DEBUG: Cart 739: First payment
+2020-05-21 19:09:10 1590080940 DEBUG: Cart 739: Validating order
+2020-05-21 19:09:10 1590080950 DEBUG: Cart 739: Customer is back from E-Transactions payment page. Waiting order validation (loop 5).
+2020-05-21 19:09:12 1590080940 DEBUG: Cart 739: Order 77 validated, creating details
+2020-05-21 19:09:12 1590080952 DEBUG: Cart 739: Customer is back from E-Transactions payment page. Waiting order validation (loop 6).
+2020-05-21 19:09:12 1590080940 DEBUG: Cart 739: Order 77 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-05-21 19:09:13 1590080953 DEBUG: Cart 739: Customer is back from E-Transactions payment page. Payment success.

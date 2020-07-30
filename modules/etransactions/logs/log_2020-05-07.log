@@ -1,0 +1,22 @@
+2020-05-07 13:02:48 1588849368 DEBUG: URL to check 2
+2020-05-07 13:02:48 1588849368 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-07 13:02:48 1588849368 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-07 13:02:48 1588849368 DEBUG: Cart 673: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-05-07 13:03:54 1588849434 DEBUG: Call params: M=7278&R=673%20-%20eloise%20turck&T=924200967&A=882605&B=0&C=MasterCard&D=2209&E=00000&F=Y&G=O&I=FRA&J=57&N=513778&O=Y&P=3DSECURE&Q=13%3A02%3A49&S=189646833&W=07052020&Y=FRA&Z=0-0&K=sW31GYOrh5LKb%2B21ZhPLwZeGxtcVYHyqq%2BgZNhv3H17Fhk%2F3R5R3aDmO6GqDW%2Fc95Moj3l%2Fg5jxhE8A%2FCIlps1MOOAKvNVHiaZAhjjwwiZuhI1S0kJrEBjzQS1tTDJLZS%2Ftduok12nQJiUgJBGEeeBENw1rpi%2FFdrCAaL7fkWik%3D
+2020-05-07 13:04:04 1588849434 DEBUG: Cart 673: Mixed IPN
+2020-05-07 13:04:04 1588849434 DEBUG: Cart 673: First payment
+2020-05-07 13:04:04 1588849434 DEBUG: Cart 673: Validating order
+2020-05-07 13:04:05 1588849445 DEBUG: Cart 673: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-05-07 13:04:07 1588849434 DEBUG: Cart 673: Order 69 validated, creating details
+2020-05-07 13:04:07 1588849434 DEBUG: Cart 673: Order 69 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-05-07 13:04:07 1588849447 DEBUG: Cart 673: Customer is back from E-Transactions payment page. Payment success.
+2020-05-07 17:27:36 1588865256 DEBUG: URL to check 2
+2020-05-07 17:27:36 1588865256 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-07 17:27:36 1588865256 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-07 17:27:36 1588865256 DEBUG: Cart 682: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-05-07 17:28:45 1588865325 DEBUG: Call params: M=3158&R=682%20-%20violaine%20gestalder&T=924327208&A=434213&B=0&C=Visa&D=2009&E=00000&F=Y&G=O&I=FRA&J=89&N=497160&O=Y&P=3DSECURE&Q=17%3A27%3A37&S=189723936&W=07052020&Y=FRA&Z=0-0&K=kVAEqJeFHv7AA1adJKT4g13WPhbWQPYXLZtOgcbr44kwlllKZZ%2FG%2BcxkxF7qXZluPO1dhXb%2BnEeT6HhTNA3djRkNBNa4El5Y9NcsM2n8SKFnXHEZMhur1NUcJjXUiPgZpW2r%2FC6qgR8kOFMdYZ0GTRM%2FkIZO3W3%2FBlm3yvjPAEE%3D
+2020-05-07 17:28:55 1588865325 DEBUG: Cart 682: Mixed IPN
+2020-05-07 17:28:55 1588865325 DEBUG: Cart 682: First payment
+2020-05-07 17:28:55 1588865325 DEBUG: Cart 682: Validating order
+2020-05-07 17:28:58 1588865325 DEBUG: Cart 682: Order 70 validated, creating details
+2020-05-07 17:28:58 1588865325 DEBUG: Cart 682: Order 70 / Le paiement a été autorisé et capturé par E-Transactions.

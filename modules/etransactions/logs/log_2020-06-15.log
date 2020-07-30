@@ -1,0 +1,24 @@
+2020-06-15 14:24:30 1592223870 DEBUG: URL to check 2
+2020-06-15 14:24:30 1592223870 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-06-15 14:24:30 1592223870 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-06-15 14:24:30 1592223870 DEBUG: Cart 816: Redirecting customer to E-Transactions (CARTE, CB).
+2020-06-15 14:25:21 1592223921 DEBUG: Call params: M=16287&R=816%20-%20Olivier%20Benhamou&T=933872740&A=553365&B=0&C=Visa&D=2010&E=00000&F=Y&G=O&I=FRA&J=57&N=497034&O=Y&P=CARTE&Q=14%3A24%3A31&S=196536581&W=15062020&Y=FRA&Z=0-0&K=YB0wHqtnUighWjQUISF%2FW4dSn4tknbBSHIqbZ1Zd46mEXoq%2Bd92Md%2B6i%2B7YlZDa4f1laCHZvJFw%2BqTv8fJuLQ6j1nl0KuwBA9WZSMC3lE0H7%2B6L7vtZZx%2BuSaC7j4wHMmNBAYYiwBY8S0OHXEi%2FFE0xfCuyZ5wDNwW8m6cFr5V4%3D
+2020-06-15 14:25:29 1592223929 DEBUG: Cart 816: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-06-15 14:25:31 1592223931 DEBUG: Cart 816: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-06-15 14:25:31 1592223921 DEBUG: Cart 816: Mixed IPN
+2020-06-15 14:25:32 1592223921 DEBUG: Cart 816: First payment
+2020-06-15 14:25:32 1592223921 DEBUG: Cart 816: Validating order
+2020-06-15 14:25:32 1592223932 DEBUG: Cart 816: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-06-15 14:25:33 1592223921 DEBUG: Cart 816: Order 84 validated, creating details
+2020-06-15 14:25:33 1592223921 DEBUG: Cart 816: Order 84 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-06-15 14:25:34 1592223934 DEBUG: Cart 816: Customer is back from E-Transactions payment page. Payment success.
+2020-06-15 18:26:22 1592238382 DEBUG: URL to check 2
+2020-06-15 18:26:22 1592238382 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-06-15 18:26:22 1592238382 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-06-15 18:26:22 1592238382 DEBUG: Cart 798: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-06-15 18:28:23 1592238503 DEBUG: Call params: M=12729&R=798%20-%20aurelie%20soyez&T=1482058717&A=174934&B=0&C=MasterCard&D=2305&E=00000&F=Y&G=O&I=FRA&J=90&N=513162&O=Y&P=3DSECURE&Q=18%3A26%3A23&S=333901392&W=15062020&Y=FRA&Z=0-0&K=3CWH8E0rWVe70YE8NxbPC%2Fc6DWYgvF%2BFwhY0GZzLM3oQ05hhFplE8W%2FXbuQbktH9V7QoG149APXA%2FgqyISJuCR9rju7bGCwEFZiLc70asSN3e12tU1g2E5CGhPm9q9dW%2F5fIHyKIEgyU9czclrVjamhx9r7OTj7TflIyZAuu0Ec%3D
+2020-06-15 18:28:33 1592238503 DEBUG: Cart 798: Mixed IPN
+2020-06-15 18:28:33 1592238503 DEBUG: Cart 798: First payment
+2020-06-15 18:28:33 1592238503 DEBUG: Cart 798: Validating order
+2020-06-15 18:28:33 1592238503 DEBUG: Cart 798: Order 85 validated, creating details
+2020-06-15 18:28:33 1592238503 DEBUG: Cart 798: Order 85 / Le paiement a été autorisé et capturé par E-Transactions.

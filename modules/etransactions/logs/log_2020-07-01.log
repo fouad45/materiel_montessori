@@ -1,0 +1,40 @@
+2020-07-01 10:57:17 1593593837 DEBUG: URL to check 2
+2020-07-01 10:57:17 1593593837 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-01 10:57:18 1593593837 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-07-01 10:57:18 1593593837 DEBUG: Cart 874: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-07-01 11:05:33 1593594333 DEBUG: Call params: M=1719&R=874%20-%20Jeanne%20DAVID&T=1485540456&B=0&C=EUROCARD_MASTERCARD&D=2201&E=00001&I=FRA&J=61&N=513130&P=3DSECURE&Q=10%3A57%3A19&S=336991804&W=01072020&Z=0-0&K=SvOvgIfarS3gJb1huPg%2FzrzVSkNEKHTcKm11vGxTyjIML2NwDsjP8xBiBqn3Hx0VqM2oamChAyfrSsxKsU3koq8DRiQW%2FHEGWYKxXBvdQ4zYHhBojz7eytrCtgXWGik1KVi5ZP%2Fu%2FXWWMUuLQ27a7lna3hdv%2BA1Jjo0a6Pc269s%3D
+2020-07-01 11:05:43 1593594333 DEBUG: Cart 874: (IPN) Payment was refused by E-Transactions (1).
+2020-07-01 11:06:05 1593594365 DEBUG: Call params: M=1719&R=874%20-%20Jeanne%20DAVID&T=1485540456&B=0&C=EUROCARD_MASTERCARD&D=2201&E=00001&I=FRA&J=61&N=513130&P=3DSECURE&Q=10%3A57%3A19&S=336991804&W=01072020&Z=0-0&K=SvOvgIfarS3gJb1huPg%2FzrzVSkNEKHTcKm11vGxTyjIML2NwDsjP8xBiBqn3Hx0VqM2oamChAyfrSsxKsU3koq8DRiQW%2FHEGWYKxXBvdQ4zYHhBojz7eytrCtgXWGik1KVi5ZP%2Fu%2FXWWMUuLQ27a7lna3hdv%2BA1Jjo0a6Pc269s%3D
+2020-07-01 11:06:15 1593594365 DEBUG: Cart 874: (IPN) Payment was refused by E-Transactions (1).
+2020-07-01 11:06:42 1593594402 DEBUG: Call params: M=1719&R=874%20-%20Jeanne%20DAVID&T=1485540456&B=0&C=EUROCARD_MASTERCARD&D=2201&E=00001&I=FRA&J=61&N=513130&P=3DSECURE&Q=10%3A57%3A19&S=336991804&W=01072020&Z=0-0&K=SvOvgIfarS3gJb1huPg%2FzrzVSkNEKHTcKm11vGxTyjIML2NwDsjP8xBiBqn3Hx0VqM2oamChAyfrSsxKsU3koq8DRiQW%2FHEGWYKxXBvdQ4zYHhBojz7eytrCtgXWGik1KVi5ZP%2Fu%2FXWWMUuLQ27a7lna3hdv%2BA1Jjo0a6Pc269s%3D
+2020-07-01 11:06:44 1593594404 DEBUG: Cart 874: Customer is back from E-Transactions payment page. Payment refused by E-Transactions (1).
+2020-07-01 11:06:52 1593594402 DEBUG: Cart 874: (IPN) Payment was refused by E-Transactions (1).
+2020-07-01 11:11:16 1593594676 DEBUG: URL to check 2
+2020-07-01 11:11:16 1593594676 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-01 11:11:16 1593594676 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-07-01 11:11:16 1593594676 DEBUG: Cart 874: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-07-01 11:12:35 1593594755 DEBUG: URL to check 2
+2020-07-01 11:12:35 1593594755 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-01 11:12:35 1593594755 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-07-01 11:12:35 1593594755 DEBUG: Cart 874: Redirecting customer to E-Transactions (CARTE, CB).
+2020-07-01 11:13:02 1593594782 DEBUG: URL to check 2
+2020-07-01 11:13:02 1593594782 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-01 11:13:02 1593594782 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-07-01 11:13:02 1593594782 DEBUG: Cart 874: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-07-01 11:18:28 1593595108 DEBUG: URL to check 2
+2020-07-01 11:18:28 1593595108 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-01 11:18:28 1593595108 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-07-01 11:18:28 1593595108 DEBUG: Cart 874: Redirecting customer to E-Transactions (CARTE, CB).
+2020-07-01 11:30:40 1593595840 DEBUG: URL to check 2
+2020-07-01 11:30:40 1593595840 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-01 11:30:40 1593595840 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-07-01 11:30:40 1593595840 DEBUG: Cart 876: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-07-01 11:32:03 1593595923 DEBUG: Call params: M=1719&R=876%20-%20Jeanne%20DAVID&T=1485548039&A=532212&B=0&C=MasterCard&D=2201&E=00000&F=Y&G=O&I=FRA&J=61&N=513130&O=Y&P=3DSECURE&Q=11%3A30%3A41&S=336998485&W=01072020&Y=FRA&Z=0-0&K=cbaw7ImAHiLICSMJNkCYk4Ds3c5tjGIRDm%2Fk%2Ffxjx38pEv048BYorYkjtD4dzU7lp6PNIdVmA7%2FSyQ6NhYAro08%2Fiha4EXO2%2FO0ZSZSOlJzpH3kBD7O%2FGCeieSHCkWA89WXQc%2BGB%2BZJbO0K67wpwA4gndoyYC9Vg2YwVqgkspEc%3D
+2020-07-01 11:32:12 1593595932 DEBUG: Cart 876: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-07-01 11:32:13 1593595923 DEBUG: Cart 876: Mixed IPN
+2020-07-01 11:32:13 1593595923 DEBUG: Cart 876: First payment
+2020-07-01 11:32:13 1593595923 DEBUG: Cart 876: Validating order
+2020-07-01 11:32:13 1593595933 DEBUG: Cart 876: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-07-01 11:32:15 1593595923 DEBUG: Cart 876: Order 89 validated, creating details
+2020-07-01 11:32:15 1593595923 DEBUG: Cart 876: Order 89 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-07-01 11:32:17 1593595937 DEBUG: Cart 876: Customer is back from E-Transactions payment page. Payment success.

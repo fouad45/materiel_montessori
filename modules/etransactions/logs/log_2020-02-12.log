@@ -1,0 +1,18 @@
+2020-02-12 18:56:53 1581530213 DEBUG: URL to check 2
+2020-02-12 18:56:53 1581530213 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-02-12 18:56:53 1581530213 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-02-12 18:56:53 1581530213 DEBUG: Cart 511: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-02-12 18:58:41 1581530321 DEBUG: Call params: M=12198&R=511%20-%20GUILLAUME%20EUTHINE&T=598170239&A=489543&B=0&C=Visa&D=2209&E=00000&F=Y&G=O&I=SWE&J=09&N=497464&O=Y&P=3DSECURE&Q=18%3A57%3A10&S=169085222&W=12022020&Y=FRA&Z=0-0&K=VoPH0sT51ruJufJMAPGjuU11CTJLweQYs%2BcLleND2TWhewo6%2BPa9GCCZLZOe%2Fp%2FfcDeAXQTU5a21GR%2B32jbIHHXn1XVTs7TiTBXJjPN2uySjOP8Ut6Hl1X7MtGF0O9kgphz35znPJpzR1AsUljs70Rz7SQHLtvlCfo970SB30kk%3D
+2020-02-12 18:58:51 1581530331 DEBUG: Cart 511: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-02-12 18:58:51 1581530321 DEBUG: Cart 511: Mixed IPN
+2020-02-12 18:58:52 1581530321 DEBUG: Cart 511: First payment
+2020-02-12 18:58:52 1581530321 DEBUG: Cart 511: Validating order
+2020-02-12 18:58:53 1581530333 DEBUG: Cart 511: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-02-12 18:58:54 1581530334 DEBUG: Cart 511: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-02-12 18:58:55 1581530335 DEBUG: Cart 511: Customer is back from E-Transactions payment page. Waiting order validation (loop 3).
+2020-02-12 18:58:57 1581530337 DEBUG: Cart 511: Customer is back from E-Transactions payment page. Waiting order validation (loop 4).
+2020-02-12 18:58:58 1581530338 DEBUG: Cart 511: Customer is back from E-Transactions payment page. Waiting order validation (loop 5).
+2020-02-12 18:58:59 1581530339 DEBUG: Cart 511: Customer is back from E-Transactions payment page. Waiting order validation (loop 6).
+2020-02-12 18:58:59 1581530321 DEBUG: Cart 511: Order 45 validated, creating details
+2020-02-12 18:59:00 1581530321 DEBUG: Cart 511: Order 45 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-02-12 18:59:01 1581530341 DEBUG: Cart 511: Customer is back from E-Transactions payment page. Payment success.

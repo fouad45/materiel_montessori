@@ -1,0 +1,14 @@
+2020-04-27 17:38:53 1588001933 DEBUG: URL to check 2
+2020-04-27 17:38:53 1588001933 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-04-27 17:38:54 1588001933 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-04-27 17:38:54 1588001933 DEBUG: Cart 643: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-04-27 17:40:28 1588002028 DEBUG: Call params: M=5459&R=643%20-%20Julie%20BAYET&T=921440107&A=763628&B=0&C=Visa&D=2208&E=00000&F=Y&G=O&I=BEL&J=27&N=489114&O=Y&P=CARTE&Q=17%3A38%3A54&S=187533497&W=27042020&Y=BEL&Z=0-0&K=Ug0VAR1PwKRf%2F4a07DQSUagPN7TosRclwpZ62na0Mt1FSQX72Ti061qn7IsDHAMgSe3EYsezaSSgG4grgajEoB6BM7lOoVpiwIT9n5v%2BH0ifKmhQsxpg1JHyQeRYZjHXeNriW%2Bs8K5e8RM1uCRZeMcIcH5P3vU8BkP6jZnkrHyw%3D
+2020-04-27 17:40:36 1588002036 DEBUG: Cart 643: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-04-27 17:40:37 1588002037 DEBUG: Cart 643: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-04-27 17:40:38 1588002028 DEBUG: Cart 643: Mixed IPN
+2020-04-27 17:40:39 1588002028 DEBUG: Cart 643: First payment
+2020-04-27 17:40:39 1588002028 DEBUG: Cart 643: Validating order
+2020-04-27 17:40:39 1588002039 DEBUG: Cart 643: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-04-27 17:40:40 1588002028 DEBUG: Cart 643: Order 63 validated, creating details
+2020-04-27 17:40:40 1588002028 DEBUG: Cart 643: Order 63 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-04-27 17:40:40 1588002040 DEBUG: Cart 643: Customer is back from E-Transactions payment page. Payment success.

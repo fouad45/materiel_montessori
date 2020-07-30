@@ -1,0 +1,17 @@
+2019-12-03 14:53:33 1575381213 DEBUG: URL to check 2
+2019-12-03 14:53:33 1575381213 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-12-03 14:53:33 1575381213 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-12-03 14:53:33 1575381213 DEBUG: Cart 257: Redirecting customer to E-Transactions (CARTE, VISA).
+2019-12-03 15:00:16 1575381616 DEBUG: Call params: M=6770&R=257%20-%20Christine%20%20DORIAT&T=571511201&B=0&C=VISA&D=2009&E=00040&F=N&G=N&I=FRA&J=55&N=497301&O=Y&P=3DSECURE&Q=14%3A53%3A34&S=149956329&W=03122019&Z=0-0&K=CDffOEM2c54oyeLMhcGiZD%2BRV9wK6ykiVBURJg34eWi1iMb4b0dgdsfl4NXzxdxmoZNvfJKFwLlauzlJ6Xnp8wD5u3IDoWBCc8HB2Az2EQMjyBlGNmqtYYd1madrjR05lT669opBDpXQjQr5ixWjAji7mSgRoIByqzdTNAxfcUU%3D
+2019-12-03 15:00:19 1575381619 DEBUG: Cart 257: Customer is back from E-Transactions payment page. Payment refused by E-Transactions (40).
+2019-12-03 15:00:26 1575381616 DEBUG: Cart 257: (IPN) Payment was refused by E-Transactions (40).
+2019-12-03 15:00:54 1575381654 DEBUG: URL to check 2
+2019-12-03 15:00:54 1575381654 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-12-03 15:00:54 1575381654 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-12-03 15:00:54 1575381654 DEBUG: Cart 257: Redirecting customer to E-Transactions (CARTE, VISA).
+2019-12-03 15:02:19 1575381739 DEBUG: Call params: M=6770&R=257%20-%20Christine%20%20DORIAT&T=571511201&A=594676&B=0&C=Visa&D=2009&E=00000&F=Y&G=O&I=FRA&J=55&N=497301&O=Y&P=3DSECURE&Q=14%3A53%3A34&S=149958166&W=03122019&Y=FRA&Z=0-0&K=EHzZK%2BSA5scxhANOwP8S3rERcIpRuk09t7jyrcLqAEninn1ZaP1nnR4xaBr3okwSkaFoIk4X7MubT2KTf7qY%2FRmG4qD1qjzZklG6sK2HG8yt1hwIiT8nVeX9y7Vn3VKayeXsXJy7lnIu6oPwScPKYUvhDv9VBVitY3T2COv0czA%3D
+2019-12-03 15:02:29 1575381739 DEBUG: Cart 257: Mixed IPN
+2019-12-03 15:02:30 1575381739 DEBUG: Cart 257: First payment
+2019-12-03 15:02:30 1575381739 DEBUG: Cart 257: Validating order
+2019-12-03 15:02:31 1575381739 DEBUG: Cart 257: Order 29 validated, creating details
+2019-12-03 15:02:31 1575381739 DEBUG: Cart 257: Order 29 / Le paiement a été autorisé et capturé par E-Transactions.

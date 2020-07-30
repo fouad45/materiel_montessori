@@ -1,0 +1,87 @@
+/* AUTO AFFRANCHISSEMENT */
+
+#colissimo-modal-auto .modal-dialog {
+    padding: 25px;
+}
+
+#colissimo-modal-auto .modal-dialog p.modal-confirm {
+    font-weight: bold;
+    padding: 15px 0;
+    font-size: 14px;
+}
+
+#colissimo-modal-auto .modal-dialog .modal-actions {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#colissimo-modal-auto .modal-dialog .modal-actions button {
+    text-transform: uppercase;
+}
+
+/* WHAT'S NEW */
+
+#colissimo-modal-upgrade .modal-dialog {
+    padding: 25px;
+}
+
+#colissimo-modal-upgrade .item:before {
+    content: "";
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    margin-right: 5px;
+    background: black;
+    vertical-align: middle;
+}
+
+#colissimo-modal-upgrade .item {
+    font-weight: bold;
+    font-size: 13px;
+    padding-top: 15px;
+}
+
+#colissimo-modal-upgrade img {
+    padding: 15px;
+}
+
+#colissimo-modal-upgrade .modal-actions {
+    padding-top: 25px;
+}
+
+#colissimo-modal-upgrade .modal-actions .btn.btn-danger {
+    float: right;
+}
+
+#colissimo-modal-upgrade .modal-actions label {
+    padding-top: 5px;
+}
+
+#colissimo-modal-upgrade .modal-actions input[type=checkbox] {
+    vertical-align: text-bottom;
+}
+
+.colissimo-modal-delete-label .modal-dialog p.modal-confirm, .colissimo-modal-mail-label .modal-dialog p.modal-confirm  {
+    font-weight: bold;
+    padding: 15px 0;
+    font-size: 14px;
+}
+
+.colissimo-modal-delete-label .modal-dialog .modal-actions, .colissimo-modal-mail-label .modal-dialog .modal-actions {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.colissimo-modal-delete-label .modal-dialog .modal-actions button,.colissimo-modal-mail-label .modal-dialog .modal-actions button {
+    text-transform: uppercase;
+}
+
+#colissimo-modal-upgrade .img-flag-uk {
+    width: 140px;
+    margin: 0 auto;
+    padding-top: 0;
+}
+
+#colissimo-modal-upgrade .img-timeline {
+    margin: 0 auto;
+}

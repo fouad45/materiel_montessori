@@ -1,0 +1,223 @@
+/**
+* 2007-2016 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author    PrestaShop SA <contact@prestashop.com>
+*  @copyright 2007-2016 PrestaShop SA
+*  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*
+* Don't forget to prefix your containers with your own identifier
+* to avoid any conflicts with others containers.
+*/
+
+#fieldsizechart{
+	max-width: 1100px;
+    height: auto;
+   
+    width: auto;
+    background: none;
+}
+.fieldsizechart_content{
+	    max-width: calc(100%);
+    width: calc(100%);
+    position: relative;
+    background-color: #fefefe;
+}
+@media (max-width: 767px){
+	#fieldsizechart{
+		 overflow-x: hidden;
+    overflow-y: auto;
+	}
+}
+@media (min-width: 992px){
+	.fieldsizechart_content{
+		margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+	}
+}
+#fieldsizechart .cross{
+	    position: absolute;
+    right: 0;
+    top: 0;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    z-index: 100;
+    padding: 3px;
+    background: #bbb none repeat scroll 0 0;
+    font-size: 20px;
+    line-height: 17px;
+    text-align: center;
+    font-weight: 400;
+    color: #fff;
+}
+
+
+#fieldsizechart-show{
+  cursor: pointer;
+  font-size: 14px;
+  margin-top: 15px;
+}
+.box-cart-bottom .add_to_cart_container #fieldsizechart-show{
+  text-align: center;
+  margin-top: 10px;
+}
+.box-cart-bottom .add_to_cart_container #fieldsizechart-show:before{
+  line-height: 12px;
+}
+#fieldsizechart-show:before{
+  content: "\f0ce";
+font: 400 15px/31px "FontAwesome";
+margin-right: 5px;
+display: inline-block;
+}
+#fieldsizechart-show:hover{
+    color:#61a321;
+    transition:all 0.4s ease 0s;
+}
+#product #fieldsizechart .tab-pane{
+    border-top: none;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding-bottom: 10px;
+}
+#fieldsizechart .page-heading{
+border: 0 none;
+display: block;
+font-size: 36px;
+line-height: 1;
+margin: 0 0 20px;
+padding: 0;
+text-align: center;
+}
+.backgroundc{
+    background:#e3e3e3;
+}
+.title-measure{
+   font-size: 24px;
+line-height:24px;
+margin: -3px 0 37px;
+ text-transform: uppercase;
+}
+.title-measure.a2{
+    margin-bottom:40px;
+}
+#fieldsizechart-global .table-sizegudie{
+    border:1px solid #e5e5e5;
+}
+#fieldsizechart .border-right{
+   border-right:1px solid #e5e5e5;
+}
+.left-content-size{
+    float:left;
+    padding: 0 30px 30px;
+}
+.right-content-size{
+    float: left;
+    max-width: 60%;
+    overflow-x: auto;
+    padding: 0 15px;
+}
+.text-measure li em{
+    color:#eb5f60;
+}
+.text-measure li{
+    font-size:14px;
+    line-height:16px;
+        margin-bottom: 15px;
+}
+.rte ul.text-measure{
+      list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 36px;
+}
+.text-measure li:before{
+    content: "\f111";
+    font-family: "fontawesome";
+    font-size: 10px;
+    line-height: 15px;
+    margin-right: 5px;
+    vertical-align: bottom;
+}
+#fieldsizechart-overlay {
+  background-color: #000;
+  height: 100%;
+  left: 0;
+  display: none;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 5103;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=20);
+  opacity: 0.7; }
+
+* html #fieldsizechart-overlay {
+  position: absolute;
+  left: 0;
+  margin-left: -160px;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=20);
+  opacity: 0.7; }
+
+#fieldsizechart {
+  position: fixed;
+  z-index: 5104;
+  display: none;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  margin: auto;
+  right: 0px;
+}
+#fieldsizechart .table > thead > tr > th.nobordered-cell  {
+background: none !important;
+border-top: 1px solid white;
+border-left: 1px solid white;
+}
+#fieldsizechart .bordered-cell, #fieldsizechart .table > thead > tr > th {
+background: #fff none repeat scroll 0 0 !important;
+color: #555555;
+font-size: 18px;
+text-transform: uppercase;
+}
+.hover_banner_img img{
+    max-width:100%;
+    height:auto;
+}
+.hover_banner_img img:hover{
+    opacity:0.7;
+}
+
+#fieldsizechart .table-striped > tbody > tr:nth-child(odd) > td, #fieldsizechart .table-striped > tbody > tr:nth-child(odd) > th{
+  background-color: #FAFAFA;
+}
+#fieldsizechart .fieldsizechart-content{
+  padding: 15px;
+  height: 80%;
+}
+@media (max-width: 479px){
+#fieldsizechart .fieldsizechart-content{
+  height: 70%;
+}}
+#fieldsizechart .tab-content{
+  height: 95%;
+}
+ 

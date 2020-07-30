@@ -1,0 +1,10 @@
+2020-06-24 18:42:15 1593016935 DEBUG: URL to check 2
+2020-06-24 18:42:15 1593016935 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-06-24 18:42:15 1593016935 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-06-24 18:42:15 1593016935 DEBUG: Cart 852: Redirecting customer to E-Transactions (CARTE, CB).
+2020-06-24 18:43:46 1593017026 DEBUG: Call params: M=15180&R=852%20-%20INGRID%20DE%20WIT&T=1483941213&A=640692&B=0&C=Visa&D=2209&E=00000&F=Y&G=O&I=FRA&J=13&N=497380&O=Y&P=3DSECURE&Q=18%3A42%3A19&S=335420578&W=24062020&Y=FRA&Z=0-0&K=HjMduqTz4Gvh819iHSKk5zLB7Je2h0MCx9jNJVngshGMECAAjBy1CO5wiXGht9XThYWwIMbrlfMHhAAhqLdRDCUBdL%2FCZ5GeTLw7W0Q%2FZa7991zPUX3PG3YK3y6mbzahNJY6M%2BFWmUsyznxBaP83ViPQPmAUUxuUfU%2B9KlHmu6o%3D
+2020-06-24 18:43:56 1593017026 DEBUG: Cart 852: Mixed IPN
+2020-06-24 18:43:56 1593017026 DEBUG: Cart 852: First payment
+2020-06-24 18:43:56 1593017026 DEBUG: Cart 852: Validating order
+2020-06-24 18:43:56 1593017026 DEBUG: Cart 852: Order 88 validated, creating details
+2020-06-24 18:43:56 1593017026 DEBUG: Cart 852: Order 88 / Le paiement a été autorisé et capturé par E-Transactions.

@@ -1,0 +1,15 @@
+2020-04-30 00:50:25 1588200625 DEBUG: URL to check 2
+2020-04-30 00:50:25 1588200625 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-04-30 00:50:25 1588200625 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-04-30 00:50:25 1588200625 DEBUG: Cart 647: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-04-30 00:51:34 1588200694 DEBUG: Call params: M=5747&R=647%20-%20Flora%20Commaret&T=922103959&A=140258&B=0&C=Visa&D=2303&E=00000&F=Y&G=O&I=FRA&J=42&N=497993&O=Y&P=3DSECURE&Q=00%3A50%3A26&S=188038392&W=30042020&Y=FRA&Z=0-0&K=kpWYfcIdmLNFUm4BNjJamE3QLS8bTBWFMujXolumi0v9U%2FQ5pzg5YKkGhtZd08N22QCgvrmS83PMyKv0MKdl1PCDnCHjoHW4CGCegnaFDsda0E5JzOM7XssEQitoI%2FO0BjBM9rR99UwkrE90mZMCg48FvGd4yoNSau%2B0JqsMSyQ%3D
+2020-04-30 00:51:41 1588200701 DEBUG: Cart 647: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-04-30 00:51:42 1588200702 DEBUG: Cart 647: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-04-30 00:51:43 1588200703 DEBUG: Cart 647: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-04-30 00:51:44 1588200694 DEBUG: Cart 647: Mixed IPN
+2020-04-30 00:51:44 1588200694 DEBUG: Cart 647: First payment
+2020-04-30 00:51:44 1588200694 DEBUG: Cart 647: Validating order
+2020-04-30 00:51:45 1588200705 DEBUG: Cart 647: Customer is back from E-Transactions payment page. Waiting order validation (loop 3).
+2020-04-30 00:51:45 1588200694 DEBUG: Cart 647: Order 64 validated, creating details
+2020-04-30 00:51:45 1588200694 DEBUG: Cart 647: Order 64 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-04-30 00:51:46 1588200706 DEBUG: Cart 647: Customer is back from E-Transactions payment page. Payment success.

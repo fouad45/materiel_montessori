@@ -1,0 +1,17 @@
+2020-06-22 07:56:14 1592805374 DEBUG: URL to check 2
+2020-06-22 07:56:14 1592805374 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-06-22 07:56:14 1592805374 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-06-22 07:56:14 1592805374 DEBUG: Cart 841: Redirecting customer to E-Transactions (CARTE, CB).
+2020-06-22 07:58:36 1592805516 DEBUG: Call params: M=2739&R=841%20-%20Catherine%20%20Maingault&T=1483350988&A=365421&B=0&C=Visa&D=2206&E=00000&F=Y&G=O&I=FRA&J=16&N=497040&O=Y&P=CARTE&Q=07%3A56%3A15&S=334933801&W=22062020&Y=FRA&Z=0-0&K=tlCMYPeRZnOeoSy%2Fq4lHsl1WjN0ZQi8fq3%2BIaB%2Bh5Z%2BGUs3sGXsnU8I8C1FG%2BB%2Bb%2Fc62MxU%2F0ftPve7T3W7qi95dz%2FGM%2FsGdMDvitBAhWdqv6uRn%2Bkx%2BzxWb4bYI3yXiVBY4P20k1Ivk6HAzM4fDjpNVxiDViywKTYVlDf0xTUI%3D
+2020-06-22 07:58:41 1592805521 DEBUG: Cart 841: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-06-22 07:58:42 1592805522 DEBUG: Cart 841: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-06-22 07:58:43 1592805523 DEBUG: Cart 841: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-06-22 07:58:45 1592805524 DEBUG: Cart 841: Customer is back from E-Transactions payment page. Waiting order validation (loop 3).
+2020-06-22 07:58:46 1592805526 DEBUG: Cart 841: Customer is back from E-Transactions payment page. Waiting order validation (loop 4).
+2020-06-22 07:58:46 1592805516 DEBUG: Cart 841: Mixed IPN
+2020-06-22 07:58:46 1592805516 DEBUG: Cart 841: First payment
+2020-06-22 07:58:46 1592805516 DEBUG: Cart 841: Validating order
+2020-06-22 07:58:47 1592805527 DEBUG: Cart 841: Customer is back from E-Transactions payment page. Waiting order validation (loop 5).
+2020-06-22 07:58:48 1592805516 DEBUG: Cart 841: Order 86 validated, creating details
+2020-06-22 07:58:48 1592805516 DEBUG: Cart 841: Order 86 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-06-22 07:58:48 1592805528 DEBUG: Cart 841: Customer is back from E-Transactions payment page. Payment success.

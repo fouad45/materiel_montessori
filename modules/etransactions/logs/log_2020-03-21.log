@@ -1,0 +1,13 @@
+2020-03-21 15:03:01 1584799381 DEBUG: URL to check 2
+2020-03-21 15:03:01 1584799381 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-03-21 15:03:02 1584799381 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-03-21 15:03:02 1584799381 DEBUG: Cart 557: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-03-21 15:04:25 1584799465 DEBUG: Call params: M=20384&R=557%20-%20SASU%20LA%20NEUVILLE%20Florie&T=909947883&A=635384&B=0&C=Visa&D=2009&E=00000&F=Y&G=O&I=FRA&J=76&N=497355&O=Y&P=3DSECURE&Q=15%3A03%3A03&S=178062053&W=21032020&Y=FRA&Z=0-0&K=Nh8e8GvtiRFWULMCoPuwMTLxhH7AqJFSG6Qy808reBKWrviDMNqXRviCMSk25lQlXfquFjSeTIgzt%2Folq1qbNZTUnGMkvPSDlaNUhr5%2FD%2F2gFOApFLFR%2BeX0H5zXPoGH3Xll1K%2BGVgrhPwGSaBWtPBpffxeBzJtL3hfsfyw0tRg%3D
+2020-03-21 15:04:33 1584799473 DEBUG: Cart 557: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-03-21 15:04:34 1584799474 DEBUG: Cart 557: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-03-21 15:04:36 1584799465 DEBUG: Cart 557: Mixed IPN
+2020-03-21 15:04:36 1584799465 DEBUG: Cart 557: First payment
+2020-03-21 15:04:36 1584799465 DEBUG: Cart 557: Validating order
+2020-03-21 15:04:39 1584799465 DEBUG: Cart 557: Order 58 validated, creating details
+2020-03-21 15:04:39 1584799465 DEBUG: Cart 557: Order 58 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-03-21 15:04:39 1584799479 DEBUG: Cart 557: Customer is back from E-Transactions payment page. Payment success.

@@ -1,0 +1,16 @@
+2020-01-18 12:51:24 1579348283 DEBUG: URL to check 2
+2020-01-18 12:51:24 1579348283 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-01-18 12:51:24 1579348283 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-01-18 12:51:24 1579348283 DEBUG: Cart 415: Redirecting customer to E-Transactions (CARTE, CB).
+2020-01-18 12:52:41 1579348361 DEBUG: Call params: M=5837&R=415%20-%20MARIE%20THOMAS&T=589262385&A=226258&B=0&C=Visa&D=2205&E=00000&F=Y&G=O&I=FRA&J=51&N=497203&O=Y&P=3DSECURE&Q=12%3A51%3A25&S=162565078&W=18012020&Y=FRA&Z=0-0&K=AmRM%2Fmf%2Bu6ulAmoKuTkC5U1%2BMuwt3svBGGqrj2189B5N2vCzU%2FzpnpS7y6OECGAWWgSEFyoqCyZYq6QLzK3ZmDoX7qrXd8UDv8oawhGDslE9tM5qOgrW6YpIEgke%2BT%2FoZpcQXR1R3XWmoXeaT37M4fACikhj4UyTPe%2FOaQM6d2U%3D
+2020-01-18 12:52:47 1579348367 DEBUG: Cart 415: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-01-18 12:52:48 1579348368 DEBUG: Cart 415: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-01-18 12:52:50 1579348369 DEBUG: Cart 415: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-01-18 12:52:51 1579348371 DEBUG: Cart 415: Customer is back from E-Transactions payment page. Waiting order validation (loop 3).
+2020-01-18 12:52:51 1579348361 DEBUG: Cart 415: Mixed IPN
+2020-01-18 12:52:51 1579348361 DEBUG: Cart 415: First payment
+2020-01-18 12:52:51 1579348361 DEBUG: Cart 415: Validating order
+2020-01-18 12:52:52 1579348372 DEBUG: Cart 415: Customer is back from E-Transactions payment page. Waiting order validation (loop 4).
+2020-01-18 12:52:53 1579348361 DEBUG: Cart 415: Order 41 validated, creating details
+2020-01-18 12:52:53 1579348361 DEBUG: Cart 415: Order 41 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-01-18 12:52:53 1579348373 DEBUG: Cart 415: Customer is back from E-Transactions payment page. Payment success.

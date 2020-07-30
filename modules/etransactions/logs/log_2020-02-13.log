@@ -1,0 +1,10 @@
+2020-02-13 15:23:35 1581603815 DEBUG: URL to check 2
+2020-02-13 15:23:36 1581603815 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-02-13 15:23:36 1581603815 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-02-13 15:23:36 1581603815 DEBUG: Cart 513: Redirecting customer to E-Transactions (CARTE, CB).
+2020-02-13 15:25:35 1581603935 DEBUG: Call params: M=7839&R=513%20-%20Soizic%20Laboux%20Morin&T=598443599&A=335286&B=0&C=E_CARD&D=2004&E=00000&F=Y&G=O&I=FRA&J=84&N=513028&O=Y&P=3DSECURE&Q=15%3A23%3A37&S=169297998&W=13022020&Y=FRA&Z=0-0&K=PT8ueD6WjxuWO7Q4hhcUNZRXRQrLNhhfjTNpofhJtuHNl4w002A8V89AczQNqqFUTNAHHJGaoIwBRfQpd2ekU9EDEbnGptqI3yionpcRl3N8f1jLGmvz1iMvevGJ8ioWF2AjsBvSKMPaZrKrf7ErCHVb%2BOBiXh9QiTGByoF3ZIY%3D
+2020-02-13 15:25:45 1581603935 DEBUG: Cart 513: Mixed IPN
+2020-02-13 15:25:45 1581603935 DEBUG: Cart 513: First payment
+2020-02-13 15:25:45 1581603935 DEBUG: Cart 513: Validating order
+2020-02-13 15:25:46 1581603935 DEBUG: Cart 513: Order 46 validated, creating details
+2020-02-13 15:25:46 1581603935 DEBUG: Cart 513: Order 46 / Le paiement a été autorisé et capturé par E-Transactions.

@@ -1,0 +1,16 @@
+2020-04-22 17:22:59 1587568979 DEBUG: URL to check 2
+2020-04-22 17:22:59 1587568979 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-04-22 17:22:59 1587568979 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-04-22 17:22:59 1587568979 DEBUG: Cart 635: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-04-22 17:24:22 1587569062 DEBUG: Call params: M=14636&R=635%20-%20Anne%20ROQUES&T=920345344&A=625418&B=0&C=Visa&D=2205&E=00000&F=Y&G=O&I=FRA&J=19&N=497401&O=Y&P=3DSECURE&Q=17%3A23%3A00&S=186710357&W=22042020&Y=FRA&Z=0-0&K=T1sw7wwmurVW9t6JXvJwSGp8tNxEKk0O9GE4f0UDZIm4s7zs3oDMGmYdYBdYnLJXnwVeHUP8J4ifUZYYiqFzumFOavCB6RwwXDJjIVSaZBzXlYuDagyefMsYaozZczoVFSMmbFDnnYzHftxGWI04hsXQnAF38eFfq4TieO69Q%2FI%3D
+2020-04-22 17:24:24 1587569064 DEBUG: Cart 635: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-04-22 17:24:26 1587569066 DEBUG: Cart 635: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-04-22 17:24:27 1587569067 DEBUG: Cart 635: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-04-22 17:24:29 1587569069 DEBUG: Cart 635: Customer is back from E-Transactions payment page. Waiting order validation (loop 3).
+2020-04-22 17:24:31 1587569071 DEBUG: Cart 635: Customer is back from E-Transactions payment page. Waiting order validation (loop 4).
+2020-04-22 17:24:32 1587569062 DEBUG: Cart 635: Mixed IPN
+2020-04-22 17:24:32 1587569062 DEBUG: Cart 635: First payment
+2020-04-22 17:24:32 1587569062 DEBUG: Cart 635: Validating order
+2020-04-22 17:24:33 1587569062 DEBUG: Cart 635: Order 61 validated, creating details
+2020-04-22 17:24:33 1587569062 DEBUG: Cart 635: Order 61 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-04-22 17:24:33 1587569073 DEBUG: Cart 635: Customer is back from E-Transactions payment page. Payment success.

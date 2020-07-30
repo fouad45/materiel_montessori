@@ -1,0 +1,942 @@
+/* Step Delivery */
+
+.colissimo-pickup-point-address {
+    margin-bottom: 20px;
+}
+
+#colissimo-pickup-point-address-selected {
+    border: 3px solid #2fb5d2;
+    margin-bottom: 20px;
+}
+
+#colissimo-pickup-point-address-selected .colissimo-edit-point {
+    font-size: 12px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#colissimo-pickup-point-address-selected .colissimo-pickup-point-phone {
+    padding-top: 30px;
+}
+
+#colissimo-pickup-point-address-selected .colissimo-pickup-point-phone i.icon-mobile-phone,
+#colissimo-pickup-point-address-selected .colissimo-pickup-point-phone i.phone_iphone {
+    display: inline-block;
+    font-size: 50px;
+    vertical-align: top;
+}
+
+#colissimo-pickup-point-address-selected.colissimo-16 .colissimo-pickup-point-phone i.icon-mobile-phone {
+    font-size: 72px;
+    padding-top: 10px;
+}
+
+#colissimo-pickup-point-address-selected .colissimo-pickup-point-phone span {
+    display: inline-block;
+}
+
+#colissimo-pickup-point-address-selected.colissimo-16 .colissimo-pickup-point-phone span {
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-bottom: 35px;
+    font-size: 13px;
+}
+
+#colissimo-pickup-point-address-selected header {
+    padding: 10px;
+}
+
+#colissimo-pickup-point-address-selected header .h4 {
+    text-transform: uppercase;
+}
+
+#colissimo-pickup-point-address-selected.colissimo-16 header .h4 {
+    font-weight: bold;
+}
+
+#colissimo-pickup-point-address-selected header .colissimo-pickup-point-address {
+    padding: 20px 20px 0 20px;
+}
+
+#colissimo-pickup-point-address-selected.colissimo-16 p.colissimo-mobile-validation-success {
+    color: forestgreen;
+    font-weight: bold;
+    display: block;
+    padding-top: 20px;
+}
+
+#colissimo-pickup-point-address-selected.colissimo-16 p.colissimo-mobile-validation-error {
+    color: red;
+    font-weight: bold;
+    display: block;
+    padding-top: 20px;
+}
+
+#colissimo-pickup-point-address-selected .colissimo-mobile-valid,
+#colissimo-pickup-point-address-selected .colissimo-mobile-invalid {
+    width: 15px;
+    vertical-align: middle;
+}
+
+/* Front tracking */
+
+#colissimo-timeline section {
+    width: 100%;
+}
+
+#colissimo-timeline .timeline-user-messages {
+    position: relative;
+    width: 90%;
+    min-height: 64px;
+    margin: auto;
+    background-color: #fdeab2;
+    border-radius: 10px 10px 0 0;
+}
+
+#colissimo-timeline .timeline-user-messages .timeline-user-message {
+    position: relative;
+    display: flex;
+    padding: 20px 55px 20px 80px;
+}
+
+#colissimo-timeline .timeline-user-messages .timeline-user-message img {
+    position: absolute;
+    top: 25px;
+    display: flex;
+    align-items: center;
+    left: 30px;
+    width: 25px;
+}
+
+#colissimo-timeline .timeline-user-messages .timeline-user-message .user-message-txt {
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    list-style-type: none;
+}
+
+#colissimo-timeline .timeline-user-messages .timeline-user-message .user-message-txt p {
+    font-weight: bold;
+    color: black;
+}
+
+#colissimo-timeline .timeline-container {
+    background: white;
+    border-left: solid 9px #ffc928;
+    border-top-left-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-right-radius: 9px;
+    box-shadow: -1px 12px 36px -9px rgba(0, 0, 0, 0.32);
+    padding-bottom: 20px !important;
+    padding-top: 15px;
+}
+
+#colissimo-timeline .timeline-header {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+
+#colissimo-timeline .timeline-header .timeline-logo img {
+    width: 120px;
+}
+
+#colissimo-timeline .timeline-header .timeline-shipment-number,
+#colissimo-timeline .timeline-header .timeline-merchant-info {
+    padding-left: 15px;
+}
+
+#colissimo-timeline .timeline-header .timeline-shipment-number-mobile {
+    display: none;
+}
+
+#colissimo-timeline .timeline-header .timeline-shipment-number span {
+    color: #20458f;
+    font-size: 1.575rem;
+    font-weight: bold;
+}
+
+#colissimo-timeline.colissimo-16 .timeline-header .timeline-shipment-number span {
+    font-size: 22px;
+}
+
+#colissimo-timeline .timeline-header .timeline-merchant-info span {
+    color: #20458f;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#colissimo-timeline.colissimo-16 .timeline-header .timeline-merchant-info span {
+    font-size: 15px;
+}
+
+#colissimo-timeline .timeline-header .timeline-merchant-info img {
+    width: 190px;
+    padding-left: 15px;
+}
+
+#colissimo-timeline .timeline-delivery-type {
+    display: flex;
+    align-items: center;
+    font-size: 0.875rem;
+    color: #30302b;
+    padding-left: 160px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    margin: 30px;
+}
+
+#colissimo-timeline .timeline-delivery-type-mobile {
+    display: none;
+}
+
+#colissimo-timeline .timeline-delivery-type .delivery-type-img {
+    width: 12%;
+    margin-right: 18px;
+    border-right: 1.5px dotted #ccc;
+    height: 45px;
+}
+
+#colissimo-timeline .timeline-delivery-type .delivery-type-img img {
+    width: 65%;
+}
+
+#colissimo-timeline .timeline-delivery-type .delivery-type-text {
+    font-size: 13px;
+}
+
+#colissimo-timeline .timeline-delivery-type .delivery-type-text span {
+    display: block;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#colissimo-timeline .timeline-dates {
+    display: none;
+}
+
+#colissimo-timeline .timeline-steps {
+    padding: 15px;
+}
+
+#colissimo-timeline .timeline-steps .timeline-dots {
+    display: flex;
+    position: relative;
+    width: 100%;
+}
+
+#colissimo-timeline .timeline-steps .timeline-dots:after {
+    position: absolute;
+    z-index: 0;
+    left: 50%;
+    top: 50%;
+    width: 80%;
+    height: 8px;
+    background-color: #f1eeee;
+    border-top: 2px solid #f1eeee;
+    border-bottom: 2px solid #f1eeee;
+    content: '';
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    -webkit-transform: translate(-50%, -50%);
+}
+
+#colissimo-timeline .timeline-steps .timeline-dots .timeline-dot {
+    position: relative;
+    display: flex;
+    flex-basis: 0;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+#colissimo-timeline .timeline-steps .timeline-dots .timeline-dot .mobile-round,
+#colissimo-timeline .timeline-steps .timeline-mobile-informations {
+    display: none;
+}
+
+#colissimo-timeline .timeline-steps .timeline-dots .timeline-dot .round {
+    height: 30px;
+    width: 30px;
+    border: 2px solid #f1eeee;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+#colissimo-timeline .timeline-steps .timeline-dots .timeline-dot.active .round {
+    background: #ffc928;
+}
+
+#colissimo-timeline .timeline-steps .timeline-dots .timeline-dot.inactive .round {
+    background: #f1eeee;
+}
+
+#colissimo-timeline .timeline-steps .timeline-dots .timeline-dot .line {
+    position: absolute;
+    z-index: 3;
+    left: 50%;
+    top: 50%;
+    width: 100%;
+    height: 4px;
+    background: #ffc928;
+    transform: translateY(-50%);
+}
+
+#colissimo-timeline .timeline-steps .timeline-steps-details-simple {
+    display: flex;
+    counter-reset: step;
+    margin-bottom: 0;
+    line-height: 1.4;
+}
+
+#colissimo-timeline .timeline-steps .timeline-steps-details-simple li {
+    position: relative;
+    flex-basis: 0;
+    flex-grow: 1;
+    min-width: 20%;
+    padding: 0 10px;
+    text-align: center;
+    list-style-type: none;
+}
+
+#colissimo-timeline .timeline-steps .timeline-steps-details-simple li p.text-short {
+    color: #003da5;
+    padding: 0;
+    margin-top: 15px;
+    margin-bottom: 0;
+    font-size: 12px;
+}
+
+#colissimo-timeline .timeline-steps .timeline-steps-details-simple li p.text-long {
+    color: black;
+    font-size: 12px;
+}
+
+#colissimo-timeline .timeline-steps .timeline-steps-details-simple li p.removal-point-name {
+    color: #20458f;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+#colissimo-timeline .timeline-steps .timeline-steps-details-simple li p.removal-point span {
+    color: #20458f;
+    display: inline-block;
+    font-size: 11px;
+    font-style: italic;
+    width: 95%;
+}
+
+#colissimo-timeline .timeline-steps .timeline-steps-details-simple li p.step-date {
+    color: #003da5;
+    padding-top: 0;
+    padding-bottom: 12px;
+    font-weight: bold;
+}
+
+#colissimo-timeline .timeline-steps .timeline-steps-details-simple li p.step-country {
+    color: black;
+    padding: 5px 0;
+    margin: 0;
+    font-size: 12px;
+}
+
+#colissimo-timeline .timeline-steps .timeline-steps-details-simple li p.step-country span.flag {
+    width: 26px;
+    height: 18px;
+    display: inline-block;
+    vertical-align: text-top;
+    margin-right: 5px;
+}
+
+#colissimo-timeline .timeline-steps .timeline-steps-details-simple li p.removal-point a,
+#colissimo-timeline .timeline-steps .timeline-steps-details-simple li p.reschedule-delivery a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 95%;
+    height: 50px;
+    background-color: #ffc928;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 10px auto;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#colissimo-timeline .timeline-steps .timeline-steps-details-simple li p.removal-point a:hover,
+#colissimo-timeline .timeline-steps .timeline-steps-details-simple li p.reschedule-delivery a:hover {
+    color: white;
+}
+
+#colissimo-timeline .timeline-steps-details-full {
+    padding: 0 20px;
+}
+
+#colissimo-timeline .timeline-steps-details-full .details-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 0;
+}
+
+#colissimo-timeline .timeline-steps-details-full .details-header .details-title {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    align-items: center;
+    vertical-align: baseline;
+    background: transparent;
+    color: #20458f;
+    font-size: 16px;
+}
+
+#colissimo-timeline .timeline-steps-details-full .details-header .details-accordion {
+    display: flex !important;
+    font-size: 100%;
+    vertical-align: baseline;
+    align-content: center;
+    align-items: center;
+}
+
+#colissimo-timeline .timeline-steps-details-full .details-header .details-accordion img {
+    background-color: #fff;
+    color: #444;
+    cursor: pointer;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+    height: max-content;
+}
+
+#colissimo-timeline .timeline-steps-details-full .details-header .details-accordion img.up {
+    transform: rotate(180deg);
+}
+
+#colissimo-timeline .timeline-steps-details-full h2 {
+    color: #20458f;
+    font-size: 100%;
+    margin: 15px 0;
+}
+
+#colissimo-timeline .timeline-steps-details-full .timeline-steps-details-table {
+    padding: 0 20px;
+}
+
+#colissimo-timeline .timeline-steps-details-full .timeline-steps-details-table .table-mobile {
+    display: none;
+}
+
+#colissimo-timeline .timeline-steps-details-full table {
+    font-size: 13px;
+}
+
+#colissimo-timeline .timeline-steps-details-full th {
+    color: #363636;
+    height: 35px;
+}
+
+#colissimo-timeline .timeline-steps-details-full .timeline-steps-details-table .timeline-details-date {
+    width: 170px;
+    padding-top: 10px;
+    vertical-align: top;
+    font-size: 0.775rem;
+}
+
+#colissimo-timeline.colissimo-16 .timeline-steps-details-full .timeline-steps-details-table .timeline-details-date {
+    font-size: 13px;
+}
+
+#colissimo-timeline .timeline-steps-details-full .timeline-steps-details-table .timeline-details-sep {
+    display: grid;
+    height: 60px;
+    border-left: 1.5px dotted #ccc;
+    margin-left: -10px !important;
+    padding: 0 20px !important;
+}
+
+#colissimo-timeline .timeline-steps-details-full .timeline-steps-details-table .timeline-details-label {
+    padding-top: 10px;
+    vertical-align: top;
+    font-size: 0.775rem;
+}
+
+#colissimo-timeline.colissimo-16 .timeline-steps-details-full .timeline-steps-details-table .timeline-details-label {
+    font-size: 13px;
+}
+
+#colissimo-timeline .timeline-step-0 {
+    align-items: center;
+    color: #30302b;
+    display: flex;
+    font-size: 0.875rem;
+    justify-content: flex-start;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+#colissimo-timeline .timeline-step-0 .timeline-step-0-icon {
+    width: 30%;
+    text-align: center;
+}
+
+#colissimo-timeline .timeline-step-0 .timeline-step-0-text {
+    width: 55%;
+}
+
+#colissimo-timeline.colissimo-16 .timeline-step-0 .timeline-step-0-text {
+    font-size: 13px;
+}
+
+@media (max-width: 991px) {
+    #colissimo-timeline .timeline-user-messages {
+        width: 100%;
+        border-radius: 0;
+    }
+
+    #colissimo-timeline .timeline-user-messages .timeline-user-message {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #colissimo-timeline .timeline-user-messages .timeline-user-message img {
+        position: relative;
+        left: auto;
+        top: auto;
+        margin: 5px auto;
+    }
+
+    #colissimo-timeline .timeline-user-messages .timeline-user-message .user-message-txt p {
+        font-weight: normal;
+    }
+
+    #colissimo-timeline .timeline-container {
+        background: #f1f1f1;
+        border-left: none;
+        border-radius: 0;
+        padding-top: 0;
+    }
+
+    #colissimo-timeline .timeline-header {
+        background: white;
+        padding: 35px;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    #colissimo-timeline .timeline-header .timeline-shipment-number-mobile {
+        display: block;
+        text-align: center;
+        margin: 10px 0;
+        width: 100%;
+        font-weight: bold;
+    }
+
+    #colissimo-timeline.colissimo-16 .timeline-header .timeline-shipment-number-mobile span {
+        font-size: 18px;
+    }
+
+    #colissimo-timeline .timeline-header .timeline-shipment-number {
+        display: none;
+    }
+
+    #colissimo-timeline .timeline-header .timeline-merchant-info span {
+        color: black;
+        font-size: 13px;
+        text-transform: lowercase;
+    }
+
+    #colissimo-timeline .timeline-delivery-type {
+        display: none;
+    }
+
+    #colissimo-timeline .timeline-header .timeline-delivery-type-mobile {
+        display: block;
+        font-style: italic;
+        width: 100%;
+        margin: 10px 0 0;
+        font-size: 0.875rem;
+        text-align: center;
+    }
+
+    #colissimo-timeline.colissimo-16 .timeline-header .timeline-delivery-type-mobile {
+        font-size: 12px;
+    }
+
+    #colissimo-timeline .timeline-dates {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 15px;
+    }
+
+    #colissimo-timeline .timeline-step-0 {
+        position: relative;
+        display: flex;
+        margin: 15px;
+        padding: 35px;
+        background: #fff;
+        border-left: 5px solid #ffc928;
+        border-radius: 5px;
+        box-shadow: 0 5px 6px 3px rgba(153, 166, 250, 0.1);
+        box-sizing: border-box;
+        flex-direction: column-reverse;
+        color: #20458f;
+    }
+
+    #colissimo-timeline .timeline-step-0 .timeline-step-0-icon {
+        width: auto;
+        margin: 30px 0 10px;
+    }
+
+    #colissimo-timeline .timeline-step-0 .timeline-step-0-text {
+        width: auto;
+        line-height: 2;
+    }
+
+    #colissimo-timeline .timeline-dates .timeline-first-step-text,
+    #colissimo-timeline .timeline-dates .timeline-last-step-text,
+    #colissimo-timeline .timeline-dates .timeline-first-step-date,
+    #colissimo-timeline .timeline-dates .timeline-last-step-date {
+        width: 50%;
+        font-size: 13px;
+    }
+
+    #colissimo-timeline .timeline-dates .timeline-last-step-text,
+    #colissimo-timeline .timeline-dates .timeline-last-step-date {
+        text-align: right;
+    }
+
+    #colissimo-timeline .timeline-dates .timeline-first-step-date,
+    #colissimo-timeline .timeline-dates .timeline-last-step-date {
+        color: #20458f;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-dots {
+        height: 65px;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-dots:after {
+        background-color: #ccc;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-dots .timeline-dot.inactive .round {
+        background: #ccc;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-dots .timeline-dot.current .mobile-round {
+        background-color: white;
+        box-shadow: 0 0 5px rgba(153, 166, 250, 0.3);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+        width: 62px;
+        height: 62px;
+        position: absolute;
+        z-index: 3;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-dots .timeline-dot.current .mobile-round img {
+        width: 100%;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-dots .timeline-dot.current .mobile-round:before {
+        position: absolute;
+        bottom: -35px;
+        width: 20px;
+        height: 20px;
+        content: " ";
+        color: #ffc928;
+        transform: rotate(45deg);
+        background: #ffc928;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-steps-details-simple {
+        display: none;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-mobile-informations {
+        display: block;
+        position: relative;
+        background: #fff;
+        border-top: 5px solid #ffc928;
+        border-radius: 5px;
+        box-shadow: 0 5px 6px 3px rgba(153, 166, 250, 0.1);
+        box-sizing: border-box;
+        margin: 20px 0 20px 0;
+        padding: 20px 12px 20px 17px;
+        text-align: center;
+        width: 100%;
+        z-index: 3;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-mobile-informations .text-short {
+        margin: 15px 0;
+        font-weight: bold;
+        color: #20458f;
+        font-size: 1.175rem;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-mobile-informations .step-date {
+        margin: 5px 0;
+        color: #20458f;
+        font-size: 0.775rem;
+        font-weight: bold;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-mobile-informations .removal-point a,
+    #colissimo-timeline .timeline-steps .timeline-mobile-informations .reschedule-delivery a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 240px;
+        height: 50px;
+        background-color: #ffc928;
+        color: black;
+        font-size: 12px;
+        font-weight: bold;
+        margin: 10px auto;
+        padding: 5px;
+        border-radius: 10px;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-mobile-informations p.text-long {
+        color: black;
+        font-size: 12px;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-mobile-informations p.removal-point-name {
+        color: #20458f;
+        font-size: 12px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+
+    #colissimo-timeline .timeline-steps .timeline-mobile-informations p.removal-point span {
+        color: #20458f;
+        display: inline-block;
+        font-size: 11px;
+        font-style: italic;
+        width: 95%;
+    }
+
+    #colissimo-timeline.colissimo-16 .timeline-steps .timeline-mobile-informations .step-date {
+        font-size: 13px;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-mobile-informations .step-country {
+        margin: 10px 0;
+        color: black;
+        font-size: 0.775rem;
+    }
+
+    #colissimo-timeline.colissimo-16 .timeline-steps .timeline-mobile-informations .step-country {
+        font-size: 13px;
+    }
+
+    #colissimo-timeline .timeline-steps .timeline-mobile-informations .step-country span.flag {
+        width: 26px;
+        height: 18px;
+        display: inline-block;
+        vertical-align: text-top;
+        margin-right: 5px;
+    }
+
+    #colissimo-timeline .timeline-steps-details-full > img {
+        display: none;
+    }
+
+    #colissimo-timeline .timeline-steps-details-full {
+        position: relative;
+        display: block;
+        margin: 15px;
+        padding: 10px 15px;
+        background: #fff;
+        border-left: 5px solid #ffc928;
+        border-radius: 5px;
+        box-shadow: 0 5px 6px 3px rgba(153, 166, 250, 0.1);
+        box-sizing: border-box;
+    }
+
+    #colissimo-timeline .timeline-steps-details-full .timeline-steps-details-table {
+        padding: 0;
+    }
+
+    #colissimo-timeline .timeline-steps-details-full .timeline-steps-details-table table {
+        display: none;
+    }
+
+    #colissimo-timeline .timeline-steps-details-full .timeline-steps-details-table .table-mobile {
+        display: block;
+    }
+
+    #colissimo-timeline .timeline-steps-details-full .timeline-steps-details-table .table-mobile .timeline-details-date {
+        font-weight: bold;
+        color: #20458f;
+        margin: 5px 0;
+    }
+}
+
+/* Front Returns */
+
+#colissimo-returns {
+    box-shadow: 2px 2px 8px 0 rgba(0, 0, 0, .2);
+    background: #fff;
+    padding: 1rem;
+    font-size: .875rem;
+    color: #7a7a7a;
+}
+
+#colissimo-returns .colissimo-returns-logo {
+    width: 250px;
+    display: block;
+    margin: 40px auto;
+}
+
+#colissimo-returns .colissimo-list {
+    margin-left: 30px;
+    list-style: disc;
+}
+
+.colissimo-returns .colissimo-return {
+    border-bottom: 1px solid #f6f6f6;
+    padding: 1.75rem 1rem;
+}
+
+.colissimo-returns .colissimo-return .btn-colissimo-pickup {
+    margin-top: 0.75rem;
+}
+
+.colissimo-returns .colissimo-return span.label {
+    display: inline-block;
+    margin: .25rem 0;
+    padding: .25rem .375rem;
+    color: #fff;
+    border-radius: 3px;
+}
+
+.colissimo-bal .modal-header {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.colissimo-bal .modal-footer img {
+    height: 35px;
+}
+
+.colissimo-mailbox-return-dates .colissimo-mailbox-return-address {
+    text-transform: uppercase;
+    padding: 15px;
+    background: #f6f6f6;
+    position: relative;
+}
+
+.colissimo-mailbox-return-dates .colissimo-mailbox-return-address span {
+    font-weight: bold;
+    display: block;
+    margin: 10px 0;
+}
+
+.colissimo-mailbox-return-dates p.strong {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.colissimo-mailbox-return-dates ul {
+    list-style-type: decimal;
+    margin-left: 15px;
+}
+
+.colissimo-mailbox-return-dates ul li {
+    padding-left: 10px;
+}
+
+.colissimo-mailbox-return-dates .colissimo-mailbox-return-address i {
+    font-size: 130px;
+    position: absolute;
+    top: 10px;
+    right: 15px;
+}
+
+.icon-spinner-off {
+    display: none;
+}
+
+.icon-spinner-on {
+    animation: spin-animation 1s infinite;
+    display: inline-block;
+}
+
+@keyframes spin-animation {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(359deg);
+    }
+}
+
+/* PS 1.6 Compat. */
+
+@media (max-width: 767px) {
+    .colissimo-16 .hidden-sm-down {
+        display: none !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .colissimo-16 .hidden-md-up {
+        display: none !important;
+    }
+}
+
+#colissimo-returns.colissimo-16 {
+    background: #fff;
+    padding: 1rem;
+    font-size: inherit;
+    box-shadow: inherit;
+}
+
+#module-colissimo-tracking .colissimo-shipments.colissimo-16 .card {
+    box-shadow: 2px 2px 8px 0 rgba(0, 0, 0, .2);
+    font-size: inherit;
+    margin-bottom: 20px;
+}
+
+#module-colissimo-tracking .colissimo-shipments.colissimo-16 .card-block {
+    padding: 20px;
+}
+
+#module-colissimo-tracking .colissimo-shipments.colissimo-16 .colissimo-toolbar span,
+#module-colissimo-tracking .colissimo-shipments.colissimo-16 .colissimo-tracking-history .colissimo-tracking-history-header {
+    font-size: 15px;
+    color: #232323;
+}
+
+#module-colissimo-tracking .colissimo-shipments.colissimo-16 .hidden-md-up p.bold {
+    font-weight: bold;
+}
+
+/* Hook Order Detail Front */
+
+#colissimo-order-detail-pna h3 img {
+    height: 30px;
+    margin-right: 15px;
+}
+
+#colissimo-order-detail-pna a {
+    text-decoration: underline;
+}

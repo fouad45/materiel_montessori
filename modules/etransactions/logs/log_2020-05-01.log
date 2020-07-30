@@ -1,0 +1,10 @@
+2020-05-01 11:11:49 1588324308 DEBUG: URL to check 2
+2020-05-01 11:11:49 1588324308 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-01 11:11:49 1588324308 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-01 11:11:49 1588324308 DEBUG: Cart 655: Redirecting customer to E-Transactions (CARTE, CB).
+2020-05-01 11:13:44 1588324424 DEBUG: Call params: M=8369&R=655%20-%20Romain%20Girard&T=922502581&A=682731&B=0&C=Visa&D=2106&E=00000&F=Y&G=O&I=FRA&J=93&N=497203&O=Y&P=3DSECURE&Q=11%3A11%3A50&S=188327115&W=01052020&Y=FRA&Z=0-0&K=i3Eqiq%2FvwhD073oja0AoTMvT9YSOr2%2FoMfJyOHjh4uUCZ4k0DxqX1DsVERBLoG3PWXFcS8RhIfgHuUw1q2cf2tHNOMFppqrIBrxBbkmsz9ZU%2By3xbPxjSOanaVBcJW%2F0a09v1W1Ocb66D4bOM2Yh7hmjBqk4R41gmBgc3rwgW%2FE%3D
+2020-05-01 11:13:54 1588324424 DEBUG: Cart 655: Mixed IPN
+2020-05-01 11:13:54 1588324424 DEBUG: Cart 655: First payment
+2020-05-01 11:13:54 1588324424 DEBUG: Cart 655: Validating order
+2020-05-01 11:13:55 1588324424 DEBUG: Cart 655: Order 65 validated, creating details
+2020-05-01 11:13:55 1588324424 DEBUG: Cart 655: Order 65 / Le paiement a été autorisé et capturé par E-Transactions.

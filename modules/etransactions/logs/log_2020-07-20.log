@@ -1,0 +1,20 @@
+2020-07-20 22:03:50 1595275430 DEBUG: URL to check 2
+2020-07-20 22:03:50 1595275430 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-20 22:03:50 1595275430 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-07-20 22:03:50 1595275430 DEBUG: Cart 917: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-07-20 22:12:11 1595275931 DEBUG: Call params: M=1510&R=917%20-%20Denise%20Ogilvie&T=1490392857&A=032465&B=0&C=Visa&D=2305&E=00000&F=Y&G=O&I=FRA&J=33&N=497043&O=Y&P=3DSECURE&Q=22%3A03%3A51&S=341112260&W=20072020&Y=FRA&Z=0-0&K=iJAMy4ck0r%2BqPUsjDplO1S7%2F%2F23H%2BFWeqetGN%2F%2FaKs9ATYrvJxbKjtMLy0PiLZkdGWBB%2Fy%2BISNRpiar7aW7WfqkBm6q0BRv%2FAcCM23cZ61FxbfqLIZE9qWl62M3%2Bl84DCx%2FfxnCUyR%2BIXTEgHNZkU9mc1fIjtPZa12Qg97%2B1EyQ%3D
+2020-07-20 22:12:22 1595275931 DEBUG: Cart 917: Mixed IPN
+2020-07-20 22:12:22 1595275931 DEBUG: Cart 917: First payment
+2020-07-20 22:12:22 1595275931 DEBUG: Cart 917: Validating order
+2020-07-20 22:12:22 1595275931 DEBUG: Cart 917: Order 96 validated, creating details
+2020-07-20 22:12:22 1595275931 DEBUG: Cart 917: Order 96 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-07-20 23:47:01 1595281621 DEBUG: URL to check 2
+2020-07-20 23:47:01 1595281621 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-20 23:47:01 1595281621 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-07-20 23:47:01 1595281621 DEBUG: Cart 918: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-07-20 23:49:12 1595281752 DEBUG: Call params: M=8178&R=918%20-%20Junie%20TERRIER&T=1490407286&A=434586&B=0&C=Visa&D=2109&E=00000&F=Y&G=O&I=FRA&J=83&N=497874&O=Y&P=3DSECURE&Q=23%3A47%3A07&S=341123587&W=20072020&Y=FRA&Z=0-0&K=IN%2FkFpH%2B5NaQu5FdFZCqohbmA70ot56X0RkoSeKvk0oWAi7py9Qi7viWGhPCoXckFe7jxyTETh3wCMYQFE%2F7gFqFjdqP6mV7ZvYu1UZz0jetlcUfdAOr9LXxo03R0jBVEgiZj6LPHVxXsSbRlf%2FzNqijLqg6SO8hJwgWrLFzwVY%3D
+2020-07-20 23:49:22 1595281752 DEBUG: Cart 918: Mixed IPN
+2020-07-20 23:49:22 1595281752 DEBUG: Cart 918: First payment
+2020-07-20 23:49:22 1595281752 DEBUG: Cart 918: Validating order
+2020-07-20 23:49:23 1595281752 DEBUG: Cart 918: Order 97 validated, creating details
+2020-07-20 23:49:23 1595281752 DEBUG: Cart 918: Order 97 / Le paiement a été autorisé et capturé par E-Transactions.

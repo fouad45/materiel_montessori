@@ -1,0 +1,20 @@
+2019-12-04 16:32:49 1575473569 DEBUG: URL to check 2
+2019-12-04 16:32:49 1575473569 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-12-04 16:32:50 1575473569 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-12-04 16:32:50 1575473569 DEBUG: Cart 258: Redirecting customer to E-Transactions (CARTE, CB).
+2019-12-04 16:35:38 1575473738 DEBUG: URL to check 2
+2019-12-04 16:35:38 1575473738 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-12-04 16:35:38 1575473738 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-12-04 16:35:38 1575473738 DEBUG: Cart 258: Redirecting customer to E-Transactions (CARTE, CB).
+2019-12-04 16:36:47 1575473807 DEBUG: URL to check 2
+2019-12-04 16:36:47 1575473807 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-12-04 16:36:47 1575473807 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-12-04 16:36:47 1575473807 DEBUG: Cart 258: Redirecting customer to E-Transactions (CARTE, CB).
+2019-12-04 16:37:52 1575473872 DEBUG: Call params: M=19193&R=258%20-%20GHOULAME%20%20Kheira&T=571998154&B=0&C=CB&D=2001&E=00001&I=FRA&J=15&N=497401&P=CARTE&Q=16%3A32%3A50&S=150309761&W=04122019&Z=0-0&K=qLKfb38rmyCw7LbfWixj7jhnd14t1tzPZIp1pOYqb5i%2BXd3knmmAdvU%2FGqgswMuFVLRjckQpNHab50o1DtSlcp3cTQrY8DhOz0C8qGrgu94ka6EA7NDzSv8GskM1nlHKAGHulgZhUn%2BUdFLFCz5%2Fo0jG2euc8iF9WVkTSFo7Ovg%3D
+2019-12-04 16:38:02 1575473872 DEBUG: Cart 258: (IPN) Payment was refused by E-Transactions (1).
+2019-12-04 16:40:14 1575474014 DEBUG: Call params: M=19193&R=258%20-%20GHOULAME%20%20Kheira&T=571998154&A=626493&B=0&C=Visa&D=2001&E=00000&F=Y&G=O&I=FRA&J=15&N=497401&O=Y&P=CARTE&Q=16%3A32%3A50&S=150311009&W=04122019&Y=FRA&Z=0-0&K=lv6PhP3B3wmg7Mny3hC4muCaB91D28IEw5PTWLDxcR8dH1KuXkso%2FJPDA%2FAlrqUqvXg0DD8bOgEKCngN7g5PeCeIyr15Zz3sGRiOyoKWWd2vi7kOmSAIsGX%2FSANlsV9VyZCYywYDXKClKQp420F34MmISjOqoRIDFmiZf5tlFrk%3D
+2019-12-04 16:40:24 1575474014 DEBUG: Cart 258: Mixed IPN
+2019-12-04 16:40:24 1575474014 DEBUG: Cart 258: First payment
+2019-12-04 16:40:24 1575474014 DEBUG: Cart 258: Validating order
+2019-12-04 16:40:25 1575474014 DEBUG: Cart 258: Order 30 validated, creating details
+2019-12-04 16:40:25 1575474014 DEBUG: Cart 258: Order 30 / Le paiement a été autorisé et capturé par E-Transactions.

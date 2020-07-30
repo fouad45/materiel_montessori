@@ -1,0 +1,14 @@
+2020-04-25 23:19:29 1587849569 DEBUG: URL to check 2
+2020-04-25 23:19:29 1587849569 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-04-25 23:19:30 1587849569 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-04-25 23:19:30 1587849569 DEBUG: Cart 642: Redirecting customer to E-Transactions (CARTE, CB).
+2020-04-25 23:22:15 1587849735 DEBUG: Call params: M=2239&R=642%20-%20Axelle%20Perigaud&T=921063950&A=635696&B=0&C=Visa&D=2210&E=00000&F=Y&G=O&I=FRA&J=09&N=497040&O=Y&P=3DSECURE&Q=23%3A19%3A33&S=187265412&W=25042020&Y=FRA&Z=0-0&K=bbnnbkWeBtZRkjFrxZ%2Fz2pg7x0IWwypYHSytM64T2YBSdh0vUo22Zq5qm%2Fd15XwJL3ZzQp8Eoget6UZYkfzrN5Q6%2FyXKIDIi%2FA%2BCWknYd0pYlc221udB5cTpjjLacL5k%2BPW0V0vV9XWfzFTRVsHHW69JWFLZjLB3LNInE7%2FDTcI%3D
+2020-04-25 23:22:23 1587849743 DEBUG: Cart 642: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-04-25 23:22:25 1587849745 DEBUG: Cart 642: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-04-25 23:22:25 1587849735 DEBUG: Cart 642: Mixed IPN
+2020-04-25 23:22:25 1587849735 DEBUG: Cart 642: First payment
+2020-04-25 23:22:25 1587849735 DEBUG: Cart 642: Validating order
+2020-04-25 23:22:26 1587849746 DEBUG: Cart 642: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-04-25 23:22:26 1587849735 DEBUG: Cart 642: Order 62 validated, creating details
+2020-04-25 23:22:26 1587849735 DEBUG: Cart 642: Order 62 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-04-25 23:22:28 1587849748 DEBUG: Cart 642: Customer is back from E-Transactions payment page. Payment success.

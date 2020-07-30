@@ -1,0 +1,24 @@
+2020-05-13 17:57:14 1589385434 DEBUG: URL to check 2
+2020-05-13 17:57:14 1589385434 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-13 17:57:14 1589385434 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-13 17:57:14 1589385434 DEBUG: Cart 632: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-05-13 17:58:46 1589385526 DEBUG: Call params: M=8798&R=632%20-%20Natacha%20Lepagnot&T=925881089&A=535239&B=0&C=Visa&D=2202&E=00000&F=Y&G=O&I=FRA&J=65&N=499010&O=Y&P=3DSECURE&Q=17%3A57%3A16&S=190857097&W=13052020&Y=FRA&Z=0-0&K=Ft%2BcgPW0fgHDnC5UnFoUj15mx5IzI2b3lrMbMYD9ltD9PJ5oTrfUDGZ%2FNvWKPbD0XnsgPxgjdlcMiJrYZmqTGqEjqdBTkos90la81fuXCZ%2FikYsnKQn6EfAsrgrWvHO8IO3T3yf5ZI3gHYcKd2%2Fmi14WdJEUB1bNsOjZExuoMfk%3D
+2020-05-13 17:58:56 1589385526 DEBUG: Cart 632: Mixed IPN
+2020-05-13 17:58:56 1589385526 DEBUG: Cart 632: First payment
+2020-05-13 17:58:56 1589385526 DEBUG: Cart 632: Validating order
+2020-05-13 17:58:58 1589385526 DEBUG: Cart 632: Order 74 validated, creating details
+2020-05-13 17:58:58 1589385526 DEBUG: Cart 632: Order 74 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-05-13 23:12:49 1589404369 DEBUG: URL to check 2
+2020-05-13 23:12:49 1589404369 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-13 23:12:50 1589404369 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-13 23:12:50 1589404369 DEBUG: Cart 708: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-05-13 23:14:48 1589404488 DEBUG: Call params: M=3829&R=708%20-%20LUCIE%20LAVEST&T=925920989&A=632921&B=0&C=Visa&D=2106&E=00000&F=Y&G=O&I=FRA&J=84&N=497040&O=Y&P=3DSECURE&Q=23%3A12%3A50&S=190895064&W=13052020&Y=FRA&Z=0-0&K=OXYX4lx6pWoFOBn2S%2FoYs3AVilvDoXHd9hs38RQ%2F1%2Fwog6yO61fELA9fFJO2Vj6ojZNtfGsM7JDp1%2BHvqAqAI%2FTCWR7zzFJC2JFdXkOi1tFTSPnbNAwki05n%2FgpbMHP0daAzOmk3c9HhIVJmKgCERbiF%2Fx6RhR2ROEgslEhzdNU%3D
+2020-05-13 23:14:58 1589404498 DEBUG: Cart 708: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-05-13 23:14:58 1589404488 DEBUG: Cart 708: Mixed IPN
+2020-05-13 23:14:59 1589404488 DEBUG: Cart 708: First payment
+2020-05-13 23:14:59 1589404488 DEBUG: Cart 708: Validating order
+2020-05-13 23:15:00 1589404500 DEBUG: Cart 708: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-05-13 23:15:01 1589404501 DEBUG: Cart 708: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-05-13 23:15:01 1589404488 DEBUG: Cart 708: Order 75 validated, creating details
+2020-05-13 23:15:01 1589404488 DEBUG: Cart 708: Order 75 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-05-13 23:15:02 1589404502 DEBUG: Cart 708: Customer is back from E-Transactions payment page. Payment success.

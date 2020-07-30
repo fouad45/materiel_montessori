@@ -1,0 +1,57 @@
+.colissimo-header i.icon-big {
+    display: inline;
+    font-size: 45px;
+}
+
+.colissimo-header {
+    text-align: center;
+}
+
+#header-back-colissimo .colissimo-version {
+    margin-left: 10px;
+}
+
+.colissimo-logo {
+    width: 270px;
+    margin-top: 5px;
+}
+
+.colissimo-phone-number {
+    width: 210px;
+    margin-top: 5px;
+}
+
+.colissimo-contact {
+    padding-top: 15px;
+    float: none;
+}
+
+.colissimo-contact a.btn {
+    margin: 0;
+}
+
+@media (min-width: 1150px) {
+    .colissimo-contact {
+        text-align: left;
+        padding-top: 5px;
+        float: right;
+    }
+
+    .colissimo-contact p {
+        border-left: 1px solid black;
+        padding-top: 0;
+        margin-bottom: 0;
+        padding-bottom: 5px;
+        padding-left: 10px;
+        display: inline-block;
+    }
+
+    .colissimo-contact a.btn {
+        margin-left: 15px;
+        margin-bottom: 25px;
+    }
+
+    .colissimo-header {
+        text-align: left;
+    }
+}

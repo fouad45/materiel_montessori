@@ -1,0 +1,10 @@
+2020-03-09 23:47:42 1583794062 DEBUG: URL to check 2
+2020-03-09 23:47:42 1583794062 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-03-09 23:47:42 1583794062 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-03-09 23:47:42 1583794062 DEBUG: Cart 547: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-03-09 23:48:58 1583794138 DEBUG: Call params: M=9417&R=547%20-%20Sophie%20VIGUIER&T=906698768&A=538265&B=0&C=MasterCard&D=2005&E=00000&F=Y&G=O&I=FRA&J=48&N=513031&O=Y&P=CARTE&Q=23%3A47%3A43&S=175477227&W=09032020&Y=FRA&Z=0-0&K=zvmgzyvK0mADCOo5stEuDaNo4AjssjlQ2dtjiC6JDPplPXJXC%2FGSb4YO90pIrFeFyhQY4ZGHK3AUf%2BzTfucWMRdk3xYGbvBo2t7RHCYcbHJxTUcgRCxMu4ZLtUCtNUpgHU56%2FfyeQGJ5jnDME5Xx8PG6NB%2FPWR7kJnAcqbzo%2Fk0%3D
+2020-03-09 23:49:08 1583794138 DEBUG: Cart 547: Mixed IPN
+2020-03-09 23:49:08 1583794138 DEBUG: Cart 547: First payment
+2020-03-09 23:49:08 1583794138 DEBUG: Cart 547: Validating order
+2020-03-09 23:49:09 1583794138 DEBUG: Cart 547: Order 52 validated, creating details
+2020-03-09 23:49:09 1583794138 DEBUG: Cart 547: Order 52 / Le paiement a été autorisé et capturé par E-Transactions.

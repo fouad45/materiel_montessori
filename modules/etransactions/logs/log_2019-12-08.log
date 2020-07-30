@@ -1,0 +1,6 @@
+2019-12-08 23:58:42 1575845922 DEBUG: URL to check 2
+2019-12-08 23:58:42 1575845922 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-12-08 23:58:42 1575845922 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-12-08 23:58:42 1575845922 DEBUG: Cart 283: Redirecting customer to E-Transactions (CARTE, VISA).
+2019-12-08 23:59:48 1575845988 DEBUG: Call params: M=3239&R=283%20-%20Jellal%20Mathilde&T=573830842&B=0&C=VISA&D=2211&E=00004&I=FRA&J=04&N=497374&P=3DSECURE&Q=23%3A58%3A43&S=151572369&W=08122019&Z=0-0&K=2a1CiV6Z4y4HF6U9Noztz6Mq42qixdFkRL5Ke8FgaqG2I%2BfaEv2maGvMvQ6fx6%2FyDsabEdUEhbpKfodn9ZcMRC%2BVZWxX1yoeKPLTAFOT%2BMNtHq6PkcApHMmZhr0wxo6%2FHgFhJBYe3elNPm%2BYc4y7hSBJIRcuSyn9czfUUU1AiSc%3D
+2019-12-08 23:59:58 1575845988 DEBUG: Cart 283: (IPN) Payment was refused by E-Transactions (4).

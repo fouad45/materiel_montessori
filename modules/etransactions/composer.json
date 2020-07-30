@@ -1,0 +1,13 @@
+{
+  "name": "etransactions/prestashop",
+  "description": "E-Transactions - PrestaShop integration module",
+  "homepage": "http://www.e-transactions.fr/",
+  "license": "AFL - Academic Free License (AFL 3.0)",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "type": "prestashop-module"
+}

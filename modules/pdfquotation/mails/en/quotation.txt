@@ -1,0 +1,9 @@
+
+[{shop_url}] 
+
+Firstname : {firstname}
+Lastname : {lastname}
+Phone : {phone}
+Email : {email}
+To be contacted : {contacted}
+Quotation : {url}

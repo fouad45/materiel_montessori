@@ -1,0 +1,20 @@
+2020-03-11 14:53:44 1583934824 DEBUG: URL to check 2
+2020-03-11 14:53:44 1583934824 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-03-11 14:53:44 1583934824 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-03-11 14:53:44 1583934824 DEBUG: Cart 550: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-03-11 14:54:46 1583934886 DEBUG: Call params: M=8478&R=550%20-%20SASU%20LA%20NEUVILLE%20Florie&T=907408940&A=741315&B=0&C=Visa&D=2203&E=00000&F=Y&G=O&I=FRA&J=38&N=478023&O=Y&P=3DSECURE&Q=14%3A53%3A45&S=175961827&W=11032020&Y=FRA&Z=0-0&K=WLL4S8DeAdlbzPDgHf6HpX5T9P1jMaDSgn0yuBZ8F5QYLcI3ZiZcHVmiXBkgZFijHumlQ5vYatLCoXytEAafJ9DajiVMzM9TgYgL8pK4F5rKNPtgIHMjKw%2F9e2wSdsbG7LN%2BkKcLY8O%2B%2BPWkptMNpyn795JAN4frmqPhNuoYeqY%3D
+2020-03-11 14:54:57 1583934886 DEBUG: Cart 550: Mixed IPN
+2020-03-11 14:54:57 1583934886 DEBUG: Cart 550: First payment
+2020-03-11 14:54:57 1583934886 DEBUG: Cart 550: Validating order
+2020-03-11 14:54:58 1583934886 DEBUG: Cart 550: Order 53 validated, creating details
+2020-03-11 14:54:58 1583934886 DEBUG: Cart 550: Order 53 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-03-11 19:28:49 1583951329 DEBUG: URL to check 2
+2020-03-11 19:28:49 1583951329 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-03-11 19:28:50 1583951329 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-03-11 19:28:50 1583951329 DEBUG: Cart 551: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-03-11 19:30:23 1583951423 DEBUG: Call params: M=12499&R=551%20-%20cecile%20GUITARD&T=907528597&A=038535&B=0&C=Visa&D=2106&E=00000&F=Y&G=O&I=FRA&J=17&N=497874&O=Y&P=3DSECURE&Q=19%3A28%3A51&S=176051301&W=11032020&Y=FRA&Z=0-0&K=G7LDj4cjeTxrWPy9LGECaqOLWONbfHZRoftU3DBpNTBKUuzK1Z0HZgd2ycpCBjRJe7RaEh9ag4kpqs2lnq3ulfajeU1dCDi%2BGHHfGi2KABiw6WegLU7zR%2BYxlV0YTiY0HztDxZuKBzS1EyvjsuY4w5YfWQA%2BzkOz%2FuCeCA70zgw%3D
+2020-03-11 19:30:34 1583951423 DEBUG: Cart 551: Mixed IPN
+2020-03-11 19:30:34 1583951423 DEBUG: Cart 551: First payment
+2020-03-11 19:30:34 1583951423 DEBUG: Cart 551: Validating order
+2020-03-11 19:30:35 1583951423 DEBUG: Cart 551: Order 54 validated, creating details
+2020-03-11 19:30:35 1583951423 DEBUG: Cart 551: Order 54 / Le paiement a été autorisé et capturé par E-Transactions.

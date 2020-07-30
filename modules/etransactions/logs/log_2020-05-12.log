@@ -1,0 +1,17 @@
+2020-05-12 19:03:19 1589302999 DEBUG: URL to check 2
+2020-05-12 19:03:19 1589302999 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-12 19:03:19 1589302999 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-12 19:03:19 1589302999 DEBUG: Cart 701: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-05-12 19:04:19 1589303059 DEBUG: Call params: M=39890&R=701%20-%20Jeremy%20Chatel&T=925672446&A=152665&B=0&C=MasterCard&D=2211&E=00000&F=Y&G=O&I=FRA&J=34&N=513239&O=Y&P=3DSECURE&Q=19%3A03%3A20&S=190693456&W=12052020&Y=FRA&Z=0-0&K=NNnBtQAluEBwU8WsoLSWkTjiVOOmVswthSac6x1bLGWPxnuZMdC8ER%2FHrJ5YWMWMaVbDADcU%2FpraKSS0B5BypP2V6vWaiqNVdU5IHO5DM3KocbOIirGzv%2BDyZtN6v569oYUh8vuunR6L9FqGXy5W29Oq9Ip6Tp5oMFPmqf7%2FxJM%3D
+2020-05-12 19:04:23 1589303063 DEBUG: Cart 701: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-05-12 19:04:24 1589303064 DEBUG: Cart 701: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-05-12 19:04:26 1589303066 DEBUG: Cart 701: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-05-12 19:04:27 1589303067 DEBUG: Cart 701: Customer is back from E-Transactions payment page. Waiting order validation (loop 3).
+2020-05-12 19:04:29 1589303069 DEBUG: Cart 701: Customer is back from E-Transactions payment page. Waiting order validation (loop 4).
+2020-05-12 19:04:29 1589303059 DEBUG: Cart 701: Mixed IPN
+2020-05-12 19:04:30 1589303059 DEBUG: Cart 701: First payment
+2020-05-12 19:04:30 1589303059 DEBUG: Cart 701: Validating order
+2020-05-12 19:04:30 1589303070 DEBUG: Cart 701: Customer is back from E-Transactions payment page. Waiting order validation (loop 5).
+2020-05-12 19:04:31 1589303059 DEBUG: Cart 701: Order 73 validated, creating details
+2020-05-12 19:04:31 1589303059 DEBUG: Cart 701: Order 73 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-05-12 19:04:32 1589303072 DEBUG: Cart 701: Customer is back from E-Transactions payment page. Payment success.

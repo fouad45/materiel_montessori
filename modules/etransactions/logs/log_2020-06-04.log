@@ -1,0 +1,10 @@
+2020-06-04 13:36:11 1591270571 DEBUG: URL to check 2
+2020-06-04 13:36:11 1591270571 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-06-04 13:36:11 1591270571 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-06-04 13:36:11 1591270571 DEBUG: Cart 773: Redirecting customer to E-Transactions (CARTE, CB).
+2020-06-04 13:37:05 1591270625 DEBUG: Call params: M=3691&R=773%20-%20pauline%20tanguy&T=1480185440&A=433349&B=0&C=Maestro&D=2101&E=00000&F=Y&G=O&I=FRA&J=89&N=561258&O=Y&P=3DSECURE&Q=13%3A36%3A12&S=332214999&W=04062020&Y=FRA&Z=0-0&K=z9Sr1rPMdTDBrEfDCTKjSSJZcA%2FdzhTNEl7BUUMqbWhUYqxNnrhCdp63HhGwi7jJD%2FqFZp%2FPSLUdJuIu7ES5vawmO3DSKfhMCrReYl1xG5G33Dr2Wlcjz%2BbcpsCS6FERGyV12Vgjs10ADR8hXyFfYdbVA1u4uYpwshTWDGh28vo%3D
+2020-06-04 13:37:15 1591270625 DEBUG: Cart 773: Mixed IPN
+2020-06-04 13:37:15 1591270625 DEBUG: Cart 773: First payment
+2020-06-04 13:37:15 1591270625 DEBUG: Cart 773: Validating order
+2020-06-04 13:37:16 1591270625 DEBUG: Cart 773: Order 80 validated, creating details
+2020-06-04 13:37:16 1591270625 DEBUG: Cart 773: Order 80 / Le paiement a été autorisé et capturé par E-Transactions.

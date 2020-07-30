@@ -1,0 +1,13 @@
+2020-05-08 17:35:05 1588952105 DEBUG: URL to check 2
+2020-05-08 17:35:05 1588952105 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-08 17:35:05 1588952105 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-08 17:35:05 1588952105 DEBUG: Cart 674: Redirecting customer to E-Transactions (CARTE, CB).
+2020-05-08 17:37:04 1588952224 DEBUG: Call params: M=5557&R=674%20-%20sandra%20GASCON&T=924569638&A=743445&B=0&C=Visa&D=2111&E=00000&F=Y&G=O&I=FRA&J=94&N=497783&O=Y&P=3DSECURE&Q=17%3A35%3A08&S=189896429&W=08052020&Y=FRA&Z=0-0&K=Gb3Sbxo5CAUktKgJZ5NeTCWJjJGwNBV%2BLyPD%2BvBJPDi%2FgqRBMQN45grXxHvJKs2dy1qCj%2F0ySPiZjvwcEF2dLUDpLP%2Ft6kF6kmcebmclvUxpS5LAvuoCbCzuDwQ1fuqoj7NkacI2nrhXCNHOkGlnVlV08dT9BeUPze3YZ4zEq1Q%3D
+2020-05-08 17:37:09 1588952229 DEBUG: Cart 674: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-05-08 17:37:10 1588952230 DEBUG: Cart 674: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-05-08 17:37:12 1588952232 DEBUG: Cart 674: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-05-08 17:37:14 1588952224 DEBUG: Cart 674: Mixed IPN
+2020-05-08 17:37:15 1588952224 DEBUG: Cart 674: First payment
+2020-05-08 17:37:15 1588952224 DEBUG: Cart 674: Validating order
+2020-05-08 17:37:17 1588952224 DEBUG: Cart 674: Order 71 validated, creating details
+2020-05-08 17:37:17 1588952224 DEBUG: Cart 674: Order 71 / Le paiement a été autorisé et capturé par E-Transactions.

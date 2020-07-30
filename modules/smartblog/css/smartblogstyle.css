@@ -1,0 +1,383 @@
+#smart-blog-custom .sds_post_title{
+	font-weight:normal;
+	font-size:14px;
+	text-transform:none;	
+	line-height:20px;
+	margin-bottom:12px;
+}
+
+#smart-blog-custom .image_holder_wrap{
+	margin-bottom:12px;	
+	position:relative;
+}
+#smart-blog-custom .right_blog_home{
+	margin:0 auto;	
+	display:table;
+}
+#smart-blog-custom .image_holder_wrap i{
+	display:none;
+	position:absolute;
+	width:30px;
+	height:30px;
+	border-radius:3px;
+	background:#33a752;
+	color:#fff;
+	text-align:center;
+	line-height:30px;
+	right:10px;
+	bottom:10px;
+	transform:scale(0,0);	
+	transition: all 0.15s ease-in-out 0s; 
+	-webkit-transition: all 0.15s ease-in-out 0s;
+	-moz-transition: all 0.15s ease-in-out 0s;	
+}
+#smart-blog-custom .news_module_image_holder:hover .image_holder_wrap i{
+	transform:scale(1,1);
+}
+#smart-blog-custom .news_module_image_holder{
+    display: table;
+    margin:0 auto;
+    text-align: center;
+	position:relative;
+	transition: all 0.3s ease-in-out 0s; 
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	-moz-transition: all 0.3s ease-in-out 0s;	
+}
+
+#smart-blog-custom .date_added{
+	color:#999999;
+	font-size:12px;
+	margin-bottom:11px;	
+	position:absolute;
+	height:22px;
+	line-height:22px;
+	padding:0 22px;
+	top:-11px;
+	background:#fff;
+	left:50%;
+	transform:translateX(-50%);
+}
+#smart-blog-custom .content p{
+	font-size: 14px;
+    line-height: 24px;
+    text-align: justify;
+    margin-bottom: 0;
+    color: #666666;
+	    margin-top: 22px;
+}
+
+.articleContent {
+    overflow: hidden;
+}
+.articleContent img{
+    max-width: 100%;
+    padding: 0;
+}.sdsarticleCat .r_more{
+    position: relative;
+    display: block;
+	transition: all 0.3s ease-in-out 0s; 
+	-webkit-transition: all 0.3s ease-in-out 0s; 
+	-ms-transition: all 0.3s ease-in-out 0s;
+	-moz-transition: all 0.3s ease-in-out 0s;
+	-o-transition: all 0.3s ease-in-out 0s;
+}
+.sdsarticleCat .r_more:hover{
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    transform: scale(1.1);
+}
+#recent_article_smart_blog_block_left .block_content{
+	float:left;
+	width:100%;	
+}
+#recent_article_smart_blog_block_left li img{
+	width: 105px;
+    height: auto;
+}
+#recent_article_smart_blog_block_left li img:hover{opacity: 0.8}
+#recent_article_smart_blog_block_left .block_content ul li{
+	    display: flex;
+    float: left;
+    width: 100%;
+    align-items: center;
+    border-bottom: 1px solid #ebebeb;
+    padding: 15px;
+}
+#recent_article_smart_blog_block_left .block_content ul li:last-child{border-bottom:none}
+#recent_article_smart_blog_block_left .block_content ul li:last-child{
+	margin:0;
+}	
+ 
+#recent_article_smart_blog_block_left .block_content ul li a.image{
+	float:left;	
+	margin-right:15px;	
+}
+#recent_article_smart_blog_block_left .block_content ul li a.title{
+	line-height:18px;
+	font-size:14px;
+	display:table;
+	margin-bottom:5px;	
+	margin-top:-3px;
+}
+#recent_article_smart_blog_block_left{
+	border: 1px solid #ebebeb;
+    margin-bottom: 30px !important;
+}
+#recent_article_smart_blog_block_left .block_content ul li a.read-more{
+	display:table;
+	padding:5px;
+	background:#141414;
+	color:#fff;
+	font-size:12px;
+	margin-top:8px;	
+}
+#recent_article_smart_blog_block_left .block_content ul li a.read-more:hover{
+	background:#ee5561;
+}
+#recent_article_smart_blog_block_left .block_content ul li .info{
+	color:#ee5561;
+}
+.sdstitle_block a{
+	display: table;
+    font-size: 19px;
+    line-height: 24px;
+    margin-top: 15px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-family: 'Roboto',sans-serif;
+}
+.info-category span i{
+	margin-right:5px;
+}
+.info-category span{
+	font-size: 13px;
+    margin-right: 5px;
+	line-height:18px;
+
+}
+.info-category span,.info-category span a{
+	color:#ee5561;
+}
+.info-category span a:hover{
+	text-decoration:underline;	
+}
+.info-category{
+	margin-bottom:10px;	
+}
+.sdsarticle-des .lipsum p{
+	margin-bottom:30px;	
+	text-align:justify;
+}
+.sdsarticle-des .lipsum{
+	font-size: 14px;
+    line-height: 25px;
+}
+
+.sdsarticleCat{
+	margin-bottom: 30px
+}
+.sdsarticleCat:last-child{
+	margin-bottom: 0px
+}
+.sdsarticle-des{
+	font-size:12px;
+	line-height:24px;	
+}
+.page-item-title h1{
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+#sdsblogArticle .sdsblogArticle-inner, #sdsblogArticle .sdsarticleBottom {
+    border-bottom: 1px solid #f0f0f0;
+    padding-bottom:15px;
+}
+#content.block{
+	margin-bottom:30px;
+}	
+#commentform{
+	margin-bottom:30px;	
+	display:table;
+}
+#post_images img:hover{
+	opacity:0.8;	
+	transition: all 0.15s ease-in-out 0s; 
+	-webkit-transition: all 0.15s ease-in-out 0s; 
+	-ms-transition: all 0.15s ease-in-out 0s;
+	-moz-transition: all 0.15s ease-in-out 0s;
+	-o-transition: all 0.15s ease-in-out 0s;
+}
+.right_blog_cat{
+	min-height:152px;	
+}
+.smartblogcomments .warning {
+    background-color: #F2DEDE;
+    border-color: #EBCCD1;
+    color: #A94442;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+.smartblogcomments .success {
+    background-color: #DFF0D8;
+    border-color: #D6E9C6;
+    color: #3C763D;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+.error.smartblogcomments .warning {
+    background-color: #F2DEDE;
+    border-color: #EBCCD1;
+    color: #A94442;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+#respond .error {
+    color: #DD0000;
+    display: inline-block;
+    font-size: 11px;
+    margin: 0 8px;
+	margin-top:10px;
+}
+
+
+
+
+#articleComments {
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.1);
+    clear: left;
+    margin: 20px 0;
+    padding: 10px 15px;
+}
+#articleComments h4 {
+    font-size: 20px;
+    letter-spacing: 0;
+    margin: 0 0 10px;
+}
+#articleComments h4 span {
+    font-size: 14px;
+    font-weight: normal;
+}
+#articleComments #comments {
+    overflow: hidden;
+}
+#comments .commentEmpty {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #d8d8d8;
+    margin-bottom: 10px;
+    padding: 8px 10px;
+}
+#comments .commentList {
+    list-style: none outside none;
+    margin: 15px 0 0;
+    padding: 0;
+}
+.commentList li {
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    min-height: 75px;
+    padding: 8px 8px 8px 75px;
+    position: relative;
+}
+.childComment li {
+    border: 1px solid #ffffff;
+}
+.commentList li .avatar {
+    background: none repeat scroll 0 0 #eeeeee;
+    border: 1px solid #DDDDDD;
+    left: 10px;
+    padding: 2px;
+    position: absolute;
+    top: 10px;
+}
+.commentList li .badge {
+    background: none repeat scroll 0 0 #222222;
+    color: #ffffff;
+    cursor: default;
+    font-size: 10px;
+    letter-spacing: 1px;
+    margin-right: 4px;
+    padding: 1px 4px;
+    text-shadow: 1px 1px 0 #333333;
+}
+.commentList li .default {
+    background: none repeat scroll 0 0 #0555C6;
+}
+.commentList li .top, .commentList li .admin {
+    background: none repeat scroll 0 0 #FF0000;
+}
+.commentList li .name, .commentList li .name a {
+    color: #333333;
+    cursor: default;
+    font-size: 15px;
+    text-decoration: none;
+}
+.commentList li .name a {
+    cursor: pointer;
+}
+.commentList li .name a:hover {
+    text-decoration: underline;
+}
+.commentList li .created {
+    color: #888888;
+    font-size: 10px;
+    margin: 2px 0 8px;
+}
+.commentList li .reply {
+    height: 22px;
+    margin-top: 10px;
+    text-align: right;
+}
+.commentList li .reply a {
+    background: none repeat scroll 0 0 #666666;
+    color: #ffffff !important;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 11px;
+    padding: 3px 10px;
+    text-decoration: none;
+}
+.commentList li .reply a:hover {
+    background: none repeat scroll 0 0 #333333;
+}
+.commentList .even {
+    background: none repeat scroll 0 0 #ffffff;
+}
+.childComment .even {
+    background: none repeat scroll 0 0 #F8F8F8;
+}
+.commentList .odd {
+    background: none repeat scroll 0 0 #eeeeee;
+}
+.childComment .odd {
+    background: none repeat scroll 0 0 #E6E6E6;
+}
+#comments .pagination {
+    border: medium none;
+    color: #666666;
+    font-size: 11px;
+    padding: 0;
+}
+#comments .pagination .links a, #comments .pagination .links b {
+    font-size: 10px;
+    padding: 2px 5px;
+}
+#comments .pagination .links a {
+    background: none repeat scroll 0 0 #ffffff;
+    color: #666666;
+}
+#comments .pagination .links b {
+    background: none repeat scroll 0 0 #0481CF;
+    color: #ffffff;
+}

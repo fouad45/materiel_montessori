@@ -1,0 +1,142 @@
+/**
+* 2007-2019 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+* @author PrestaShop SA <contact@prestashop.com>
+* @copyright 2007-2019 PrestaShop SA
+* @license http://opensource.org/licenses/afl-3.0.php Academic Free License (AFL 3.0)
+* International Registered Trademark & Property of PrestaShop SA
+*/
+
+/** Header **/
+.gadwords_header {
+    padding: 20px 0;
+    border-bottom: 1px solid #DCE1E3;
+}
+.gadwords_header img {
+    max-width: 100%;
+}
+.gadwords_header .presentation .logo{
+    padding: 0;
+    margin-bottom: 15px;
+}
+.gadwords_header .presentation h1{
+    color: #363A41;
+    font-family: "Open Sans";
+    font-size: 24px;
+    line-height: 33px;
+    margin-top: 0px;
+}
+.gadwords_header .presentation p{
+    margin: 25px 0;
+    color: #363A41;
+    font-family: "Open Sans";
+    font-size: 16px;
+    line-height: 24px;
+}
+/** content **/
+.gadwords-content {
+    margin: 20px 0;
+}
+.gadwords-content img {
+    max-width: 100%;
+    margin-bottom: 15px;
+}
+.gadwords-content .row {
+    margin: 15px 0 35px 0;
+}
+.gadwords-content .row:last-child{
+    margin-bottom: 0;
+}
+.gadwords-content .row i{
+    font-size: 34px;
+}
+.gadwords-content .row .title{
+    color: #363A41;
+    font-family: "Open Sans";
+    font-size: 18px;
+    line-height: 19px;
+    font-weight: 600;
+    margin-top: 6px;
+    margin-bottom: 15px;
+}
+.gadwords-content .row .content{
+    color: #6C868E;
+    font-family: "Open Sans";
+    font-size: 14px;
+    line-height: 19px;
+}
+.gadwords-content .material-icons.green {
+    color: #00b555;
+}
+.gadwords-content .material-icons.red {
+    color: #f9001a;
+}
+.gadwords-content .material-icons.yellow {
+    color: #ffc100;
+}
+
+/** create ads**/
+.activate_ads {
+    padding: 15px 0;
+}
+.activate_ads img {
+    max-width: 100%;
+}
+.activate_ads p {
+    color: #363A41;
+    font-family: "Open Sans";
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 10px;
+}
+.activate_ads .btn-primary {
+    margin-top: 20px;
+    border-radius: 1px;
+    box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.1);
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    text-transform: capitalize !important;
+    background-color: #24B9D7 !important;
+    border-color: #24B9D7 !important;
+}
+
+/* Spinner */
+.loader {
+    display: none;
+    border-radius: 50%;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+    margin: auto;
+    margin-top: 25px;
+    border: 3px solid #f3f3f3;
+    border-top: 3px solid #25b9d7;
+    width: 31px;
+    height: 31px;
+}
+@-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}

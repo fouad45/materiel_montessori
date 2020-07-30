@@ -1,0 +1,95 @@
+#moda_popupnewsletter  .modal-content {
+    background-clip: padding-box;
+    background:none;
+    border:none;
+    border-radius: 0;
+    outline: 0 none;
+    position: relative;
+}
+.fieldpopup .fancybox-skin .fancybox-close {top:5px; right:2px; background-color: transparent; color: #ffffff; line-height: 20px; z-index:8}
+.fieldpopup .fancybox-skin .fancybox-close:after {
+    content: "X";
+    font-size: 20px;
+}
+#newsletter_block_popup {
+    color: #ffffff;
+    position: absolute;
+    left: 100px;
+    bottom:20px;
+    right:40px;
+    margin: 0;
+}
+#newsletter_block_popup .block_content{
+    padding-bottom: 105px;
+}
+.fieldpopup .inputNew {
+    background-color: #ffffff;
+    border: medium none;
+    clear: both;
+    color: #555555;
+    display: block;
+    float: left;
+    font-size: 16px;
+    height: 35px;
+    margin-top: 10px;
+    padding: 0 0 0 15px;
+    width: 270px !important;
+}
+.fieldpopup  .form-control::-webkit-placeholder{
+    width: 270px;
+    float: right;
+    color: red;
+}
+.popup_title h2{
+    font-size: 34px;
+    text-transform: uppercase;
+}
+
+.button_unique {
+    background-color: #eb5f60;
+    border: medium none;
+    cursor: pointer;
+    display: block;
+    float: left;
+    font-size: 20px;
+    line-height: 1;
+    margin-top: 10px;
+    padding: 8px 10px;
+    text-align: center;
+    text-transform: uppercase;
+    transition:all 0.3s ease-in-out 0s; -webkit-transition:all 0.3s ease-in-out 0s; -moz-transition:all 0.3s ease-in-out 0s;
+}
+.button_unique:hover{
+    background: #90816e;
+}
+.send-response {
+    font-size: 16px;
+    color:#990000;
+    padding-bottom: 5px;
+}
+.newsletter_block_popup-bottom{
+   
+}
+.newsletter_block_popup-bottom label{
+    color: #ffffff;
+    cursor: pointer;	
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+#uniform-newsletter_popup_dont_show_again{
+    float: left;
+    margin-top: 3px;
+}
+#uniform-newsletter_popup_dont_show_again span{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+}
+.fancybox-close-overlay {
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    cursor: pointer;
+    top:5px;
+    right:5px;
+    z-index:9;
+}

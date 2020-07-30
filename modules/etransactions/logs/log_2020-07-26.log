@@ -1,0 +1,18 @@
+2020-07-26 10:52:49 1595753569 DEBUG: URL to check 2
+2020-07-26 10:52:49 1595753569 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-26 10:52:49 1595753569 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-07-26 10:52:49 1595753569 DEBUG: Cart 936: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-07-26 10:53:40 1595753620 DEBUG: Call params: M=5557&R=936%20-%20Aubane%20Furnemont&T=942768335&B=0&C=CB&D=2311&E=00040&F=N&G=N&I=BEL&J=92&N=544056&O=Y&P=CARTE&Q=10%3A52%3A50&S=204047685&W=26072020&Z=0-0&K=V63xiK8Qmo%2F61Q7s1FT8IWK5IeVrgAIUr6bYJCMiEm1BlrZUGh%2Fqni0sPQKsESxd5brDl25ezQoGOYrDKpmphcKZMTrFD5%2Bw85gBAZ%2Bq%2FhI5WC40%2BK6yKz%2Fsm14qBTscqJoCEtgpYOB5POiNwvn6uDOyEOEafdZEUowoVQnVFXs%3D
+2020-07-26 10:53:50 1595753620 DEBUG: Cart 936: (IPN) Payment was refused by E-Transactions (40).
+2020-07-26 11:00:34 1595754034 DEBUG: URL to check 2
+2020-07-26 11:00:34 1595754034 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-26 11:00:34 1595754034 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-07-26 11:00:34 1595754034 DEBUG: Cart 937: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-07-26 11:01:05 1595754064 DEBUG: URL to check 2
+2020-07-26 11:01:05 1595754064 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-26 11:01:05 1595754064 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-07-26 11:01:05 1595754064 DEBUG: Cart 937: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-07-26 12:46:57 1595760417 DEBUG: URL to check 2
+2020-07-26 12:46:57 1595760417 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-26 12:46:57 1595760417 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-07-26 12:46:57 1595760417 DEBUG: Cart 937: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).

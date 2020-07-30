@@ -1,0 +1,64 @@
+.brand(@var) when (isstring(@var)=true) {
+    &__logo {
+        background: url(@var) no-repeat center center;
+        background-size: contain;
+    }
+}
+
+.topbar(@var) when (iscolor(@var)=true) {
+    background: @var;
+}
+
+.cartsummary-background(@var) when (iscolor(@var)=true) {
+    background: @var;
+}
+
+.cartsummary-color(@var) when (iscolor(@var)=true) {
+    color: @var;
+}
+
+.checkout-background(@var) when (iscolor(@var)=true) {
+    background: @var;
+}
+
+.checkout-color(@var) when (iscolor(@var)=true) {
+    color: @var;
+}
+
+.item-price(@var) when (iscolor(@var)=true) {
+    &__price {
+        color: @var;
+    }
+}
+
+.item-price-new(@var) when (iscolor(@var)=true) {
+    &__price {
+        &--new {
+            color: @var;
+        }
+    }
+}
+
+.item-price-old(@var) when (iscolor(@var)=true) {
+    &__price {
+        &--old {
+            color: @var;
+        }
+    }
+}
+
+.item-title(@var) when (iscolor(@var)=true) {
+    &__title {
+        color: @var;
+    }
+}
+
+.body-font-family(@var) when (isstring(@var)=true) {
+    font-family: @var;
+}
+
+.heading-font-family(@var) when (isstring(@var)=true) {
+  &__heading {
+    font-family: @var;
+  }
+}

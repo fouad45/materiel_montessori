@@ -1,0 +1,117 @@
+<fieldslideshow>
+    <!-- slideshow  id1 -->
+    <slideshow>
+        <id_fieldslideshow>1</id_fieldslideshow>
+        <porder>1</porder>
+        <active>1</active>
+        <images>slider-111.jpg</images>
+    </slideshow>
+    <slideshow_lang>
+        <id_fieldslideshow>1</id_fieldslideshow>
+        <id_lang>1</id_lang>
+        <title1>Pick the best toy</title1>
+        <title2>for your kid</title2>
+        <btntext>Shop now !</btntext>
+        <link>#</link>
+        <description>
+            <![CDATA[
+                <p>Make play time a blast with our finest toys and game !</p>
+            ]]>
+        </description>
+    </slideshow_lang>
+    <slideshow_lang>
+        <id_fieldslideshow>1</id_fieldslideshow>
+        <id_lang>2</id_lang>
+        <title1>Pick the best toy</title1>
+        <title2>for your kid</title2>
+        <btntext>Shop now !</btntext>
+        <link>#</link>
+        <description>
+             <![CDATA[
+             <p>Make play time a blast with our finest toys and game !</p>
+            ]]>
+        </description>
+    </slideshow_lang>
+    <slideshow_shop>
+        <id_fieldslideshow>1</id_fieldslideshow>
+        <id_shop>1</id_shop>
+    </slideshow_shop>
+    <!--End slideshow  id1 -->
+    <!-- slideshow  id2 -->         
+    <slideshow>
+        <id_fieldslideshow>2</id_fieldslideshow>
+        <porder>2</porder>
+        <active>1</active>
+        <images>slider-222.jpg</images>
+    </slideshow>
+    <slideshow_lang>
+        <id_fieldslideshow>2</id_fieldslideshow>
+        <id_lang>1</id_lang>
+        <title1>Designer Dolls Much Bee</title1>
+        <title2>Active baby all</title2>
+        <btntext>Shop now !</btntext>
+        <link>#</link>
+        <description>
+             <![CDATA[
+             <p>Make play time a blast with our finest toys and game !</p>
+            ]]>
+        </description>
+    </slideshow_lang>
+    <slideshow_lang>
+        <id_fieldslideshow>2</id_fieldslideshow>
+        <id_lang>2</id_lang>
+        <title1>Designer Dolls Much Bee</title1>
+        <title2>Active baby all</title2>
+        <btntext>Shop now !</btntext>
+        <link>#</link>
+        <description>
+            <![CDATA[
+             <p>Make play time a blast with our finest toys and game !</p>
+            ]]>
+        </description>
+    </slideshow_lang>
+    <slideshow_shop>
+        <id_fieldslideshow>2</id_fieldslideshow>
+        <id_shop>1</id_shop>
+    </slideshow_shop>
+    <!--End slideshow  id2 --> 
+    <!-- slideshow  id3 --> 
+    <slideshow>
+        <id_fieldslideshow>3</id_fieldslideshow>
+        <porder>3</porder>
+        <active>1</active>
+        <images>slider-333.jpg</images>
+    </slideshow>
+    <slideshow_lang>
+        <id_fieldslideshow>3</id_fieldslideshow>
+        <id_lang>1</id_lang>
+        <title1>Bee Clothing For Boys</title1>
+        <title2>Reliability good</title2>
+        <btntext>Shop now !</btntext>
+        <link>#</link>
+        <description>
+            <![CDATA[
+             <p>Make play time a blast with our finest toys and game !</p>
+            ]]>
+        </description>
+    </slideshow_lang>
+    <slideshow_lang>
+        <id_fieldslideshow>3</id_fieldslideshow>
+        <id_lang>2</id_lang>
+        <title1>Bee Clothing For Boys</title1>
+        <title2>Reliability good</title2>
+        <btntext>Shop now !</btntext>
+        <link>#</link>
+        <description>
+             <![CDATA[
+             <p>Make play time a blast with our finest toys and game !</p>
+            ]]>
+        </description>
+    </slideshow_lang>
+    <slideshow_shop>
+        <id_fieldslideshow>3</id_fieldslideshow>
+        <id_shop>1</id_shop>
+    </slideshow_shop>
+    <!--End slideshow  id3 --> 
+
+</fieldslideshow>

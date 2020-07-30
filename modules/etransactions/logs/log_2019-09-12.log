@@ -1,0 +1,17 @@
+2019-09-12 17:46:00 1568303160 DEBUG: URL to check 2
+2019-09-12 17:46:00 1568303160 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-09-12 17:46:00 1568303160 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-09-12 17:46:00 1568303160 DEBUG: Cart 22: Redirecting customer to E-Transactions (CARTE, VISA).
+2019-09-12 17:47:24 1568303244 DEBUG: Call params: M=1822&R=22%20-%20El%20Messaoudi%20Wassima&T=541450965&A=516012&B=0&C=Visa&D=2003&E=00000&F=Y&G=O&I=FRA&J=65&N=497993&O=Y&P=CARTE&Q=17%3A46%3A00&S=127671272&W=12092019&Y=FRA&Z=0-0&K=LUrceD7vweuFPlhQmRhoyJRGQYvglzVWAv%2FZUFChwJbzqkGR2z1QC%2F%2F8brIsxoohXeED5Pn29Wzbeb7ZX5gB0jJeFE0Mt9e6dRE69eDrL8cvl1Q4NIKRXF3V%2BwTVK8esepjLvoZ7neOIrFzLAfk%2FjjzPRTlWr4qmiieGlq9B2do%3D
+2019-09-12 17:47:34 1568303244 DEBUG: Cart 22: Mixed IPN
+2019-09-12 17:47:34 1568303244 DEBUG: Cart 22: First payment
+2019-09-12 17:47:34 1568303244 DEBUG: Cart 22: Validating order
+2019-09-12 17:47:35 1568303244 DEBUG: Cart 22: Order 9 validated, creating details
+2019-09-12 17:47:35 1568303244 DEBUG: Cart 22: Order 9 / Le paiement a été autorisé et capturé par E-Transactions.
+2019-09-12 17:47:41 1568303261 DEBUG: Cart 22: Customer is back from E-Transactions payment page. Payment success.
+2019-09-12 18:18:02 1568305082 DEBUG: URL to check 2
+2019-09-12 18:18:02 1568305082 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-09-12 18:18:02 1568305082 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-09-12 18:18:02 1568305082 DEBUG: Cart 30: Redirecting customer to E-Transactions (CARTE, VISA).
+2019-09-12 18:48:54 1568306934 DEBUG: Checking E-Transactions update to version 3.0.12
+2019-09-12 18:48:54 1568306934 DEBUG:  E-Transactions version check answer: {"version":"3.0.10.1","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=etransactions-3.0.10.1.zip","message":"Mise \u00e0 jour Importante: <b>ATTENTION:<\/b> Correctif pour les paiements diff\u00e9r\u00e9s<br>et correctifs mineurs notamment pour les cartes cadeau.","documentation":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=doc_prestashop&filename=manuel-module-prestashop-v2et.pdf"}

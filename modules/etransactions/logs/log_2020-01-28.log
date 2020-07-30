@@ -1,0 +1,15 @@
+2020-01-28 13:40:06 1580215206 DEBUG: URL to check 2
+2020-01-28 13:40:06 1580215206 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-01-28 13:40:07 1580215206 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-01-28 13:40:07 1580215206 DEBUG: Cart 469: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-01-28 13:41:56 1580215316 DEBUG: Call params: M=13598&R=469%20-%20Marie%20Agnes%20Basson&T=1456612710&A=547550&B=0&C=MasterCard&D=2009&E=00000&F=Y&G=O&I=FRA&J=08&N=513165&O=Y&P=3DSECURE&Q=13%3A40%3A08&S=316203409&W=28012020&Y=FRA&Z=0-0&K=Rzzb%2BwlX%2BQJhOhjdXhljbE20oZ0UyqE%2F6Ga5cctqIVqVW4lctofw2ZMrB0gqvfBTyWicU6%2Bndm9mgfSGQ6DK4ScU8Zbcfq81iNJhWYlUM%2Fmoq%2FFR1%2BpMrVFl9cXeRoizJoeuFKBbpzmMY%2FcYVbpDwfGwDlpbyvdeceS6Ziicu5I%3D
+2020-01-28 13:42:04 1580215324 DEBUG: Cart 469: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-01-28 13:42:06 1580215326 DEBUG: Cart 469: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-01-28 13:42:06 1580215316 DEBUG: Cart 469: Mixed IPN
+2020-01-28 13:42:06 1580215316 DEBUG: Cart 469: First payment
+2020-01-28 13:42:06 1580215316 DEBUG: Cart 469: Validating order
+2020-01-28 13:42:07 1580215327 DEBUG: Cart 469: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-01-28 13:42:09 1580215316 DEBUG: Cart 469: Order 43 validated, creating details
+2020-01-28 13:42:09 1580215328 DEBUG: Cart 469: Customer is back from E-Transactions payment page. Waiting order validation (loop 3).
+2020-01-28 13:42:09 1580215316 DEBUG: Cart 469: Order 43 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-01-28 13:42:10 1580215330 DEBUG: Cart 469: Customer is back from E-Transactions payment page. Payment success.

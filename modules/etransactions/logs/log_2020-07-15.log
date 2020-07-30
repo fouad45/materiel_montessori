@@ -1,0 +1,13 @@
+2020-07-15 08:15:53 1594793753 DEBUG: URL to check 2
+2020-07-15 08:15:53 1594793753 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-15 08:15:53 1594793753 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-07-15 08:15:53 1594793753 DEBUG: Cart 910: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-07-15 08:17:02 1594793822 DEBUG: Call params: M=4057&R=910%20-%20Amelie%20Desanges%20Guillin&T=939807782&A=516216&B=0&C=Visa&D=2206&E=00000&F=Y&G=O&I=FRA&J=17&N=499001&O=Y&P=CARTE&Q=08%3A15%3A54&S=201513822&W=15072020&Y=FRA&Z=0-0&K=K7%2FYxHZDUerdLaIZNvXtqKCrtdZvG4qTJZzyz0lAspHnRKyhWX2Bm3bbzTDs2Wi5gCZRfNXDVex1WsdFERNuM4qMz58d7eCcDojAtJvIuAz09lcZ35bx%2FIZfNLhj6iGZ8gZXWzOMIe6EpT5f5exfDufDlytUU38Rlt6zpyS4LVE%3D
+2020-07-15 08:17:12 1594793822 DEBUG: Cart 910: Mixed IPN
+2020-07-15 08:17:12 1594793822 DEBUG: Cart 910: First payment
+2020-07-15 08:17:12 1594793822 DEBUG: Cart 910: Validating order
+2020-07-15 08:17:12 1594793832 DEBUG: Cart 910: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-07-15 08:17:14 1594793834 DEBUG: Cart 910: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-07-15 08:17:14 1594793822 DEBUG: Cart 910: Order 95 validated, creating details
+2020-07-15 08:17:14 1594793822 DEBUG: Cart 910: Order 95 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-07-15 08:17:15 1594793835 DEBUG: Cart 910: Customer is back from E-Transactions payment page. Payment success.

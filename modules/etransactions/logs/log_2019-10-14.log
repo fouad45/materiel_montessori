@@ -1,0 +1,10 @@
+2019-10-14 11:53:34 1571046813 DEBUG: URL to check 2
+2019-10-14 11:53:34 1571046813 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-10-14 11:53:34 1571046813 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-10-14 11:53:34 1571046813 DEBUG: Cart 123: Redirecting customer to E-Transactions (CARTE, CB).
+2019-10-14 11:54:21 1571046861 DEBUG: Call params: M=62976&R=123%20-%20nathalie%20roesslinger&T=552455929&A=458644&B=0&C=Visa&D=2109&E=00000&F=Y&G=O&I=FRA&J=44&N=497783&O=Y&P=3DSECURE&Q=11%3A53%3A35&S=135965934&W=14102019&Y=FRA&Z=0-0&K=ftBbnZn2BKbbmRrr4X8q2sWKDsCuFvffb7FT36eKharn3QXLdnz%2Bb9ntHWP2OaCV1cxP4N1pm77uNSfhWdKsG4GTm3NJbAy11RUD%2FYZJ5NNpvq2XRf%2BCj%2Bz39p5LCXJyempkM0lOqBdgLPoEL78KG1K%2BHy%2B7IAIK3sSIUhQYKS4%3D
+2019-10-14 11:54:33 1571046861 DEBUG: Cart 123: Mixed IPN
+2019-10-14 11:54:34 1571046861 DEBUG: Cart 123: First payment
+2019-10-14 11:54:34 1571046861 DEBUG: Cart 123: Validating order
+2019-10-14 11:54:35 1571046861 DEBUG: Cart 123: Order 21 validated, creating details
+2019-10-14 11:54:35 1571046861 DEBUG: Cart 123: Order 21 / Le paiement a été autorisé et capturé par E-Transactions.

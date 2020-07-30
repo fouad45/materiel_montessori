@@ -1,0 +1,12 @@
+2020-03-05 22:37:37 1583444257 DEBUG: URL to check 2
+2020-03-05 22:37:37 1583444257 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-03-05 22:37:37 1583444257 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-03-05 22:37:37 1583444257 DEBUG: Cart 542: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-03-05 22:39:24 1583444364 DEBUG: Call params: M=21784&R=542%20-%20Gaelle%20SCHWITZGUEBEL&T=905316890&A=674266&B=0&C=Visa&D=2110&E=00000&F=Y&G=O&I=FRA&J=00&N=497886&O=Y&P=CARTE&Q=22%3A37%3A38&S=174503580&W=05032020&Y=FRA&Z=0-0&K=gG0SwBVs4i2dP7aClh4TZOZk6ncCh4XxdoddFYxyNrkJMTVlKoXTOnYXIcT3RFDvkDnOE9PXtkNAzFT8rQEultIsEz9dcj9sID3PmDOwIKzWgAcwMtUsHi1W%2BF94Y3zsiMxhpQqS%2FqKen5kW7RFqlIM6%2FlwD%2FG8aZg4qKbLk688%3D
+2020-03-05 22:39:32 1583444372 DEBUG: Cart 542: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-03-05 22:39:34 1583444364 DEBUG: Cart 542: Mixed IPN
+2020-03-05 22:39:35 1583444364 DEBUG: Cart 542: First payment
+2020-03-05 22:39:35 1583444364 DEBUG: Cart 542: Validating order
+2020-03-05 22:39:35 1583444364 DEBUG: Cart 542: Order 51 validated, creating details
+2020-03-05 22:39:35 1583444364 DEBUG: Cart 542: Order 51 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-03-05 22:39:37 1583444377 DEBUG: Cart 542: Customer is back from E-Transactions payment page. Payment success.

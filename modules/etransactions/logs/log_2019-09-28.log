@@ -1,0 +1,11 @@
+2019-09-28 00:21:08 1569622868 DEBUG: URL to check 2
+2019-09-28 00:21:08 1569622868 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-09-28 00:21:08 1569622868 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-09-28 00:21:08 1569622868 DEBUG: Cart 101: Redirecting customer to E-Transactions (CARTE, VISA).
+2019-09-28 00:22:55 1569622975 DEBUG: Call params: M=3721&R=101%20-%20Ikram%20Kouchih&T=546650913&A=455573&B=0&C=Visa&D=2110&E=00000&F=Y&G=O&I=FRA&J=33&N=497804&O=Y&P=CARTE&Q=00%3A21%3A12&S=131767357&W=28092019&Y=FRA&Z=0-0&K=3QJ9EdUUTm3ZVHWLLWkvbOvo0aqY4Oi%2FjuxYJHFkpbyqD2EwqeR7w7DT1sAxhpDQLPcW9FZ27XCnqDkD1Er1sAEJU2r60mWx7kNlF362sETmXfYfT9Cy6%2FojUd8SC597agNtxYsSWYJmlGL7wBnN0J1x0otvg87lAnKNhpX5%2B5w%3D
+2019-09-28 00:23:05 1569622975 DEBUG: Cart 101: Mixed IPN
+2019-09-28 00:23:06 1569622975 DEBUG: Cart 101: First payment
+2019-09-28 00:23:06 1569622975 DEBUG: Cart 101: Validating order
+2019-09-28 00:23:06 1569622975 DEBUG: Cart 101: Order 20 validated, creating details
+2019-09-28 00:23:06 1569622975 DEBUG: Cart 101: Order 20 / Le paiement a été autorisé et capturé par E-Transactions.
+2019-09-28 00:23:21 1569623001 DEBUG: Cart 101: Customer is back from E-Transactions payment page. Payment success.

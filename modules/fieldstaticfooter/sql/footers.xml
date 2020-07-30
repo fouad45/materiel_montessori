@@ -1,0 +1,985 @@
+<field_static_blocks>
+<!-- static block configuration -->
+	<block>
+        <id_fieldstaticblock>3</id_fieldstaticblock>
+        <identify>footer-static-col1</identify>
+        <hook_position>blockFooter1</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <fieldorder>1</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<block>
+        <id_fieldstaticblock>4</id_fieldstaticblock>
+        <identify>footer-static-col2</identify>
+        <hook_position>blockFooter1</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <fieldorder>2</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<block>
+        <id_fieldstaticblock>5</id_fieldstaticblock>
+        <identify>footer-static-col3</identify>
+        <hook_position>blockFooter1</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <fieldorder>3</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<block>
+        <id_fieldstaticblock>6</id_fieldstaticblock>
+        <identify>footer-static-col4</identify>
+        <hook_position>blockFooter1</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <fieldorder>4</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<block>
+        <id_fieldstaticblock>7</id_fieldstaticblock>
+        <identify>footer-newsletter</identify>
+        <hook_position>blockFooter3</hook_position>
+        <name_module>ps_emailsubscription</name_module>
+        <hook_module>actionCustomerAccountAdd</hook_module>
+        <fieldorder>5</fieldorder>
+        <insert_module>1</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<block>
+        <id_fieldstaticblock>8</id_fieldstaticblock>
+        <identify>footer-social</identify>
+        <hook_position>blockFooter4</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <fieldorder>6</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<block>
+        <id_fieldstaticblock>9</id_fieldstaticblock>
+        <identify>footer-address</identify>
+        <hook_position>blockFooter2</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <fieldorder>7</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<block>
+        <id_fieldstaticblock>10</id_fieldstaticblock>
+        <identify>footer-static-col5</identify>
+        <hook_position>blockFooter1</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <fieldorder>8</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<block>
+        <id_fieldstaticblock>11</id_fieldstaticblock>
+        <identify>about</identify>
+        <hook_position>blockFooter2</hook_position>
+        <name_module>Chose Module</name_module>
+        <hook_module>0</hook_module>
+        <fieldorder>0</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<!-- block language configuration -->
+	<block_language>
+        <id_fieldstaticblock>3</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>Footer Static Col1</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-3 links contact_ft">
+<h3>CONTACT US</h3>
+<div class="title" data-target="#footer_sub_menu_col_1" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_1" class="collapse">
+<li class="menu_col_1">
+<div class="icon"><span class="fa fa-map-marker">.</span></div>
+<div class="icon-text"><span>123 Main Street, Anytown, CA 12345 USA</span></div>
+</li>
+<li class="menu_col_1">
+<div class="icon"><span class="fa fa-phone">.</span></div>
+<div class="icon-text"><span>+1 800 123 1234 / +84 123 456 79</span></div>
+</li>
+<li class="menu_col_1">
+<div class="icon"><span class="fa fa-envelope">.</span></div>
+<div class="icon-text"><a href="mailto:sales@yoursite.com">sales@yoursite.com</a></div>
+</li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>4</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>Footer Static Col2</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-2 links bullet">
+<h3>information</h3>
+<div class="title" data-target="#footer_sub_menu_col_2" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_2" class="collapse">
+<li><a href="/kids__17/home1/en/content/4-about-us" title="">About Us</a></li>
+<li><a href="#" title="">Search Terms</a></li>
+<li><a href="#" title="">Advanced Search</a></li>
+<li><a href="/kids__17/home1/en/contact-us" title="">Contact Us</a></li>
+<li><a href="#" title="">Suppliers</a></li>
+<li><a href="./sitemap" title="">Site Map</a></li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>5</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>Footer Static Col3</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-2 links bullet">
+<h3>our support</h3>
+<div class="title" data-target="#footer_sub_menu_col_3" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_3" class="collapse">
+<li><a href="#" title="">Net Transaction</a></li>
+<li><a href="#" title="">Compensation Fist</a></li>
+<li><a href="#" title="">My Account</a></li>
+<li><a href="#" title="">Return Policy</a></li>
+<li><a href="#" title="">Contact Us</a></li>
+<li><a href="#" title="">Testimonials</a></li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>6</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>Footer Static Col4</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-2 links bullet">
+<h3>MY ACCOUNT</h3>
+<div class="title" data-target="#footer_sub_menu_col_4" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_4" class="collapse">
+<li><a href="#" title="">My Product</a></li>
+<li><a href="#" title="">My Orders</a></li>
+<li><a href="#" title="">My Address</a></li>
+<li><a href="#" title="">My Personal Info</a></li>
+<li><a href="#" title="">My Status</a></li>
+<li><a href="#" title="">Privacy Policy</a></li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>7</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>newsletter</title>
+        <description>
+<![CDATA[
+<div class="footer-block footer-newsletter">
+<div class="left-newletter"></div>
+insert_module_ps_emailsubscription</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>8</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>Footer Social</title>
+        <description>
+<![CDATA[
+<div class="social_footer">
+<p class="social_text">Social connect</p>
+<div class="social-text"><a href="#" class="fa  fa-facebook">.</a> <a href="#" class="fa  fa-google-plus">.</a> <a href="#" class="fa  fa-twitter">.</a> <a href="#" class="fa  fa-rss">.</a></div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>9</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>Footer Address</title>
+        <description>
+<![CDATA[
+<div class="footer-address fieldFullWidth">
+<div class="container">
+<p><span>Copyright 2017 Kids toys Shop</span><span> All rights reserved</span><a href="http://fieldthemes.com/">Fieldthemes</a></p>
+<div class="payment_img"><a href="#"><img src="/kids__17/home1/modules/fieldstaticfooter/images/payment.jpg" alt="" /></a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>10</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>Footer Static Col5</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-3 links contact_ft">
+<h3>Gallery</h3>
+<div class="title" data-target="#footer_sub_menu_col_5" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<div id="footer_sub_menu_col_5" class="collapse"><a href="#"><img class="img-responsive" src="/kids__17/home1/modules/fieldstaticfooter/images/footer1.jpg" alt="" /></a></div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>11</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>about</title>
+        <description>
+<![CDATA[
+<div class="fieldFullWidth about_it">
+<div class="container">
+<div class="static_content">
+<div class="row">
+<div class="col-xs-12 col-sm-4 block_about" style="border-right: 1px solid #262626;">
+<div class="box-static_content">
+<div class="fa   fa-truck"></div>
+<div class="content_text">
+<h3><a href="#">FREE WORLDWIDE SHIPPING</a></h3>
+<p>Integer vitae libero ac risus</p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 block_about" style="border-right: 1px solid #262626;">
+<div class="box-static_content">
+<div class="fa  fa-gift"></div>
+<div class="content_text">
+<h3><a href="#">100% SATISFACTION</a></h3>
+<p>Integer vitae libero ac risus</p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 block_about">
+<div class="box-static_content">
+<div class="fa   fa-headphones"></div>
+<div class="content_text">
+<h3><a href="#">24/7 CUSTOMER SERVICE</a></h3>
+<p>Integer vitae libero ac risus</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>3</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>Footer Static Col1</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-3 links contact_ft">
+<h3>CONTACT US</h3>
+<div class="title" data-target="#footer_sub_menu_col_1" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_1" class="collapse">
+<li class="menu_col_1">
+<div class="icon"><span class="fa fa-map-marker">.</span></div>
+<div class="icon-text"><span>123 Main Street, Anytown, CA 12345 USA</span></div>
+</li>
+<li class="menu_col_1">
+<div class="icon"><span class="fa fa-phone">.</span></div>
+<div class="icon-text"><span>+1 800 123 1234 / +84 123 456 79</span></div>
+</li>
+<li class="menu_col_1">
+<div class="icon"><span class="fa fa-envelope">.</span></div>
+<div class="icon-text"><a href="mailto:sales@yoursite.com">sales@yoursite.com</a></div>
+</li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>4</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>Footer Static Col2</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-2 links bullet">
+<h3>information</h3>
+<div class="title" data-target="#footer_sub_menu_col_2" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_2" class="collapse">
+<li><a href="/kids__17/home1/en/content/4-about-us" title="">About Us</a></li>
+<li><a href="#" title="">Search Terms</a></li>
+<li><a href="#" title="">Advanced Search</a></li>
+<li><a href="/kids__17/home1/en/contact-us" title="">Contact Us</a></li>
+<li><a href="#" title="">Suppliers</a></li>
+<li><a href="./sitemap" title="">Site Map</a></li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>5</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>Footer Static Col3</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-2 links bullet">
+<h3>our support</h3>
+<div class="title" data-target="#footer_sub_menu_col_3" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_3" class="collapse">
+<li><a href="#" title="">Net Transaction</a></li>
+<li><a href="#" title="">Compensation Fist</a></li>
+<li><a href="#" title="">My Account</a></li>
+<li><a href="#" title="">Return Policy</a></li>
+<li><a href="#" title="">Contact Us</a></li>
+<li><a href="#" title="">Testimonials</a></li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>6</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>Footer Static Col4</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-2 links bullet">
+<h3>MY ACCOUNT</h3>
+<div class="title" data-target="#footer_sub_menu_col_4" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_4" class="collapse">
+<li><a href="#" title="">My Product</a></li>
+<li><a href="#" title="">My Orders</a></li>
+<li><a href="#" title="">My Address</a></li>
+<li><a href="#" title="">My Personal Info</a></li>
+<li><a href="#" title="">My Status</a></li>
+<li><a href="#" title="">Privacy Policy</a></li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>7</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>newsletter</title>
+        <description>
+<![CDATA[
+<div class="footer-block footer-newsletter">
+<div class="left-newletter"></div>
+insert_module_ps_emailsubscription</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>8</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>Footer Social</title>
+        <description>
+<![CDATA[
+<div class="social_footer">
+<p class="social_text">Social connect</p>
+<div class="social-text"><a href="#" class="fa  fa-facebook">.</a> <a href="#" class="fa  fa-google-plus">.</a> <a href="#" class="fa  fa-twitter">.</a> <a href="#" class="fa  fa-rss">.</a></div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>9</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>Footer Address</title>
+        <description>
+<![CDATA[
+<div class="footer-address fieldFullWidth">
+<div class="container">
+<p><span>Copyright 2017 Kids toys Shop</span><span> All rights reserved</span><a href="http://fieldthemes.com/">Fieldthemes</a></p>
+<div class="payment_img"><a href="#"><img src="/kids__17/home1/modules/fieldstaticfooter/images/payment.jpg" alt="" /></a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>10</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>Footer Static Col5</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-3 links contact_ft">
+<h3>Gallery</h3>
+<div class="title" data-target="#footer_sub_menu_col_5" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<div id="footer_sub_menu_col_5" class="collapse"><a href="#"><img class="img-responsive" src="/kids__17/home1/modules/fieldstaticfooter/images/footer1.jpg" alt="" /></a></div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>11</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>test</title>
+        <description>
+<![CDATA[
+<div class="fieldFullWidth about_it">
+<div class="container">
+<div class="static_content">
+<div class="row">
+<div class="col-xs-12 col-sm-4 block_about" style="border-right: 1px solid #262626;">
+<div class="box-static_content">
+<div class="fa   fa-truck"></div>
+<div class="content_text">
+<h3><a href="#">FREE WORLDWIDE SHIPPING</a></h3>
+<p>Integer vitae libero ac risus</p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 block_about" style="border-right: 1px solid #262626;">
+<div class="box-static_content">
+<div class="fa  fa-gift"></div>
+<div class="content_text">
+<h3><a href="#">100% SATISFACTION</a></h3>
+<p>Integer vitae libero ac risus</p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 block_about">
+<div class="box-static_content">
+<div class="fa   fa-headphones"></div>
+<div class="content_text">
+<h3><a href="#">24/7 CUSTOMER SERVICE</a></h3>
+<p>Integer vitae libero ac risus</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>3</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>Footer Static Col1</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-3 links contact_ft">
+<h3>CONTACT US</h3>
+<div class="title" data-target="#footer_sub_menu_col_1" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_1" class="collapse">
+<li class="menu_col_1">
+<div class="icon"><span class="fa fa-map-marker">.</span></div>
+<div class="icon-text"><span>123 Main Street, Anytown, CA 12345 USA</span></div>
+</li>
+<li class="menu_col_1">
+<div class="icon"><span class="fa fa-phone">.</span></div>
+<div class="icon-text"><span>+1 800 123 1234 / +84 123 456 79</span></div>
+</li>
+<li class="menu_col_1">
+<div class="icon"><span class="fa fa-envelope">.</span></div>
+<div class="icon-text"><a href="mailto:sales@yoursite.com">sales@yoursite.com</a></div>
+</li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>4</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>Footer Static Col2</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-2 links bullet">
+<h3>information</h3>
+<div class="title" data-target="#footer_sub_menu_col_2" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_2" class="collapse">
+<li><a href="/kids__17/home1/en/content/4-about-us" title="">About Us</a></li>
+<li><a href="#" title="">Search Terms</a></li>
+<li><a href="#" title="">Advanced Search</a></li>
+<li><a href="/kids__17/home1/en/contact-us" title="">Contact Us</a></li>
+<li><a href="#" title="">Suppliers</a></li>
+<li><a href="./sitemap" title="">Site Map</a></li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>5</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>Footer Static Col3</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-2 links bullet">
+<h3>our support</h3>
+<div class="title" data-target="#footer_sub_menu_col_3" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_3" class="collapse">
+<li><a href="#" title="">Net Transaction</a></li>
+<li><a href="#" title="">Compensation Fist</a></li>
+<li><a href="#" title="">My Account</a></li>
+<li><a href="#" title="">Return Policy</a></li>
+<li><a href="#" title="">Contact Us</a></li>
+<li><a href="#" title="">Testimonials</a></li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>6</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>Footer Static Col4</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-2 links bullet">
+<h3>MY ACCOUNT</h3>
+<div class="title" data-target="#footer_sub_menu_col_4" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_4" class="collapse">
+<li><a href="#" title="">My Product</a></li>
+<li><a href="#" title="">My Orders</a></li>
+<li><a href="#" title="">My Address</a></li>
+<li><a href="#" title="">My Personal Info</a></li>
+<li><a href="#" title="">My Status</a></li>
+<li><a href="#" title="">Privacy Policy</a></li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>7</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>Footer Static Col5</title>
+        <description>
+<![CDATA[
+<div class="footer-block footer-newsletter">
+<div class="left-newletter"></div>
+insert_module_ps_emailsubscription</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>8</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>Footer Social</title>
+        <description>
+<![CDATA[
+<div class="social_footer">
+<p class="social_text">Social connect</p>
+<div class="social-text"><a href="#" class="fa  fa-facebook">.</a> <a href="#" class="fa  fa-google-plus">.</a> <a href="#" class="fa  fa-twitter">.</a> <a href="#" class="fa  fa-rss">.</a></div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>9</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>Footer Address</title>
+        <description>
+<![CDATA[
+<div class="footer-address fieldFullWidth">
+<div class="container">
+<p><span>Copyright 2017 Kids toys Shop</span><span> All rights reserved</span><a href="http://fieldthemes.com/">Fieldthemes</a></p>
+<div class="payment_img"><a href="#"><img src="/kids__17/home1/modules/fieldstaticfooter/images/payment.jpg" alt="" /></a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>10</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>Footer Static Col5</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-3 links contact_ft">
+<h3>Gallery</h3>
+<div class="title" data-target="#footer_sub_menu_col_5" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<div id="footer_sub_menu_col_5" class="collapse"><a href="#"><img class="img-responsive" src="/kids__17/home1/modules/fieldstaticfooter/images/footer1.jpg" alt="" /></a></div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>11</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>test</title>
+        <description>
+<![CDATA[
+<div class="fieldFullWidth about_it">
+<div class="container">
+<div class="static_content">
+<div class="row">
+<div class="col-xs-12 col-sm-4 block_about" style="border-right: 1px solid #262626;">
+<div class="box-static_content">
+<div class="fa   fa-truck"></div>
+<div class="content_text">
+<h3><a href="#">FREE WORLDWIDE SHIPPING</a></h3>
+<p>Integer vitae libero ac risus</p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 block_about" style="border-right: 1px solid #262626;">
+<div class="box-static_content">
+<div class="fa  fa-gift"></div>
+<div class="content_text">
+<h3><a href="#">100% SATISFACTION</a></h3>
+<p>Integer vitae libero ac risus</p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 block_about">
+<div class="box-static_content">
+<div class="fa   fa-headphones"></div>
+<div class="content_text">
+<h3><a href="#">24/7 CUSTOMER SERVICE</a></h3>
+<p>Integer vitae libero ac risus</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>3</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>Footer Static Col1</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-3 links contact_ft">
+<h3>CONTACT US</h3>
+<div class="title" data-target="#footer_sub_menu_col_1" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_1" class="collapse">
+<li class="menu_col_1">
+<div class="icon"><span class="fa fa-map-marker">.</span></div>
+<div class="icon-text"><span>123 Main Street, Anytown, CA 12345 USA</span></div>
+</li>
+<li class="menu_col_1">
+<div class="icon"><span class="fa fa-phone">.</span></div>
+<div class="icon-text"><span>+1 800 123 1234 / +84 123 456 79</span></div>
+</li>
+<li class="menu_col_1">
+<div class="icon"><span class="fa fa-envelope">.</span></div>
+<div class="icon-text"><a href="mailto:sales@yoursite.com">sales@yoursite.com</a></div>
+</li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>4</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>Footer Static Col2</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-2 links bullet">
+<h3>information</h3>
+<div class="title" data-target="#footer_sub_menu_col_2" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_2" class="collapse">
+<li><a href="/kids__17/home1/en/content/4-about-us" title="">About Us</a></li>
+<li><a href="#" title="">Search Terms</a></li>
+<li><a href="#" title="">Advanced Search</a></li>
+<li><a href="/kids__17/home1/en/contact-us" title="">Contact Us</a></li>
+<li><a href="#" title="">Suppliers</a></li>
+<li><a href="./sitemap" title="">Site Map</a></li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>5</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>Footer Static Col3</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-2 links bullet">
+<h3>our support</h3>
+<div class="title" data-target="#footer_sub_menu_col_3" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_3" class="collapse">
+<li><a href="#" title="">Net Transaction</a></li>
+<li><a href="#" title="">Compensation Fist</a></li>
+<li><a href="#" title="">My Account</a></li>
+<li><a href="#" title="">Return Policy</a></li>
+<li><a href="#" title="">Contact Us</a></li>
+<li><a href="#" title="">Testimonials</a></li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>6</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>Footer Static Col4</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-2 links bullet">
+<h3>MY ACCOUNT</h3>
+<div class="title" data-target="#footer_sub_menu_col_4" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<ul id="footer_sub_menu_col_4" class="collapse">
+<li><a href="#" title="">My Product</a></li>
+<li><a href="#" title="">My Orders</a></li>
+<li><a href="#" title="">My Address</a></li>
+<li><a href="#" title="">My Personal Info</a></li>
+<li><a href="#" title="">My Status</a></li>
+<li><a href="#" title="">Privacy Policy</a></li>
+</ul>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>7</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>Footer Static Col5</title>
+        <description>
+<![CDATA[
+<div class="footer-block footer-newsletter">
+<div class="left-newletter"></div>
+insert_module_ps_emailsubscription</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>8</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>Footer Social</title>
+        <description>
+<![CDATA[
+<div class="social_footer">
+<p class="social_text">Social connect</p>
+<div class="social-text"><a href="#" class="fa  fa-facebook">.</a> <a href="#" class="fa  fa-google-plus">.</a> <a href="#" class="fa  fa-twitter">.</a> <a href="#" class="fa  fa-rss">.</a></div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>9</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>Footer Address</title>
+        <description>
+<![CDATA[
+<div class="footer-address fieldFullWidth">
+<div class="container">
+<p><span>Copyright 2017 Kids toys Shop</span><span> All rights reserved</span><a href="http://fieldthemes.com/">Fieldthemes</a></p>
+<div class="payment_img"><a href="#"><img src="/kids__17/home1/modules/fieldstaticfooter/images/payment.jpg" alt="" /></a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>10</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>Footer Static Col5</title>
+        <description>
+<![CDATA[
+<div class="col-xs-12 col-sm-6 col-md-3 links contact_ft">
+<h3>Gallery</h3>
+<div class="title" data-target="#footer_sub_menu_col_5" data-toggle="collapse">
+<div class="navbar-toggler collapse-icons hidden-md-up">
+<div class="fa fa-plus add"></div>
+<div class="fa fa-minus remove"></div>
+</div>
+</div>
+<div id="footer_sub_menu_col_5" class="collapse"><a href="#"><img class="img-responsive" src="/kids__17/home1/modules/fieldstaticfooter/images/footer1.jpg" alt="" /></a></div>
+</div>
+]]>
+	</description>
+    </block_language>
+	<block_language>
+        <id_fieldstaticblock>11</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>test</title>
+        <description>
+<![CDATA[
+<div class="fieldFullWidth about_it">
+<div class="container">
+<div class="static_content">
+<div class="row">
+<div class="col-xs-12 col-sm-4 block_about" style="border-right: 1px solid #262626;">
+<div class="box-static_content">
+<div class="fa   fa-truck"></div>
+<div class="content_text">
+<h3><a href="#">FREE WORLDWIDE SHIPPING</a></h3>
+<p>Integer vitae libero ac risus</p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 block_about" style="border-right: 1px solid #262626;">
+<div class="box-static_content">
+<div class="fa  fa-gift"></div>
+<div class="content_text">
+<h3><a href="#">100% SATISFACTION</a></h3>
+<p>Integer vitae libero ac risus</p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 block_about">
+<div class="box-static_content">
+<div class="fa   fa-headphones"></div>
+<div class="content_text">
+<h3><a href="#">24/7 CUSTOMER SERVICE</a></h3>
+<p>Integer vitae libero ac risus</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+]]>
+	</description>
+    </block_language>
+<!-- block shop configuration -->
+	<block_shop>
+        <id_fieldstaticblock>3</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+      </block_shop><block_shop>
+        <id_fieldstaticblock>4</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+      </block_shop><block_shop>
+        <id_fieldstaticblock>5</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+      </block_shop><block_shop>
+        <id_fieldstaticblock>6</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+      </block_shop><block_shop>
+        <id_fieldstaticblock>7</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+      </block_shop><block_shop>
+        <id_fieldstaticblock>8</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+      </block_shop><block_shop>
+        <id_fieldstaticblock>9</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+      </block_shop><block_shop>
+        <id_fieldstaticblock>10</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+      </block_shop><block_shop>
+        <id_fieldstaticblock>11</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+      </block_shop>
+
+</field_static_blocks>

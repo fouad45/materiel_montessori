@@ -1,0 +1,10 @@
+2020-03-13 16:49:07 1584114547 DEBUG: URL to check 2
+2020-03-13 16:49:07 1584114547 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-03-13 16:49:07 1584114547 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-03-13 16:49:07 1584114547 DEBUG: Cart 553: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-03-13 16:50:48 1584114648 DEBUG: Call params: M=13777&R=553%20-%20Chloe%20Keraghel&T=908142784&A=031681&B=0&C=Visa&D=2210&E=00000&F=Y&G=O&I=FRA&J=03&N=497203&O=Y&P=3DSECURE&Q=16%3A49%3A08&S=176522630&W=13032020&Y=FRA&Z=0-0&K=Lmn2Hrvl3fpMTt3mw9OUqnf5FC9%2Bx6eeshxbbq0duX3a2KI6MSRBi%2FXxCKLnn2obvaOUGtvDBrf449FQCjCwd6S32pN8n2pM05QXwulFmZ4DPL4OXMUICAlYQ1%2BosIymFo2gJvbygbi3bvTJ0yOYNjr2Vqe2dESCaqDNGGbicms%3D
+2020-03-13 16:50:58 1584114648 DEBUG: Cart 553: Mixed IPN
+2020-03-13 16:50:58 1584114648 DEBUG: Cart 553: First payment
+2020-03-13 16:50:58 1584114648 DEBUG: Cart 553: Validating order
+2020-03-13 16:51:00 1584114648 DEBUG: Cart 553: Order 55 validated, creating details
+2020-03-13 16:51:00 1584114648 DEBUG: Cart 553: Order 55 / Le paiement a été autorisé et capturé par E-Transactions.

@@ -1,0 +1,31 @@
+**** sur ma page 1 et 3 j'ai bien ma colone left de mon site alors qu'en page 2 elle disparait ****
+
+Bonjour,
+voici ce qu'il faut faire !
+
+Ouvrez le fichier "opartmultipaybycheck\controllers\front\payment.php"
+
+et remplacez la ligne:
+public $display_column_left = false;
+
+par 
+public $display_column_left = true;
+
+************
+
+Je n'ai pas l'image qui accompagne le mode de paiement:
+
+Bonjour,
+Si vous utilisez prestashop 1.5, vous devriez avoir une image.
+Si ce n'est pas le cas il faut alors vérifier que l'image suivante est bien présente sur votre serveur:
+modules\opartmultipaybycheck\opartmultipaybycheck\views\img\multiple_checks.jpg
+
+Si vous êtes sur prestashop 1.6, sur le thème de base il n'y a pas d'image de prévue.
+Vous pouvez la rajouter en modifiant le fichier de template qui gère l'affichage du mode de paiement du module.
+Il se trouve ici:
+modules\opartmultipaybycheck\views\templates\hook\payment.tpl
+
+Vous pouvez vous inspirer du code du fichier de template utilisé pour les versions 1.5 de Prestashop qui se trouve dans le même dossier:
+modules\opartmultipaybycheck\views\templates\hook\payment_execution_15.tpl
+
+N'oubliez pas de vider le cache smarty de Prestashop pour être sûr que vos modifications soient bien prise en compte.

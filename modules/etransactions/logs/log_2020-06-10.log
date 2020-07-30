@@ -1,0 +1,28 @@
+2020-06-10 10:01:51 1591776111 DEBUG: URL to check 2
+2020-06-10 10:01:51 1591776111 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-06-10 10:01:51 1591776111 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-06-10 10:01:51 1591776111 DEBUG: Cart 785: Redirecting customer to E-Transactions (CARTE, CB).
+2020-06-10 10:45:27 1591778727 DEBUG: URL to check 2
+2020-06-10 10:45:27 1591778727 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-06-10 10:45:27 1591778727 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-06-10 10:45:27 1591778727 DEBUG: Cart 779: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-06-10 10:47:16 1591778836 DEBUG: Call params: M=12433&R=779%20-%20Adele%20DELAHAUR&T=1481133227&A=136547&B=0&C=Visa&D=2204&E=00000&F=Y&G=O&I=FRA&J=58&N=497653&O=Y&P=3DSECURE&Q=10%3A45%3A28&S=333095404&W=10062020&Y=FRA&Z=0-0&K=u1Y%2FK%2FEE9%2Fqk3H9T81CUrIb0mpd3yt6vFlXyZbIPnoHbUHUsBtIc8MGa%2FwKyK9Zp7DW%2Fw4wDaZNssDrLAdYQT3XuEua9qBkkLeiaM9sEPQdM7eJfQt1xrTnsWeg%2FaLaXYeXzKBzAv5lNSzOsGM25JHSIsBtn%2Fqdu7sU1zCUq4Ss%3D
+2020-06-10 10:47:23 1591778843 DEBUG: Cart 779: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-06-10 10:47:25 1591778845 DEBUG: Cart 779: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-06-10 10:47:26 1591778836 DEBUG: Cart 779: Mixed IPN
+2020-06-10 10:47:26 1591778836 DEBUG: Cart 779: First payment
+2020-06-10 10:47:26 1591778836 DEBUG: Cart 779: Validating order
+2020-06-10 10:47:26 1591778846 DEBUG: Cart 779: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-06-10 10:47:27 1591778836 DEBUG: Cart 779: Order 82 validated, creating details
+2020-06-10 10:47:27 1591778836 DEBUG: Cart 779: Order 82 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-06-10 10:47:27 1591778847 DEBUG: Cart 779: Customer is back from E-Transactions payment page. Payment success.
+2020-06-10 22:32:44 1591821164 DEBUG: URL to check 2
+2020-06-10 22:32:44 1591821164 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-06-10 22:32:44 1591821164 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-06-10 22:32:44 1591821164 DEBUG: Cart 768: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-06-10 22:34:07 1591821247 DEBUG: Call params: M=26487&R=768%20-%20Adeline%20PEZARD&T=1481239917&A=856944&B=0&C=Visa&D=2205&E=00000&F=Y&G=O&I=FRA&J=60&N=497958&O=Y&P=3DSECURE&Q=22%3A32%3A45&S=333198283&W=10062020&Y=FRA&Z=0-0&K=jFhQsEyTIZ35fU1jlCF3VJnnOqksP2C5WpZEdnSCsam3asZ7P92Pn8TNAuf4oLriP4xlKILD309o6cvLOhgCxHpMs1H4B2CJS9WjObhyQJAn5Ihblg4usCQ1q6CO2VhGETlQF6lHHyll3tLUvgrMQL1pq5E5pWMI82Ptyk4XEZo%3D
+2020-06-10 22:34:17 1591821247 DEBUG: Cart 768: Mixed IPN
+2020-06-10 22:34:17 1591821247 DEBUG: Cart 768: First payment
+2020-06-10 22:34:17 1591821247 DEBUG: Cart 768: Validating order
+2020-06-10 22:34:19 1591821247 DEBUG: Cart 768: Order 83 validated, creating details
+2020-06-10 22:34:19 1591821247 DEBUG: Cart 768: Order 83 / Le paiement a été autorisé et capturé par E-Transactions.

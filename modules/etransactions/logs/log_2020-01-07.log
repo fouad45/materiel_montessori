@@ -1,0 +1,15 @@
+2020-01-07 22:58:25 1578434305 DEBUG: URL to check 2
+2020-01-07 22:58:25 1578434305 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-01-07 22:58:25 1578434305 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-01-07 22:58:25 1578434305 DEBUG: Cart 386: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-01-07 22:59:24 1578434364 DEBUG: Call params: M=10282&R=386%20-%20Audrey%20Masset&T=585164187&A=330211&B=0&C=MasterCard&D=2009&E=00000&F=Y&G=O&I=FRA&J=51&N=513234&O=Y&P=3DSECURE&Q=22%3A58%3A26&S=159786557&W=07012020&Y=FRA&Z=0-0&K=lwfufD8DiM7rbc9Z1laG%2BbsLeOlg2oL%2FTWFAy%2FaFIGTECfuOIoDi01B4ktErR273MwoYdxKNJyc7XjOnkyhPxkmknjrSkfx4G%2FKxwdTV4azR4uKicHfVoCxMDCjcEkUwD%2Bv28GfQZAfaUHdLzTdN0MIoNfbpFNJi7zH5Dz6s5Sc%3D
+2020-01-07 22:59:31 1578434371 DEBUG: Cart 386: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-01-07 22:59:32 1578434372 DEBUG: Cart 386: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-01-07 22:59:34 1578434374 DEBUG: Cart 386: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-01-07 22:59:34 1578434364 DEBUG: Cart 386: Mixed IPN
+2020-01-07 22:59:35 1578434364 DEBUG: Cart 386: First payment
+2020-01-07 22:59:35 1578434364 DEBUG: Cart 386: Validating order
+2020-01-07 22:59:36 1578434376 DEBUG: Cart 386: Customer is back from E-Transactions payment page. Waiting order validation (loop 3).
+2020-01-07 22:59:36 1578434364 DEBUG: Cart 386: Order 39 validated, creating details
+2020-01-07 22:59:36 1578434364 DEBUG: Cart 386: Order 39 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-01-07 22:59:37 1578434377 DEBUG: Cart 386: Customer is back from E-Transactions payment page. Payment success.

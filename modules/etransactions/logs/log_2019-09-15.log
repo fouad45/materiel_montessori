@@ -1,0 +1,4 @@
+2019-09-15 10:25:03 1568535903 DEBUG: URL to check 2
+2019-09-15 10:25:03 1568535903 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-09-15 10:25:03 1568535903 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-09-15 10:25:03 1568535903 DEBUG: Cart 34: Redirecting customer to E-Transactions (CARTE, CB).

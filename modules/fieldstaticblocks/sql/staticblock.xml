@@ -1,0 +1,454 @@
+<?xml version='1.0' encoding='UTF-8' ?> 
+<!-- was: no XML declaration present -->
+<field_static_blocks>
+<!-- static block configuration -->
+	<block>
+        <id_fieldstaticblock>1</id_fieldstaticblock>
+        <identify>about</identify>
+        <hook_position>blockPosition2</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <fieldorder>1</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<block>
+        <id_fieldstaticblock>2</id_fieldstaticblock>
+        <identify>home-banner-1</identify>
+        <hook_position>blockPosition1</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <fieldorder>2</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<block>
+        <id_fieldstaticblock>3</id_fieldstaticblock>
+        <identify>home-banner-2</identify>
+        <hook_position>blockPosition3</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <fieldorder>3</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<block>
+        <id_fieldstaticblock>4</id_fieldstaticblock>
+        <identify>banner-top</identify>
+        <hook_position>blockPosition8</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <fieldorder>4</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<block>
+        <id_fieldstaticblock>5</id_fieldstaticblock>
+        <identify>Home banner 4</identify>
+        <hook_position>blockPosition4</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <fieldorder>5</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<block>
+        <id_fieldstaticblock>6</id_fieldstaticblock>
+        <identify>banner-left</identify>
+        <hook_position>blockPosition5</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <fieldorder>6</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+	<block>
+        <id_fieldstaticblock>7</id_fieldstaticblock>
+        <identify>text-pupop</identify>
+        <hook_position>blockPosition6</hook_position>
+        <name_module>Chose Module</name_module>
+        <hook_module>displayNav</hook_module>
+        <fieldorder>0</fieldorder>
+        <insert_module>0</insert_module>
+        <active>1</active>
+        <showhook>1</showhook>
+    </block>
+<!-- block lang configuration -->
+	<block_lang>
+        <id_fieldstaticblock>1</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>About</title>
+        <description>
+<![CDATA[
+<div class="banner_img_footer"><img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn10.jpg" alt="" /></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>2</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>Home banner 1</title>
+        <description>
+<![CDATA[
+<div class="text-center hover-banner">
+<div class="row">
+<div class=" col-lg-3 col-md-3 col-sm-12 col-xs-12 widget-images-block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn1.jpg" alt="" /> </a></div>
+<div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12 widget-images-block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn2.jpg" alt="" /> </a></div>
+<div class=" col-lg-3 col-md-3 col-sm-12 col-xs-12 widget-images-block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn3.jpg" alt="" /> </a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>3</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>Home banner 2</title>
+        <description>
+<![CDATA[
+<div class="text-center hover-banner">
+<div class="row">
+<div class=" col-lg-6 col-md-6 col-sm-6 col-xs-12 widget-images block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn11.jpg" alt="" /> </a></div>
+<div class=" col-lg-6 col-md-6 col-sm-6 col-xs-12 widget-images block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn12.jpg" alt="" /> </a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>4</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>Banner-top</title>
+        <description>
+<![CDATA[
+<div><img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/banner-top.jpg" alt="" /></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>5</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>Home banner 4</title>
+        <description>
+<![CDATA[
+<div class="text-center hover-banner-bottom">
+<div class="row">
+<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12 widget-images block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn13.jpg" alt="" /> </a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>6</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>banner-left</title>
+        <description>
+<![CDATA[
+<div class="banner-left-img"><img class="img-responsive-img" src="/kids__17/home1/modules/fieldstaticblocks/images/bn14.jpg" alt="" /></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>7</id_fieldstaticblock>
+        <iso_lang>en</iso_lang>
+        <title>text-pupop</title>
+        <description>
+<![CDATA[
+<div class="social-text"><a href="#" class="fa fa-facebook">.</a> <a href="#" class="fa fa-google-plus">.</a> <a href="#" class="fa fa-twitter">.</a> <a href="#" class="fa fa-rss">.</a> <a href="#" class="fa fa-youtube">.</a> <a href="#" class="fa fa-linkedin">.</a></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>1</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>About</title>
+        <description>
+<![CDATA[
+<div class="banner_img_footer"><img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn10.jpg" alt="" /></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>2</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>Home banner 1</title>
+        <description>
+<![CDATA[
+<div class="text-center hover-banner">
+<div class="row">
+<div class=" col-lg-3 col-md-3 col-sm-12 col-xs-12 widget-images-block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn1.jpg" alt="" /> </a></div>
+<div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12 widget-images-block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn2.jpg" alt="" /> </a></div>
+<div class=" col-lg-3 col-md-3 col-sm-12 col-xs-12 widget-images-block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn3.jpg" alt="" /> </a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>3</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>Home banner 2</title>
+        <description>
+<![CDATA[
+<div class="text-center hover-banner">
+<div class="row">
+<div class=" col-lg-6 col-md-6 col-sm-6 col-xs-12 widget-images block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn11.jpg" alt="" /> </a></div>
+<div class=" col-lg-6 col-md-6 col-sm-6 col-xs-12 widget-images block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn12.jpg" alt="" /> </a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>4</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>Banner-top</title>
+        <description>
+<![CDATA[
+<div><img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/banner-top.jpg" alt="" /></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>5</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>Home banner 4</title>
+        <description>
+<![CDATA[
+<div class="text-center hover-banner-bottom">
+<div class="row">
+<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12 widget-images block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn13.jpg" alt="" /> </a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>6</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>banner-left</title>
+        <description>
+<![CDATA[
+<div class="banner-left-img"><img class="img-responsive-img" src="/kids__17/home1/modules/fieldstaticblocks/images/bn14.jpg" alt="" /></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>7</id_fieldstaticblock>
+        <iso_lang>es</iso_lang>
+        <title>text-pupop</title>
+        <description>
+<![CDATA[
+<div class="social-text"><a href="#" class="fa fa-facebook">.</a> <a href="#" class="fa fa-google-plus">.</a> <a href="#" class="fa fa-twitter">.</a> <a href="#" class="fa fa-rss">.</a> <a href="#" class="fa fa-youtube">.</a> <a href="#" class="fa fa-linkedin">.</a></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>1</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>About</title>
+        <description>
+<![CDATA[
+<div class="banner_img_footer"><img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn10.jpg" alt="" /></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>2</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>Home banner 2</title>
+        <description>
+<![CDATA[
+<div class="text-center hover-banner">
+<div class="row">
+<div class=" col-lg-3 col-md-3 col-sm-12 col-xs-12 widget-images-block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn1.jpg" alt="" /> </a></div>
+<div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12 widget-images-block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn2.jpg" alt="" /> </a></div>
+<div class=" col-lg-3 col-md-3 col-sm-12 col-xs-12 widget-images-block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn3.jpg" alt="" /> </a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>3</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>Home banner 3</title>
+        <description>
+<![CDATA[
+<div class="text-center hover-banner">
+<div class="row">
+<div class=" col-lg-6 col-md-6 col-sm-6 col-xs-12 widget-images block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn11.jpg" alt="" /> </a></div>
+<div class=" col-lg-6 col-md-6 col-sm-6 col-xs-12 widget-images block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn12.jpg" alt="" /> </a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>4</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>Banner-top</title>
+        <description>
+<![CDATA[
+<div><img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/banner-top.jpg" alt="" /></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>5</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>Home banner 4</title>
+        <description>
+<![CDATA[
+<div class="text-center hover-banner-bottom">
+<div class="row">
+<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12 widget-images block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn13.jpg" alt="" /> </a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>6</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>banner-left</title>
+        <description>
+<![CDATA[
+<div class="banner-left-img"><img class="img-responsive-img" src="/kids__17/home1/modules/fieldstaticblocks/images/bn14.jpg" alt="" /></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>7</id_fieldstaticblock>
+        <iso_lang>fr</iso_lang>
+        <title>text-pupop</title>
+        <description>
+<![CDATA[
+<div class="social-text"><a href="#" class="fa fa-facebook">.</a> <a href="#" class="fa fa-google-plus">.</a> <a href="#" class="fa fa-twitter">.</a> <a href="#" class="fa fa-rss">.</a> <a href="#" class="fa fa-youtube">.</a> <a href="#" class="fa fa-linkedin">.</a></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>1</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>About</title>
+        <description>
+<![CDATA[
+<div class="banner_img_footer"><img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn10.jpg" alt="" /></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>2</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>Home banner 1</title>
+        <description>
+<![CDATA[
+<div class="text-center hover-banner">
+<div class="row">
+<div class=" col-lg-3 col-md-3 col-sm-12 col-xs-12 widget-images-block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn1.jpg" alt="" /> </a></div>
+<div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12 widget-images-block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn2.jpg" alt="" /> </a></div>
+<div class=" col-lg-3 col-md-3 col-sm-12 col-xs-12 widget-images-block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn3.jpg" alt="" /> </a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>3</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>Home banner 2</title>
+        <description>
+<![CDATA[
+<div class="text-center hover-banner">
+<div class="row">
+<div class=" col-lg-6 col-md-6 col-sm-6 col-xs-12 widget-images block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn11.jpg" alt="" /> </a></div>
+<div class=" col-lg-6 col-md-6 col-sm-6 col-xs-12 widget-images block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn12.jpg" alt="" /> </a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>4</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>Banner-top</title>
+        <description>
+<![CDATA[
+<div><img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/banner-top.jpg" alt="" /></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>5</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>Home banner 4</title>
+        <description>
+<![CDATA[
+<div class="text-center hover-banner-bottom">
+<div class="row">
+<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12 widget-images block"><a href="#"> <img class="img-responsive" src="/kids__17/home1/modules/fieldstaticblocks/images/bn13.jpg" alt="" /> </a></div>
+</div>
+</div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>6</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>banner-left</title>
+        <description>
+<![CDATA[
+<div class="banner-left-img"><img class="img-responsive-img" src="/kids__17/home1/modules/fieldstaticblocks/images/bn14.jpg" alt="" /></div>
+]]>
+	</description>
+    </block_lang>
+	<block_lang>
+        <id_fieldstaticblock>7</id_fieldstaticblock>
+        <iso_lang>it</iso_lang>
+        <title>text-pupop</title>
+        <description>
+<![CDATA[
+<div class="social-text"><a href="#" class="fa fa-facebook">.</a> <a href="#" class="fa fa-google-plus">.</a> <a href="#" class="fa fa-twitter">.</a> <a href="#" class="fa fa-rss">.</a> <a href="#" class="fa fa-youtube">.</a> <a href="#" class="fa fa-linkedin">.</a></div>
+]]>
+	</description>
+    </block_lang>
+<!-- block shop configuration -->
+	<block_shop>
+        <id_fieldstaticblock>1</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+     </block_shop>
+	<block_shop>
+        <id_fieldstaticblock>2</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+     </block_shop>
+	<block_shop>
+        <id_fieldstaticblock>3</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+     </block_shop>
+	<block_shop>
+        <id_fieldstaticblock>4</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+     </block_shop>
+	<block_shop>
+        <id_fieldstaticblock>5</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+     </block_shop>
+	<block_shop>
+        <id_fieldstaticblock>6</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+     </block_shop>
+	<block_shop>
+        <id_fieldstaticblock>7</id_fieldstaticblock>
+        <id_shop>1</id_shop>
+     </block_shop>
+
+
+</field_static_blocks>

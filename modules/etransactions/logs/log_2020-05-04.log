@@ -1,0 +1,11 @@
+2020-05-04 21:50:29 1588621829 DEBUG: URL to check 2
+2020-05-04 21:50:29 1588621829 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-04 21:50:30 1588621829 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-04 21:50:30 1588621829 DEBUG: Cart 659: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-05-04 21:52:29 1588621949 DEBUG: Call params: M=17278&R=659%20-%20Alexis%20Lestrade&T=923398514&A=362085&B=0&C=Visa&D=2209&E=00000&F=Y&G=O&I=FRA&J=91&N=499001&O=Y&P=3DSECURE&Q=21%3A50%3A30&S=189026516&W=04052020&Y=FRA&Z=0-0&K=bwyHkW%2Br3VYbjEGjM83%2BJLv1Syayc%2FK28ixHLCugMS6RIyl1C6cS7mgSWyuP8N6bjnYrcz3mhbmcTBXv5VD%2B8BDhBAkCIDwXwCA%2F1kJXYvInaFRsM2HqeqX9exneGkBFuADZc7xzY65B2g5tbj7ydEq0mD9AT8ZJ1GjjtyuOEHY%3D
+2020-05-04 21:52:39 1588621949 DEBUG: Cart 659: Mixed IPN
+2020-05-04 21:52:39 1588621949 DEBUG: Cart 659: First payment
+2020-05-04 21:52:39 1588621949 DEBUG: Cart 659: Validating order
+2020-05-04 21:52:40 1588621949 DEBUG: Cart 659: Order 66 validated, creating details
+2020-05-04 21:52:40 1588621949 DEBUG: Cart 659: Order 66 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-05-04 21:53:27 1588622007 DEBUG: Cart 659: Customer is back from E-Transactions payment page. Payment success.

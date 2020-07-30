@@ -1,0 +1,11 @@
+2020-03-03 18:58:26 1583258306 DEBUG: URL to check 2
+2020-03-03 18:58:26 1583258306 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-03-03 18:58:26 1583258306 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-03-03 18:58:26 1583258306 DEBUG: Cart 537: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-03-03 18:59:29 1583258369 DEBUG: Call params: M=4940&R=537%20-%20Anais%20Angiolilli&T=904499242&A=144071&B=0&C=MasterCard&D=2009&E=00000&F=Y&G=O&I=CHE&J=94&N=530826&O=Y&P=3DSECURE&Q=18%3A58%3A27&S=173874968&W=03032020&Y=CHE&Z=0-0&K=MAX4XLvDrnvN4Zgcz4NtrCqNf6GmGGoBMlesrcFxRXBRfZAh8V%2BUzPvSWGXPq9btUy0Q4eB7UZk25%2BjNN9JZ9oR%2FQ62vvqF53OjK4ua0OpLWIeepFHXbcsnzF%2BpafzJDIoViYSEcLK%2FeSwSdB%2FyZZALk7kqa%2B1ezEEjfYH%2BRDTQ%3D
+2020-03-03 18:59:39 1583258369 DEBUG: Cart 537: Mixed IPN
+2020-03-03 18:59:39 1583258369 DEBUG: Cart 537: First payment
+2020-03-03 18:59:39 1583258369 DEBUG: Cart 537: Validating order
+2020-03-03 18:59:40 1583258369 DEBUG: Cart 537: Order 50 validated, creating details
+2020-03-03 18:59:40 1583258369 DEBUG: Cart 537: Order 50 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-03-03 18:59:58 1583258398 DEBUG: Cart 537: Customer is back from E-Transactions payment page. Payment success.

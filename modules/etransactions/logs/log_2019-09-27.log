@@ -1,0 +1,10 @@
+2019-09-27 12:39:08 1569580748 DEBUG: URL to check 2
+2019-09-27 12:39:08 1569580748 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-09-27 12:39:08 1569580748 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-09-27 12:39:08 1569580748 DEBUG: Cart 99: Redirecting customer to E-Transactions (CARTE, VISA).
+2019-09-27 12:40:39 1569580839 DEBUG: Call params: M=4780&R=99%20-%20Wassima%20El%20messaoudi&T=546430780&A=601529&B=0&C=Visa&D=2209&E=00000&F=Y&G=O&I=FRA&J=67&N=416538&O=Y&P=CARTE&Q=12%3A39%3A09&S=131583019&W=27092019&Y=FRA&Z=0-0&K=tS9NZLCKpJTy%2Bkia6A%2FO9tRUvI3JD9CwrfK%2FsEvmBzd14LOGUjVR0HAdITyCFA3feslOU01MqZ9%2BRg1uipkOW7WQiqecK87w3bmz695FKKx0xert%2FQYEobiMVPg0I9Yrm25AKmrsRslKF9QvZ3v9L1GYHMoqiACm8IUlhzaI9NI%3D
+2019-09-27 12:40:49 1569580839 DEBUG: Cart 99: Mixed IPN
+2019-09-27 12:40:50 1569580839 DEBUG: Cart 99: First payment
+2019-09-27 12:40:50 1569580839 DEBUG: Cart 99: Validating order
+2019-09-27 12:40:51 1569580839 DEBUG: Cart 99: Order 18 validated, creating details
+2019-09-27 12:40:51 1569580839 DEBUG: Cart 99: Order 18 / Le paiement a été autorisé et capturé par E-Transactions.

@@ -1,0 +1,5 @@
+2020-04-10 18:12:33 1586535153 DEBUG: URL to check 2
+2020-04-10 18:12:33 1586535153 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-04-10 18:12:34 1586535153 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2020-04-10 18:12:34 1586535153 DEBUG: Cart 601: Redirecting customer to E-Transactions (CARTE, CB).
+2020-04-10 18:17:43 1586535463 DEBUG: Cart 601: Payment was canceled by user on E-Transactions payment page.

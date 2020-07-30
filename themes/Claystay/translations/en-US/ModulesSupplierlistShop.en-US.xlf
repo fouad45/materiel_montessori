@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/var/www/html/prestashop/PRS05/PRS050112/themes/Claystay/modules/ps_supplierlist/views/templates/hook/ps_supplierlist.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="1814d65a76028fdfbadab64a5a8076df">
+        <source>Suppliers</source>
+        <target>Suppliers</target>
+        <note>Context:
+File: /var/www/html/prestashop/PRS05/PRS050112/themes/Claystay/modules/ps_supplierlist/views/templates/hook/ps_supplierlist.tpl:34</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

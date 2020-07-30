@@ -1,0 +1,42 @@
+2020-05-06 14:47:52 1588769271 DEBUG: URL to check 2
+2020-05-06 14:47:52 1588769271 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-06 14:47:52 1588769271 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-06 14:47:52 1588769271 DEBUG: Cart 670: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-05-06 14:53:57 1588769637 DEBUG: URL to check 2
+2020-05-06 14:53:57 1588769637 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-06 14:53:58 1588769637 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-06 14:53:58 1588769637 DEBUG: Cart 668: Redirecting customer to E-Transactions (CARTE, CB).
+2020-05-06 14:55:23 1588769723 DEBUG: Cart 668: Payment was canceled by user on E-Transactions payment page.
+2020-05-06 14:55:46 1588769746 DEBUG: URL to check 2
+2020-05-06 14:55:46 1588769746 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-06 14:55:46 1588769746 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-06 14:55:46 1588769746 DEBUG: Cart 668: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-05-06 15:07:43 1588770463 DEBUG: URL to check 2
+2020-05-06 15:07:43 1588770463 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-06 15:07:43 1588770463 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-06 15:07:43 1588770463 DEBUG: Cart 668: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-05-06 15:08:13 1588770493 DEBUG: Call params: M=2739&R=668%20-%20EMILIE%20MALARD&T=923922361&B=0&C=VISA&D=2110&E=00004&I=FRA&J=07&N=497608&P=3DSECURE&Q=14%3A53%3A59&S=189436778&W=06052020&Z=0-0&K=PtrNJx8AD1tGJGQ64COsL3ZCaniZpW%2Bkscf9AL3SSNexTaKApnCo343esILtngmWVHOkIkwvHae6%2BhU%2BCTsfFnKLiL8XT6bwTeI2p%2BtzDgQhohgGOJ7%2BByPLeZVrHL%2FlNTOS3XEGD9%2FoAz%2FCqSvjiKRfFMpu17w5Aen1Jt71Mq0%3D
+2020-05-06 15:08:23 1588770503 DEBUG: Cart 668: Payment was canceled by user on E-Transactions payment page.
+2020-05-06 15:08:23 1588770493 DEBUG: Cart 668: (IPN) Payment was refused by E-Transactions (4).
+2020-05-06 15:08:31 1588770511 DEBUG: URL to check 2
+2020-05-06 15:08:31 1588770511 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-06 15:08:31 1588770511 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-06 15:08:31 1588770511 DEBUG: Cart 668: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-05-06 15:09:32 1588770572 DEBUG: Call params: M=2739&R=668%20-%20EMILIE%20MALARD&T=923922361&A=996366&B=0&C=Visa&D=2110&E=00000&F=Y&G=O&I=FRA&J=07&N=497608&O=Y&P=3DSECURE&Q=14%3A53%3A59&S=189437014&W=06052020&Y=FRA&Z=0-0&K=k054a%2Bw6JaLiRDt%2B74e1ftY1JnL%2B24gLAGgkdBO%2FSov7jXeLNjLc3LcDQy49xeRjpnArMlon%2Fe6zysh%2BvUoz%2FCqq8X94%2FbdgGRquLdrUR4sTCx7OU%2FI5PpyMxJGIAA8RTGcuG4miATD5vdI5dwbcopbYF7BZLfbdnRDIA8y9SfM%3D
+2020-05-06 15:09:42 1588770572 DEBUG: Cart 668: Mixed IPN
+2020-05-06 15:09:42 1588770572 DEBUG: Cart 668: First payment
+2020-05-06 15:09:42 1588770572 DEBUG: Cart 668: Validating order
+2020-05-06 15:09:43 1588770572 DEBUG: Cart 668: Order 67 validated, creating details
+2020-05-06 15:09:43 1588770572 DEBUG: Cart 668: Order 67 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-05-06 20:30:30 1588789829 DEBUG: URL to check 2
+2020-05-06 20:30:30 1588789829 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-05-06 20:30:30 1588789829 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-05-06 20:30:30 1588789829 DEBUG: Cart 675: Redirecting customer to E-Transactions (CARTE, VISA).
+2020-05-06 20:32:01 1588789921 DEBUG: Call params: M=2539&R=675%20-%20Celine%20FOUBERT&T=924039532&A=283518&B=0&C=Visa&D=2302&E=00000&F=Y&G=O&I=FRA&J=64&N=497804&O=Y&P=3DSECURE&Q=20%3A30%3A31&S=189518738&W=06052020&Y=FRA&Z=0-0&K=S7PPu0hOJ1CJfYWvRNYkDXjjw9TJJFWRhvHxloWgxohZNNG29ICUex7WBjqmAOXJx1fnomSgs%2F21gGWyn5eXEsv9YisisVb7NDufQ65M4LDkRpbaTitvFNPdymiGXkWOEjSqIKF%2BbR%2FDh6YZP%2FiVo9u0j5NhS0RX7%2BY4lVnzauw%3D
+2020-05-06 20:32:10 1588789930 DEBUG: Cart 675: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-05-06 20:32:11 1588789921 DEBUG: Cart 675: Mixed IPN
+2020-05-06 20:32:11 1588789921 DEBUG: Cart 675: First payment
+2020-05-06 20:32:11 1588789921 DEBUG: Cart 675: Validating order
+2020-05-06 20:32:12 1588789921 DEBUG: Cart 675: Order 68 validated, creating details
+2020-05-06 20:32:12 1588789921 DEBUG: Cart 675: Order 68 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-05-06 20:32:12 1588789932 DEBUG: Cart 675: Customer is back from E-Transactions payment page. Payment success.

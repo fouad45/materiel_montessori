@@ -1,0 +1,23 @@
+/* NOTICE OF LICENSE
+ *
+ * This module was created by Grégory Chartier and is protected by the laws of Copyright.
+ * This use license is granted for only one website.
+ * To use this module on several websites, you must purchase as many licenses as websites on which you want to use it.
+ * Use, copy, modification or distribution of this module without written license agreement from Grégory Chartier is strictly forbidden.
+ * Any infringement of these provisions as well as general copyrights will be prosecuted.
+ * ...........................................................................
+ *
+ * INFORMATION SUR LA LICENCE D'UTILISATION
+ *
+ * Ce module a été créé par Grégory Chartier et est protégé par les lois relatives aux droits d'auteur.
+ * Cette licence d'utilisation est accordée pour un seul site web.
+ * Pour utiliser ce module sur plusieurs sites web, vous devez vous acquitter de l'achat d'autant de licences que de sites web sur lesquels vous souhaitez l'utiliser.
+ * Toute utilisation, reproduction, modification ou distribution du présent module sans contrat de licence écrit de la part de Grégory Chartier est expressement interdite.
+ * Toute infraction constatée à ces dispositions ainsi qu'aux droits d'auteur en général fera l'objet de poursuites.
+ * ...........................................................................
+ *
+ * @module     GcInvoiceExport
+ * @author     Grégory Chartier
+ * @copyright  Copyright (c) 2019 Grégory Chartier (https://www.gregorychartier.fr)
+ * @license    Commercial license
+ */

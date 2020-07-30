@@ -1,0 +1,29 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+#search_block_top{
+	z-index: 99999;
+}
+#checkout-personal-information-step .nav-item .nav-link{
+	font-size: 17px;
+}
+#checkout-personal-information-step .nav-item .nav-link[data-link-action="show-login-form"]{
+	    color: #f94165
+}
+.block-category.card {
+    display: block !important;
+}
+
+.showmore-button {
+  cursor: pointer; 
+  background-color: #999; 
+  color: white; 
+  text-transform: uppercase; 
+  text-align: center; 
+  padding: 4px; 
+  margin-top: 15px;
+width:100px;
+}
+
+.category-cover {display:none}

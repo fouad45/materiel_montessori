@@ -1,0 +1,14 @@
+2020-07-21 05:51:32 1595303492 DEBUG: URL to check 2
+2020-07-21 05:51:32 1595303492 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-21 05:51:33 1595303492 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-07-21 05:51:33 1595303492 DEBUG: Cart 916: Redirecting customer to E-Transactions (CARTE, E_CARD).
+2020-07-21 05:53:44 1595303624 DEBUG: URL to check 2
+2020-07-21 05:53:44 1595303624 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-21 05:53:44 1595303624 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-07-21 05:53:44 1595303624 DEBUG: Cart 916: Redirecting customer to E-Transactions (CARTE, E_CARD).
+2020-07-21 05:58:24 1595303904 DEBUG: Call params: M=5349&R=916%20-%20Alexandra%20Dominique&T=1490432143&A=653514&B=0&C=E_CARD&D=2010&E=00000&F=Y&G=O&I=GLP&J=46&N=415059&O=Y&P=3DSECURE&Q=05%3A51%3A34&S=341140478&W=21072020&Y=FRA&Z=0-0&K=seKjO%2FArjVWjJ0HG%2F6xiMxWEMy4%2Fm98WwN%2BhpuyQRF5ihIKsLbeqouls757I1lBHAaw%2BMzIBT%2B9uWkzY2f1gownfpEnas8%2BE0Shl8dfHpA6TDCKqPzo%2FylZhlJo6xwsMb2rAxDf0yqAELR7WN4I1Q4K%2B4ZW6coXcc0jf3ut2u%2B0%3D
+2020-07-21 05:58:34 1595303904 DEBUG: Cart 916: Mixed IPN
+2020-07-21 05:58:34 1595303904 DEBUG: Cart 916: First payment
+2020-07-21 05:58:34 1595303904 DEBUG: Cart 916: Validating order
+2020-07-21 05:58:35 1595303904 DEBUG: Cart 916: Order 98 validated, creating details
+2020-07-21 05:58:35 1595303904 DEBUG: Cart 916: Order 98 / Le paiement a été autorisé et capturé par E-Transactions.

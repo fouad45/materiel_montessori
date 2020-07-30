@@ -1,0 +1,10 @@
+2019-12-12 21:49:20 1576183759 DEBUG: URL to check 2
+2019-12-12 21:49:20 1576183759 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-12-12 21:49:20 1576183759 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-12-12 21:49:20 1576183759 DEBUG: Cart 320: Redirecting customer to E-Transactions (CARTE, CB).
+2019-12-12 21:50:51 1576183851 DEBUG: Call params: M=11645&R=320%20-%20La%20Tribu%20Enfantine&T=575754578&A=723136&B=0&C=Visa&D=2011&E=00000&F=Y&G=O&I=FRA&J=83&N=497874&O=Y&P=3DSECURE&Q=21%3A49%3A21&S=153038653&W=12122019&Y=FRA&Z=0-0&K=usB6qRhxFGNFq6KbvERrsU1zKlUm%2BNPkcSdf%2BtmaeCDM2Jgt%2BUibbEqZTdywrPdsUGEcygRYVnSesh9OIKUz239lcbbhFYXle3cpieAxRmeZh7lQTwMXZGrrtkaUtSrOK7fZwTv%2BZcR0593Jm1P2px6xsgqhaAZmBuRXnsT0oAA%3D
+2019-12-12 21:51:01 1576183851 DEBUG: Cart 320: Mixed IPN
+2019-12-12 21:51:01 1576183851 DEBUG: Cart 320: First payment
+2019-12-12 21:51:01 1576183851 DEBUG: Cart 320: Validating order
+2019-12-12 21:51:02 1576183851 DEBUG: Cart 320: Order 33 validated, creating details
+2019-12-12 21:51:02 1576183851 DEBUG: Cart 320: Order 33 / Le paiement a été autorisé et capturé par E-Transactions.

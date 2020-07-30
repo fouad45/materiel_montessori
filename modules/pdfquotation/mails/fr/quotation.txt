@@ -1,0 +1,10 @@
+
+[{shop_url}] 
+
+Prénom : {firstname}
+Nom : {lastname}
+Téléphone : {phone}
+Email : {email}
+Être recontacté : {contacted}
+Devis : {url}
+

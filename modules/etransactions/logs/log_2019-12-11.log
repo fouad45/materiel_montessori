@@ -1,0 +1,15 @@
+2019-12-11 10:31:35 1576056695 DEBUG: URL to check 2
+2019-12-11 10:31:35 1576056695 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-12-11 10:31:35 1576056695 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-12-11 10:31:35 1576056695 DEBUG: Cart 314: Redirecting customer to E-Transactions (CARTE, CB).
+2019-12-11 17:31:31 1576081891 DEBUG: URL to check 2
+2019-12-11 17:31:31 1576081891 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-12-11 17:31:31 1576081891 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-12-11 17:31:31 1576081891 DEBUG: Cart 315: Redirecting customer to E-Transactions (CARTE, VISA).
+2019-12-11 17:32:42 1576081962 DEBUG: Call params: M=21713&R=315%20-%20Lydie%20Bidaud&T=575163683&A=176339&B=0&C=Visa&D=2106&E=00000&F=Y&G=O&I=FRA&J=35&N=497783&O=Y&P=3DSECURE&Q=17%3A31%3A33&S=152571441&W=11122019&Y=FRA&Z=0-0&K=hjAe5li5f42DQa6flAZZYGiPGqQHMI%2FUVMjYyDrEtXj1ks3wblRif%2Fe%2FFR4bRsjIm%2FqD1YNHgQNSEAGUVeBL%2BbszNOefhpUp1Mww9aqsOZszfZP%2BI40dcUXigTg34ZvTA2J1ldwT54KV%2BpcBVXYeCGbumR%2F5Hf13M9qdiHVP7Gw%3D
+2019-12-11 17:32:52 1576081962 DEBUG: Cart 315: Mixed IPN
+2019-12-11 17:32:52 1576081962 DEBUG: Cart 315: First payment
+2019-12-11 17:32:52 1576081962 DEBUG: Cart 315: Validating order
+2019-12-11 17:32:54 1576081962 DEBUG: Cart 315: Order 32 validated, creating details
+2019-12-11 17:32:54 1576081962 DEBUG: Cart 315: Order 32 / Le paiement a été autorisé et capturé par E-Transactions.
+2019-12-11 17:34:27 1576082067 DEBUG: Cart 315: Customer is back from E-Transactions payment page. Payment success.

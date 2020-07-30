@@ -1,0 +1,52 @@
+2019-09-11 12:39:04 1568198344 DEBUG: Checking E-Transactions update to version 3.0.12
+2019-09-11 12:39:04 1568198344 DEBUG:  E-Transactions version check answer: {"version":"3.0.10.1","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=etransactions-3.0.10.1.zip","message":"Mise \u00e0 jour Importante: <b>ATTENTION:<\/b> Correctif pour les paiements diff\u00e9r\u00e9s<br>et correctifs mineurs notamment pour les cartes cadeau.","documentation":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=doc_prestashop&filename=manuel-module-prestashop-v2et.pdf"}
+2019-09-11 12:39:24 1568198363 DEBUG: Checking E-Transactions update to version 3.0.12
+2019-09-11 12:39:24 1568198363 DEBUG:  E-Transactions version check answer: {"version":"3.0.10.1","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=etransactions-3.0.10.1.zip","message":"Mise \u00e0 jour Importante: <b>ATTENTION:<\/b> Correctif pour les paiements diff\u00e9r\u00e9s<br>et correctifs mineurs notamment pour les cartes cadeau.","documentation":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=doc_prestashop&filename=manuel-module-prestashop-v2et.pdf"}
+2019-09-11 12:40:34 1568198434 DEBUG: URL to check 2
+2019-09-11 12:40:34 1568198434 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-09-11 12:40:34 1568198434 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-09-11 12:40:34 1568198434 DEBUG: Cart 18: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2019-09-11 12:41:38 1568198498 DEBUG: Checking E-Transactions update to version 3.0.12
+2019-09-11 12:41:39 1568198498 DEBUG:  E-Transactions version check answer: {"version":"3.0.10.1","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=etransactions-3.0.10.1.zip","message":"Mise \u00e0 jour Importante: <b>ATTENTION:<\/b> Correctif pour les paiements diff\u00e9r\u00e9s<br>et correctifs mineurs notamment pour les cartes cadeau.","documentation":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=doc_prestashop&filename=manuel-module-prestashop-v2et.pdf"}
+2019-09-11 12:43:20 1568198599 DEBUG: Checking E-Transactions update to version 3.0.12
+2019-09-11 12:43:20 1568198599 DEBUG:  E-Transactions version check answer: {"version":"3.0.10.1","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=etransactions-3.0.10.1.zip","message":"Mise \u00e0 jour Importante: <b>ATTENTION:<\/b> Correctif pour les paiements diff\u00e9r\u00e9s<br>et correctifs mineurs notamment pour les cartes cadeau.","documentation":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=doc_prestashop&filename=manuel-module-prestashop-v2et.pdf"}
+2019-09-11 12:45:00 1568198700 DEBUG: URL to check 2
+2019-09-11 12:45:00 1568198700 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-09-11 12:45:00 1568198700 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-09-11 12:45:00 1568198700 DEBUG: Cart 18: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2019-09-11 12:45:29 1568198729 DEBUG: URL to check 2
+2019-09-11 12:45:29 1568198729 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-09-11 12:45:30 1568198729 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-09-11 12:45:30 1568198729 DEBUG: Cart 18: Redirecting customer to E-Transactions (CARTE, CB).
+2019-09-11 12:47:07 1568198827 DEBUG: URL to check 2
+2019-09-11 12:47:07 1568198827 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-09-11 12:47:07 1568198827 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-09-11 12:47:07 1568198827 DEBUG: Cart 18: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2019-09-11 12:48:42 1568198922 DEBUG: Checking E-Transactions update to version 3.0.12
+2019-09-11 12:48:42 1568198922 DEBUG:  E-Transactions version check answer: {"version":"3.0.10.1","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=etransactions-3.0.10.1.zip","message":"Mise \u00e0 jour Importante: <b>ATTENTION:<\/b> Correctif pour les paiements diff\u00e9r\u00e9s<br>et correctifs mineurs notamment pour les cartes cadeau.","documentation":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=doc_prestashop&filename=manuel-module-prestashop-v2et.pdf"}
+2019-09-11 12:49:02 1568198942 DEBUG: Checking E-Transactions update to version 3.0.12
+2019-09-11 12:49:02 1568198942 DEBUG:  E-Transactions version check answer: {"version":"3.0.10.1","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=etransactions-3.0.10.1.zip","message":"Mise \u00e0 jour Importante: <b>ATTENTION:<\/b> Correctif pour les paiements diff\u00e9r\u00e9s<br>et correctifs mineurs notamment pour les cartes cadeau.","documentation":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=doc_prestashop&filename=manuel-module-prestashop-v2et.pdf"}
+2019-09-11 12:49:25 1568198965 DEBUG: URL to check 1
+2019-09-11 12:49:25 1568198965 DEBUG: Checking E-Transactions URL https://preprod-tpeweb.e-transactions.fr/load.html
+2019-09-11 12:49:25 1568198965 DEBUG:   Valid url found: https://preprod-tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-09-11 12:49:25 1568198965 DEBUG: Cart 18: Redirecting customer to E-Transactions (CARTE, E_CARD).
+2019-09-11 12:50:03 1568199003 DEBUG: Call params: M=4559&R=18%20-%20el%20messs%20el%20mess&T=52431405&A=XXXXXX&B=0&C=Maestro&D=2102&E=00000&I=FRA&J=44&N=111122&P=CARTE&Q=12%3A49%3A26&S=30683793&W=11092019&Y=FRA&K=gPrDs9bLoJfOM4Zzh%2Bk9LV%2ByfpkyU0wLSIvGB2kpe%2BRjKefvskLZD2MQwHZWHVHl4a%2BtzC%2BJl7TVBf9LoNXq056z2Fp7Bnmk0XqQIx%2FvGG9%2BwLqQEdgghwv%2FQNU4NxPPadoSyIMw2qidXnWk942kyIBjQLoxBHhr3gJmH167RXQ%3D
+2019-09-11 12:50:03 1568199003 DEBUG: Cart 18: Standard IPN
+2019-09-11 12:50:03 1568199003 DEBUG: Cart 18: Validating order
+2019-09-11 12:50:05 1568199003 DEBUG: Cart 18: Order 8 validated, creating details
+2019-09-11 12:50:05 1568199003 DEBUG: Cart 18: Order 8 / Le paiement a été autorisé et capturé par E-Transactions.
+2019-09-11 12:50:20 1568199020 DEBUG: Cart 18: Customer is back from E-Transactions payment page. Payment success.
+2019-09-11 12:52:13 1568199133 DEBUG: Checking E-Transactions update to version 3.0.12
+2019-09-11 12:52:14 1568199133 DEBUG:  E-Transactions version check answer: {"version":"3.0.10.1","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=etransactions-3.0.10.1.zip","message":"Mise \u00e0 jour Importante: <b>ATTENTION:<\/b> Correctif pour les paiements diff\u00e9r\u00e9s<br>et correctifs mineurs notamment pour les cartes cadeau.","documentation":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=doc_prestashop&filename=manuel-module-prestashop-v2et.pdf"}
+2019-09-11 12:54:35 1568199275 DEBUG: Checking E-Transactions update to version 3.0.12
+2019-09-11 12:54:35 1568199275 DEBUG:  E-Transactions version check answer: {"version":"3.0.10.1","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=etransactions-3.0.10.1.zip","message":"Mise \u00e0 jour Importante: <b>ATTENTION:<\/b> Correctif pour les paiements diff\u00e9r\u00e9s<br>et correctifs mineurs notamment pour les cartes cadeau.","documentation":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=doc_prestashop&filename=manuel-module-prestashop-v2et.pdf"}
+2019-09-11 12:56:50 1568199409 DEBUG: URL to check 2
+2019-09-11 12:56:50 1568199409 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-09-11 12:56:50 1568199409 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-09-11 12:56:50 1568199409 DEBUG: Cart 28: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2019-09-11 12:58:08 1568199488 DEBUG: URL to check 2
+2019-09-11 12:58:08 1568199488 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-09-11 12:58:08 1568199488 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-09-11 12:58:08 1568199488 DEBUG: Cart 28: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2019-09-11 13:05:19 1568199919 DEBUG: Checking E-Transactions update to version 3.0.12
+2019-09-11 13:05:19 1568199919 DEBUG:  E-Transactions version check answer: {"version":"3.0.10.1","url":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=prestashop&filename=etransactions-3.0.10.1.zip","message":"Mise \u00e0 jour Importante: <b>ATTENTION:<\/b> Correctif pour les paiements diff\u00e9r\u00e9s<br>et correctifs mineurs notamment pour les cartes cadeau.","documentation":"http:\/\/www1.paybox.com\/wp-admin\/admin-ajax.php?action=pb_md_download&email=update@verifone.com&module=doc_prestashop&filename=manuel-module-prestashop-v2et.pdf"}

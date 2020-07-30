@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="E:\xampp\htdocs\kids__17\home1\themes\kids_toys\modules\ps_customersignin\ps_customersignin.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="d95cf4ab2cbf1dfb63f066b50558b07d">
+        <source>My account</source>
+        <target>My account</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\modules\ps_customersignin\ps_customersignin.tpl:3</note>
+      </trans-unit>
+      <trans-unit id="bea8d9e6a0d57c4a264756b4f9822ed9">
+        <source>My Account</source>
+        <target>My Account</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\modules\ps_customersignin\ps_customersignin.tpl:52</note>
+      </trans-unit>
+      <trans-unit id="02d4482d332e1aef3437cd61c9bcc624">
+        <source>Contact us</source>
+        <target>Contact us</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\modules\ps_customersignin\ps_customersignin.tpl:54</note>
+      </trans-unit>
+      <trans-unit id="76b133716b02dfc40f097e722075ddbd">
+        <source>My Cart</source>
+        <target>My Cart</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\modules\ps_customersignin\ps_customersignin.tpl:57</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\xampp\htdocs\kids__17\home1\themes\kids_toys\modules\ps_shoppingcart\ps_shoppingcart.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="9dea4016dbcc290b773ab2fae678aaa8">
+        <source>Items</source>
+        <target>Items</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\modules\ps_shoppingcart\ps_shoppingcart.tpl:8</note>
+      </trans-unit>
+      <trans-unit id="7d74f3b92b19da5e606d737d339a9679">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\modules\ps_shoppingcart\ps_shoppingcart.tpl:8</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\catalog\_partials\products.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="03c2e7e41ffc181a4e84080b4710e81e">
+        <source>New</source>
+        <target>New</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\catalog\_partials\products.tpl:63</note>
+      </trans-unit>
+      <trans-unit id="f2cd171bd42220283b7a595c3ff2aaaf">
+        <source>Sale</source>
+        <target>Sale</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\catalog\_partials\products.tpl:66</note>
+      </trans-unit>
+      <trans-unit id="2d0f6b8300be19cf35e89e66f0677f95">
+        <source>Add to cart</source>
+        <target>Add to cart</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\catalog\_partials\products.tpl:126</note>
+      </trans-unit>
+      <trans-unit id="b55197a49e8c4cd8c314bc2aa39d6feb">
+        <source>Out of stock</source>
+        <target>Out of stock</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\catalog\_partials\products.tpl:128</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\catalog\_partials\miniatures\product.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="c91e4ee170226d66e90f99ba917e4c20">
+        <source>Quick view</source>
+        <target>Quick view</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\catalog\_partials\miniatures\product.tpl:59</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\layouts\layout-both-columns.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="03727ac48595a24daed975559c944a44">
+        <source>Day</source>
+        <target>Day</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\layouts\layout-both-columns.tpl:56</note>
+      </trans-unit>
+      <trans-unit id="e807d3ccf8d24c8c1a3d86db5da78da8">
+        <source>Days</source>
+        <target>Days</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\layouts\layout-both-columns.tpl:57</note>
+      </trans-unit>
+      <trans-unit id="b55e509c697e4cca0e1d160a7806698f">
+        <source>Hour</source>
+        <target>Hour</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\layouts\layout-both-columns.tpl:58</note>
+      </trans-unit>
+      <trans-unit id="6a7e73161603d87b26a8eac49dab0a9c">
+        <source>Hours</source>
+        <target>Hours</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\layouts\layout-both-columns.tpl:59</note>
+      </trans-unit>
+      <trans-unit id="78d811e98514cd165dda532286610fd2">
+        <source>Min</source>
+        <target>Min</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\layouts\layout-both-columns.tpl:60</note>
+      </trans-unit>
+      <trans-unit id="64ec4942ef3d579aecd73175e8ff1885">
+        <source>Mins</source>
+        <target>Mins</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\layouts\layout-both-columns.tpl:61</note>
+      </trans-unit>
+      <trans-unit id="2d5cc554c126edb041901fa7d79b558b">
+        <source>Sec</source>
+        <target>Sec</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\layouts\layout-both-columns.tpl:62</note>
+      </trans-unit>
+      <trans-unit id="aa75f86227386200b4f644b6e4d456c0">
+        <source>Secs</source>
+        <target>Secs</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\layouts\layout-both-columns.tpl:63</note>
+      </trans-unit>
+      <trans-unit id="51ac4bf63a0c6a9cefa7ba69b4154ef1">
+        <source>Setting</source>
+        <target>Setting</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\layouts\layout-both-columns.tpl:94</note>
+      </trans-unit>
+      <trans-unit id="5ed28a3e5331982e11ed554635cea579">
+        <source>Menu list</source>
+        <target>Menu list</target>
+        <note>Context:
+File: E:\xampp\htdocs\kids__17\home1\themes\kids_toys\templates\layouts\layout-both-columns.tpl:133</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

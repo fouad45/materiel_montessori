@@ -1,0 +1,12 @@
+1.0.5
+- Création d'un template spécifique pour les versions 1.5 de Prestashop
+- Correction d'une faute d'orthographe
+
+1.0.6
+- Correction d'un bug sur les versions 1.5.3.1 de Prestashop
+
+1.0.7
+- The module is now compatible ps 1.7
+
+1.0.8
+- the mail can be now send from admin

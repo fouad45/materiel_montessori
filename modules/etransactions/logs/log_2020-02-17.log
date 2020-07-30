@@ -1,0 +1,10 @@
+2020-02-17 10:45:04 1581932704 DEBUG: URL to check 2
+2020-02-17 10:45:04 1581932704 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-02-17 10:45:04 1581932704 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-02-17 10:45:04 1581932704 DEBUG: Cart 514: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-02-17 10:47:24 1581932844 DEBUG: Call params: M=7558&R=514%20-%20Viviane%20PEDROT&T=599607834&A=396754&B=0&C=MasterCard&D=2104&E=00000&F=Y&G=O&I=FRA&J=75&N=513380&O=Y&P=3DSECURE&Q=10%3A45%3A07&S=170129924&W=17022020&Y=FRA&Z=0-0&K=3Sg1syqtijOh8kEC9ajZoVmE%2B4a5OiMN4Q74%2FyvV5T2I14Lp%2FkeWyRMujf%2FELXSkRPMFf9skGGFiPfaXt3oDsiwSWmVEP4Xyzv0U7eJTBbNbHR%2B0CN2Bz7MO52%2FfaubdKHk9K%2F2qja%2F3fuaD0dEXP07hTWlqQjV63OONqrlkTx0%3D
+2020-02-17 10:47:34 1581932844 DEBUG: Cart 514: Mixed IPN
+2020-02-17 10:47:34 1581932844 DEBUG: Cart 514: First payment
+2020-02-17 10:47:34 1581932844 DEBUG: Cart 514: Validating order
+2020-02-17 10:47:35 1581932844 DEBUG: Cart 514: Order 47 validated, creating details
+2020-02-17 10:47:35 1581932844 DEBUG: Cart 514: Order 47 / Le paiement a été autorisé et capturé par E-Transactions.

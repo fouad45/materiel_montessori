@@ -1,0 +1,17 @@
+2019-12-13 14:35:03 1576244103 DEBUG: URL to check 2
+2019-12-13 14:35:03 1576244103 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-12-13 14:35:06 1576244103 DEBUG:   Exception Exception: Could not resolve host: tpeweb.e-transactions.fr
+2019-12-13 14:35:06 1576244103 DEBUG: Checking E-Transactions URL https://tpeweb1.e-transactions.fr/load.html
+2019-12-13 14:35:06 1576244103 DEBUG:   Valid url found: https://tpeweb1.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2019-12-13 14:35:06 1576244103 DEBUG: Cart 323: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2019-12-13 14:36:32 1576244192 DEBUG: Call params: M=9398&R=323%20-%20elodie%20lauriere&T=439010582&A=246159&B=0&C=MasterCard&D=2211&E=00000&F=Y&G=O&I=FRA&J=21&N=513162&O=Y&P=3DSECURE&Q=14%3A35%3A07&S=450636869&W=13122019&Y=FRA&Z=0-0&K=KPWlgymi7IPVcGncfSoxegTz8pmo0RlCl0Xq6%2FCnDLoFsNU%2BovPDO5th2U0fwHTKG3VyG1ZZvzYtKexBGB4lopLjz6r9sWMmpjCOur4ZK6z9x68cPZ6si3RG2YOPllKe5tsduni%2FAIGi5GsN8e3r%2F6ME3XLSSn1OWq%2FnDfPcHEE%3D
+2019-12-13 14:36:39 1576244199 DEBUG: Cart 323: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2019-12-13 14:36:40 1576244200 DEBUG: Cart 323: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2019-12-13 14:36:42 1576244202 DEBUG: Cart 323: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2019-12-13 14:36:42 1576244192 DEBUG: Cart 323: Mixed IPN
+2019-12-13 14:36:42 1576244192 DEBUG: Cart 323: First payment
+2019-12-13 14:36:42 1576244192 DEBUG: Cart 323: Validating order
+2019-12-13 14:36:43 1576244203 DEBUG: Cart 323: Customer is back from E-Transactions payment page. Waiting order validation (loop 3).
+2019-12-13 14:36:43 1576244192 DEBUG: Cart 323: Order 34 validated, creating details
+2019-12-13 14:36:43 1576244192 DEBUG: Cart 323: Order 34 / Le paiement a été autorisé et capturé par E-Transactions.
+2019-12-13 14:36:45 1576244205 DEBUG: Cart 323: Customer is back from E-Transactions payment page. Payment success.

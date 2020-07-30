@@ -1,0 +1,4 @@
+- il faudrait pouvoir restreindre les devises (module > paiement > en bas restreindre les devises)
+
+- rajouter dans la notice du module ça:
+https://www.evernote.com/shard/s510/nl/89628694/43ccb2b6-0be3-420b-995e-02b61bf11639

@@ -1,0 +1,22 @@
+2020-07-02 00:17:05 1593641825 DEBUG: URL to check 2
+2020-07-02 00:17:05 1593641825 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-02 00:17:05 1593641825 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-07-02 00:17:05 1593641825 DEBUG: Cart 879: Redirecting customer to E-Transactions (CARTE, CB).
+2020-07-02 00:18:37 1593641917 DEBUG: Call params: M=10557&R=879%20-%20Amandine%20Zukow-Regnier&T=1485678141&A=742486&B=0&C=Visa&D=2110&E=00000&F=Y&G=O&I=FRA&J=68&N=497568&O=Y&P=3DSECURE&Q=00%3A17%3A07&S=337129932&W=02072020&Y=FRA&Z=0-0&K=YO5d9Kdpd8tMkk9aRm1S%2B6oJZSEOYyH0j5hR4hsTyZxhgxTtQ1rakexgRLIdcYooySj%2BSXRFiVu3omqfKqcdYSxGC1CLInSpyz%2FsTVIQI3j4%2BNWL0JQ1x%2FPsYp%2FhMZlLz1KT36OC2oyPnZts%2B0f1J9G%2BxGfq1lt1EMit1ggiduA%3D
+2020-07-02 00:18:47 1593641917 DEBUG: Cart 879: Mixed IPN
+2020-07-02 00:18:47 1593641917 DEBUG: Cart 879: First payment
+2020-07-02 00:18:47 1593641917 DEBUG: Cart 879: Validating order
+2020-07-02 00:18:48 1593641917 DEBUG: Cart 879: Order 90 validated, creating details
+2020-07-02 00:18:48 1593641917 DEBUG: Cart 879: Order 90 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-07-02 00:19:08 1593641948 DEBUG: Cart 879: Customer is back from E-Transactions payment page. Payment success.
+2020-07-02 22:53:31 1593723211 DEBUG: URL to check 2
+2020-07-02 22:53:31 1593723211 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-07-02 22:53:31 1593723211 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-07-02 22:53:31 1593723211 DEBUG: Cart 881: Redirecting customer to E-Transactions (CARTE, CB).
+2020-07-02 22:54:36 1593723276 DEBUG: Call params: M=10041&R=881%20-%20Valerie%20Trouillet&T=1485905758&A=543229&B=0&C=Visa&D=2009&E=00000&F=Y&G=O&I=FRA&J=66&N=497607&O=Y&P=3DSECURE&Q=22%3A53%3A32&S=337349421&W=02072020&Y=FRA&Z=0-0&K=VdW0W7A0VG3vVIR%2BIas5bCZGbe8a5j6HPy008lSmuPwEYujEue9eYItz2O6ZDSbmO%2BqGB9nJmqOn%2FVw%2BeLlLmROBXmsC6%2F8%2FLrnC%2BijFDu3ssqLRn7a7D5ftmb9lHdv9yw8L9600%2BIpK4fyaHU5h%2Fv40G2l%2BP09QYPdw6rqi0so%3D
+2020-07-02 22:54:46 1593723276 DEBUG: Cart 881: Mixed IPN
+2020-07-02 22:54:46 1593723276 DEBUG: Cart 881: First payment
+2020-07-02 22:54:46 1593723276 DEBUG: Cart 881: Validating order
+2020-07-02 22:54:47 1593723276 DEBUG: Cart 881: Order 91 validated, creating details
+2020-07-02 22:54:47 1593723276 DEBUG: Cart 881: Order 91 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-07-02 22:55:18 1593723318 DEBUG: Cart 881: Customer is back from E-Transactions payment page. Payment success.

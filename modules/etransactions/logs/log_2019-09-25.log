@@ -1,0 +1,34 @@
+2019-09-25 12:59:33 1569409173 DEBUG: URL to check 2
+2019-09-25 12:59:33 1569409173 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-09-25 12:59:33 1569409173 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-09-25 12:59:33 1569409173 DEBUG: Cart 72: Redirecting customer to E-Transactions (CARTE, VISA).
+2019-09-25 13:00:28 1569409228 DEBUG: Call params: M=3659&R=72%20-%20Tijani%20Seddiki&T=545679278&B=0&C=CB&D=2111&E=00041&G=N&I=FRA&J=66&N=497355&O=Y&P=CARTE&Q=12%3A59%3A33&S=130988153&W=25092019&Z=0-0&K=Y%2FWRFfPdqaEme%2BHOpCa%2BaAw6hY2n%2BLHNUF2kUoP%2Bw01ngkk%2FZzCTWDXW0acnarq%2FfWlNuKja1h7BBoadf%2FlXwxmGyq%2B7t6wZTum6yi9ExIeUccyrnMagiurDSzspBk9jzQVCAtweuJ048U39abhSQ8jZvQRmBMh3uTJBU3PunTM%3D
+2019-09-25 13:00:38 1569409228 DEBUG: Cart 72: (IPN) Payment was refused by E-Transactions (41).
+2019-09-25 13:02:19 1569409339 DEBUG: Call params: M=3659&R=72%20-%20Tijani%20Seddiki&T=545679278&B=0&C=CB&D=2111&E=00041&G=N&I=FRA&J=66&N=497355&O=Y&P=CARTE&Q=12%3A59%3A33&S=130988552&W=25092019&Z=0-0&K=X2zl9XsHrhzE3XEdIJzC0o2kMQqiOfdMIZBag3I%2BxwRm0luIS%2FNTk%2Bn5K%2B9ijphp1bbG6eMsdfZm6cZqv1LmRmyjMhUwFxjpRP2X2BS5GcY%2FAUeqr87G0a2lt7%2BTA7A87icWEF6avfYHCMLKwAUSZybLln4C22W0yM%2BF1nTC8oA%3D
+2019-09-25 13:02:29 1569409339 DEBUG: Cart 72: (IPN) Payment was refused by E-Transactions (41).
+2019-09-25 13:07:31 1569409651 DEBUG: URL to check 2
+2019-09-25 13:07:31 1569409651 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-09-25 13:07:31 1569409651 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-09-25 13:07:31 1569409651 DEBUG: Cart 72: Redirecting customer to E-Transactions (CARTE, VISA).
+2019-09-25 13:08:45 1569409725 DEBUG: Call params: M=3659&R=72%20-%20Tijani%20Seddiki&T=545679278&A=614143&B=0&C=Visa&D=2111&E=00000&F=Y&G=O&I=FRA&J=66&N=497355&O=Y&P=CARTE&Q=12%3A59%3A33&S=130990254&W=25092019&Y=FRA&Z=0-0&K=emOxE%2FNYbFg7ogf%2B42XW3Q9vxBm%2FFvzoxUgR0EDjxijdnfUKqqDhPX4jW1pN24WgfbSjOUOcYmkVTLiRW6A%2Bh%2F8Au9vON0o2Sq3lcEZUarf0vGwlEdlZkddhG9tuz8A571ZCE3%2B0IiaOM8tA84DAzTXE3vdIgLXM1UP8nSvQgo4%3D
+2019-09-25 13:08:52 1569409732 DEBUG: Cart 72: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2019-09-25 13:08:53 1569409733 DEBUG: Cart 72: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2019-09-25 13:08:54 1569409734 DEBUG: Cart 72: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2019-09-25 13:08:55 1569409725 DEBUG: Cart 72: Mixed IPN
+2019-09-25 13:08:55 1569409725 DEBUG: Cart 72: First payment
+2019-09-25 13:08:55 1569409725 DEBUG: Cart 72: Validating order
+2019-09-25 13:08:56 1569409736 DEBUG: Cart 72: Customer is back from E-Transactions payment page. Waiting order validation (loop 3).
+2019-09-25 13:08:56 1569409725 DEBUG: Cart 72: Order 16 validated, creating details
+2019-09-25 13:08:56 1569409725 DEBUG: Cart 72: Order 16 / Le paiement a été autorisé et capturé par E-Transactions.
+2019-09-25 13:08:57 1569409737 DEBUG: Cart 72: Customer is back from E-Transactions payment page. Payment success.
+2019-09-25 16:45:19 1569422719 DEBUG: URL to check 2
+2019-09-25 16:45:19 1569422719 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2019-09-25 16:45:20 1569422719 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYframepagepaiement_ip.cgi
+2019-09-25 16:45:20 1569422719 DEBUG: Cart 47: Redirecting customer to E-Transactions (CARTE, VISA).
+2019-09-25 16:47:01 1569422821 DEBUG: Call params: M=3839&R=47%20-%20Said%20El%20Messaoudi&T=545768738&A=880732&B=0&C=Visa&D=2209&E=00000&F=Y&G=O&I=FRA&J=13&N=497993&O=Y&P=CARTE&Q=16%3A45%3A20&S=131060317&W=25092019&Y=FRA&Z=0-0&K=p%2FNiZ51pfYpj3GvmgrPbp2lUcvSKKd2QHJYYRlRSLkAZh3t5OevtTg6KCVvzJW4EKzlGmiyfaZpnQRN4UkTeYeOGuAq6Hr5L7hZMeVe42%2FoH8wvC8O3AKJMTMAOtB%2FBzgatWX0mrTIR82MYDJNBPSfmB3ZSmuRo5lwidz3ucNTQ%3D
+2019-09-25 16:47:11 1569422821 DEBUG: Cart 47: Mixed IPN
+2019-09-25 16:47:12 1569422821 DEBUG: Cart 47: First payment
+2019-09-25 16:47:12 1569422821 DEBUG: Cart 47: Validating order
+2019-09-25 16:47:12 1569422821 DEBUG: Cart 47: Order 17 validated, creating details
+2019-09-25 16:47:12 1569422821 DEBUG: Cart 47: Order 17 / Le paiement a été autorisé et capturé par E-Transactions.
+2019-09-25 16:47:15 1569422835 DEBUG: Cart 47: Customer is back from E-Transactions payment page. Payment success.

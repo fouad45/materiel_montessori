@@ -1,0 +1,10 @@
+2020-02-02 11:48:08 1580640487 DEBUG: URL to check 2
+2020-02-02 11:48:08 1580640487 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-02-02 11:48:08 1580640487 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-02-02 11:48:08 1580640487 DEBUG: Cart 495: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-02-02 11:50:17 1580640617 DEBUG: Call params: M=15596&R=495%20-%20Anne%20Bellat&T=593902567&A=385954&B=0&C=E_CARD&D=2004&E=00000&F=Y&G=O&I=FRA&J=07&N=513029&O=Y&P=3DSECURE&Q=11%3A48%3A09&S=165884299&W=02022020&Y=FRA&Z=0-0&K=RCFhLNMIAH8qvFCYZ4vQMjPwjfiaJMx6uaa%2BTXIAumivE%2FCCAcmxHF7hxySC03t6zbH%2FXF1BrmgScALk9qeDY1DTaEVW6J%2BcAOdbAuRhrHgk0AO7L%2BI82a%2FmWkGniE5Gx8H15arfH35%2B7slmdGI7WRfYXy9cVGt4r2BiH5nBCZ0%3D
+2020-02-02 11:50:27 1580640617 DEBUG: Cart 495: Mixed IPN
+2020-02-02 11:50:27 1580640617 DEBUG: Cart 495: First payment
+2020-02-02 11:50:27 1580640617 DEBUG: Cart 495: Validating order
+2020-02-02 11:50:29 1580640617 DEBUG: Cart 495: Order 44 validated, creating details
+2020-02-02 11:50:29 1580640617 DEBUG: Cart 495: Order 44 / Le paiement a été autorisé et capturé par E-Transactions.

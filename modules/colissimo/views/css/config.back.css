@@ -1,0 +1,260 @@
+/* TAB INTRO */
+
+#bo-colissimo #intro p, #bo-colissimo #intro ul li {
+    font-size: 13px;
+}
+
+#bo-colissimo #intro h1 {
+    text-transform: uppercase;
+}
+
+#bo-colissimo #intro .colissimo-background {
+    background-size: cover;
+    background: #ffffff url(../img/intro/bo-intro-background.png) no-repeat 100%;
+    background-position-x: 0;
+    background-position-y: 0;
+    padding-left: 10px;
+    color: black;
+}
+
+#bo-colissimo #intro .colissimo-btn {
+    background: #ec6707;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+#bo-colissimo #intro p.text-intro {
+    margin: 15px 0;
+}
+
+#bo-colissimo #intro p.colissimo-link a {
+    color: #ec6707;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#bo-colissimo #intro .colissimo-step {
+    position: relative;
+    padding-left: 25px;
+    margin-top: 25px;
+}
+
+#bo-colissimo #intro .colissimo-step img {
+    position: absolute;
+    width: 16px;
+    left: 0;
+    top: 4px;
+}
+
+#bo-colissimo #intro .colissimo-step .step-title {
+    font-size: 18px;
+    font-family: "Ubuntu Condensed", Helvetica, Arial, sans-serif;
+}
+
+#bo-colissimo #intro .colissimo-step ul {
+    padding-left: 15px;
+}
+
+#bo-colissimo #intro .colissimo-step ul li {
+    list-style-type: square;
+    color: #ec6707;
+}
+
+#bo-colissimo #intro .colissimo-step ul li:first-line {
+    color: black;
+}
+
+#bo-colissimo #intro .colissimo-step .step-text {
+
+}
+
+/* TAB ACCOUNT */
+
+.colissimo-box {
+    width: 540px;
+}
+
+.colissimo-box-title {
+    font-size: 12pt;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#colissimo-sender-config-form .colissimo-mobile-valid,
+#colissimo-sender-config-form .colissimo-mobile-invalid,
+#colissimo-return-config-form .colissimo-mobile-valid,
+#colissimo-return-config-form .colissimo-mobile-invalid {
+    width: 15px;
+    vertical-align: middle;
+}
+
+.colissimo-return-address {
+    margin-bottom: 20px;
+}
+
+.iti__country-list {
+    z-index: 10 !important;
+}
+
+@media (min-width: 1200px) {
+    .validate-phone {
+        position: relative;
+    }
+
+    #colissimo-return-config-form .form-group .control-label.col-lg-3,
+    #colissimo-sender-config-form .form-group .control-label.col-lg-3 {
+        width: 125px;
+    }
+
+    #colissimo-return-config-form .form-group .col-lg-9,
+    #colissimo-return-config-form .form-group .col-lg-9,
+    #colissimo-sender-config-form .form-group .col-lg-9,
+    #colissimo-sender-config-form ps-select .form-group .col-lg-9 {
+        width: auto !important;
+    }
+
+    .colissimo-mobile-valid.js-colissimo-mobile-valid,
+    .colissimo-mobile-invalid.js-colissimo-mobile-invalid {
+        position: absolute;
+        top: 5px;
+        left: 335px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1099px) {
+    .validate-phone {
+        position: relative;
+    }
+
+    .colissimo-mobile-valid.js-colissimo-mobile-valid,
+    .colissimo-mobile-invalid.js-colissimo-mobile-invalid {
+        position: absolute;
+        top: 30px;
+        left: 205px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1099px) {
+    .validate-phone {
+        position: relative;
+    }
+
+    .colissimo-mobile-valid.js-colissimo-mobile-valid,
+    .colissimo-mobile-invalid.js-colissimo-mobile-invalid {
+        position: absolute;
+        top: 30px;
+        left: 205px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1099px) {
+    .validate-phone {
+        position: relative;
+    }
+
+    .colissimo-mobile-valid.js-colissimo-mobile-valid,
+    .colissimo-mobile-invalid.js-colissimo-mobile-invalid {
+        position: absolute;
+        top: 30px;
+        left: 165px;
+    }
+}
+
+/* TAB FO */
+
+div.brexit-intro {
+    display: flex;
+    margin-bottom: 50px;
+    font-weight: bold;
+    padding: 20px 70px;
+    border: 2px solid darkred;
+}
+
+div.brexit-intro img {
+    width: 60px;
+    height: 36px;
+    margin-right: 15px;
+}
+
+div.brexit-intro p {
+    color: darkred;
+}
+
+div.colissimo-subtitle {
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-top: 15px;
+    text-transform: uppercase;
+    font-family: "Ubuntu Condensed", Helvetica, Arial, sans-serif;
+}
+
+/* TAB BO */
+
+.colissimo-generate-label-prestashop label {
+    font-size: 9px;
+}
+
+.colissimo-postage-mode-manual label {
+    font-size: 11px;
+}
+
+/* TAB FILES MANAGEMENT */
+
+.colissimo-docs-disk-usage > div {
+    padding-top: 8px;
+}
+
+.colissimo-docs-disk-usage > div > span {
+    font-weight: bold;
+}
+
+/* MIGRATION */
+
+#colissimo-migration .colissimo-migration-title {
+    text-transform: uppercase;
+    border-bottom: 1px solid;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#colissimo-migration .colissimo-maintenance {
+    margin: 15px 0;
+    display: block;
+    font-size: 14px;
+    color: darkred;
+}
+
+#colissimo-migration .colissimo-migration-question {
+    margin: 25px 0;
+}
+
+#colissimo-migration .colissimo-migration-step2 .migration-intro {
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+#colissimo-migration .colissimo-migration-step2 ul li {
+    list-style-type: none;
+}
+
+#colissimo-migration .colissimo-migration-step2 ul li.current {
+    font-weight: bold;
+}
+
+#colissimo-migration .colissimo-migration-step2 ul li i.icon-check {
+    color: lightgrey;
+}
+
+#colissimo-migration .colissimo-migration-step2 ul li.done i {
+    color: green;
+}
+
+#colissimo-migration .colissimo-migration-step2 #colissimo-migration-result {
+    margin-top: 30px;
+}
+
+#colissimo-migration .colissimo-migration-step2 #colissimo-migration-result a {
+    margin-top: 20px;
+}

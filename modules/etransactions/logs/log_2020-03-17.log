@@ -1,0 +1,14 @@
+2020-03-17 13:40:40 1584448840 DEBUG: URL to check 2
+2020-03-17 13:40:40 1584448840 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2020-03-17 13:40:41 1584448840 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2020-03-17 13:40:41 1584448840 DEBUG: Cart 564: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2020-03-17 13:42:36 1584448956 DEBUG: Call params: M=5150&R=564%20-%20Celine%20Tissot&T=909004391&A=071262&B=0&C=MasterCard&D=2212&E=00000&F=Y&G=O&I=FRA&J=54&N=513648&O=Y&P=3DSECURE&Q=13%3A40%3A43&S=177227145&W=17032020&Y=FRA&Z=0-0&K=Rq34bdsdBhtm1P4Mdj9ztNGqJkRkfPhXPZzqJ9LmXQtJ5xC5aESRq34zVVF8bUDrOFlGPTbYb2ztcdbx1qzFaSVUW7NkEZF%2FAePN65kJHjMMwIPfkI4If6w8TfkkGCG722OxsAjQASCAHHh57uVokYexJEtlG1Zfhf%2B1GZf7Suk%3D
+2020-03-17 13:42:44 1584448964 DEBUG: Cart 564: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2020-03-17 13:42:45 1584448965 DEBUG: Cart 564: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2020-03-17 13:42:46 1584448956 DEBUG: Cart 564: Mixed IPN
+2020-03-17 13:42:46 1584448956 DEBUG: Cart 564: First payment
+2020-03-17 13:42:46 1584448956 DEBUG: Cart 564: Validating order
+2020-03-17 13:42:47 1584448967 DEBUG: Cart 564: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2020-03-17 13:42:47 1584448956 DEBUG: Cart 564: Order 57 validated, creating details
+2020-03-17 13:42:47 1584448956 DEBUG: Cart 564: Order 57 / Le paiement a été autorisé et capturé par E-Transactions.
+2020-03-17 13:42:48 1584448968 DEBUG: Cart 564: Customer is back from E-Transactions payment page. Payment success.

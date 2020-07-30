@@ -1,0 +1,162 @@
+#form-touchize_main_menu {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: -ms-flex;
+    display: flex;
+    margin-top: 20px;
+}
+.navigation-top-container {
+    border: solid 1px #00aff0;
+    height:500px;
+    overflow-y: scroll;
+    padding: 5px;
+    margin: 5px;
+    width: 100%;
+}
+.navigation-top-container.wizard {
+    border:solid 1px #ddd;
+ 
+}
+.flex-display {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: -ms-flex;
+    display: flex;
+}
+.align-items-center {
+    -webkit-align-items: center;
+    -ms-align-items: center;
+    align-items: center;
+}
+
+/* jquery.nestable.js */
+
+.dd {
+    position: relative;
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 13px;
+    line-height: 20px;
+}
+.dd-list {
+    display: flex;
+    flex-flow: column nowrap;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.dd-list .dd-list {
+    padding-left: 30px;
+}
+.dd-dragel {
+    position: absolute;
+    pointer-events: none;
+    z-index: 9999;
+}
+.dd-item, .dd-empty, .dd-placeholder {
+    display: block;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    min-height: 20px;
+    font-size: 13px;
+    line-height: 20px;
+}
+.dd-item {
+    cursor: move;
+}
+.dd-placeholder, .dd-empty {
+    padding: 0;
+    min-height: 30px;
+    background: #f2fbff;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.dd-empty {
+    border: 1px dashed #abe6ff
+}
+.dd-placeholder {
+    margin: 5px 0;
+    border: 1px dashed #abe6ff;
+}
+.dd-empty, #selected-items > ol {
+    margin: 0;
+    min-height: 100%;
+}
+.dd-handle {
+    display: block;
+    height: 30px;
+    margin: 0 0 5px 0;
+    padding: 5px 10px;
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    background: #fff;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.dd-handle:hover {
+    color: #00aff0;
+    border: 1px solid #00aff0;
+}
+.dd-item > button[data-action="collapse"]::before {
+    content: '\0025BE';
+    font-size: 15px;
+}
+.dd-item > button[data-action="expand"]::before {
+    content: '\0025BE';
+    transform: rotate(-90deg);
+    font-size: 15px;
+}
+.dd-item > button::before {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.dd-item > button {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    float: left;
+    width: 25px;
+    height: 20px;
+    margin: 5px 0;
+    padding: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    border: 0;
+    background: transparent;
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+}
+.dd-item > button[data-action="delete"]:hover {
+    color: #f00;
+}
+.dd-item > button[data-action="collapse"]:hover,.dd-item > button[data-action="expand"]:hover  {
+    color: #00aff0;
+}
+.dd-item > button[data-action="delete"]::before {
+    content: '\00002B';
+    transform: rotate(45deg);
+    font-size: 25px;
+
+}
+.dd-item > button[data-action="delete"] {
+    float: right;
+}
+#allowed-items button[data-action="delete"] {
+    display: none;
+}
+#selected-items {
+    height: 100%;
+}
+#selected-items > ol > li:last-child {
+    flex-grow: 1;
+}
